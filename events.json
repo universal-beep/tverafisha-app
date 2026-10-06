@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T13:00:15+03:00",
+ "generated_at": "2026-10-06T14:28:09+03:00",
  "window": {
   "start": "2026-10-06",
   "end": "2026-10-19"
@@ -18,6 +18,19 @@
  ],
  "failed_sources": [],
  "events": [
+  {
+   "id": "f48de094f9",
+   "title": "Выставка «У родного очага»",
+   "date": "2026-09-18",
+   "end": "2026-11-22",
+   "time": "10:00",
+   "category": "Выставки и экскурсии",
+   "place": "Мемориально-художественный музей В. А. Серова, пос. Эммаусс, д. 29",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_17943",
+   "also": [],
+   "source": "tvergallery"
+  },
   {
    "id": "9c855b6785",
    "title": "Основные финансовые ошибки и как их избежать",
@@ -43,6 +56,19 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "aaa7bb32d8",
+   "title": "Познавательная программа «Красная книга класса»",
+   "date": "2026-10-06",
+   "end": null,
+   "time": "13:00",
+   "category": "Детям",
+   "place": "МБУ «Дворец культуры посёлка Литвинки»",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118382",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "ae7d7b81e5",
@@ -84,6 +110,19 @@
    "url": "https://vk.ru/wall-38565348_88897",
    "also": [],
    "source": "spravkatver"
+  },
+  {
+   "id": "46b6b47566",
+   "title": "Танцевальная группа",
+   "date": "2026-10-06",
+   "end": null,
+   "time": "19:00",
+   "category": "Мастер-классы",
+   "place": "Орджоникидзе, 21",
+   "price": "около 200 ₽",
+   "url": "https://vk.ru/wall6713759_16456",
+   "also": [],
+   "source": "kakao_champion"
   },
   {
    "id": "ba084246bd",
@@ -135,9 +174,39 @@
    "price": null,
    "url": "https://vk.ru/wall-38565348_88985",
    "also": [
+    "https://vk.ru/wall-35652362_18040",
+    "https://vk.ru/wall-35652362_17977",
     "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/"
    ],
    "source": "spravkatver"
+  },
+  {
+   "id": "8e8514d190",
+   "title": "Выставка «Авангард. Живопись и графика из коллекции Тульского музея изобразительных искусств»",
+   "date": "2026-10-02",
+   "end": "2026-12-06",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, зал 2-32, ул. Советская, д. 3, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_18013",
+   "also": [
+    "https://vk.ru/wall-35652362_17971"
+   ],
+   "source": "tvergallery"
+  },
+  {
+   "id": "5989e8cde5",
+   "title": "Выставка «И звенят, звенят коклюшки…»",
+   "date": "2026-09-26",
+   "end": "2026-11-25",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Кашинский краеведческий музей, г. Кашин, Бассейная пл., д. 5",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15535",
+   "also": [],
+   "source": "tvermuzeum"
   },
   {
    "id": "9cec87bb59",
@@ -146,11 +215,37 @@
    "end": "2026-10-31",
    "time": null,
    "category": "Выставки и экскурсии",
-   "place": "Музейно-выставочный центр имени Лизы Чайкиной, ул. Салтыкова-Щедрина, 16",
+   "place": "Музейно-выставочный центр имени Лизы Чайкиной, ул. Салтыкова-Щедрина, 16, Тверь",
    "price": null,
    "url": "https://tverlife.ru/mesta/v-tveri-otkroetsja-vystavka-kukol-i-remjosel-studii-suprjadki/",
    "also": [],
    "source": "tverlife.ru"
+  },
+  {
+   "id": "716214bcbd",
+   "title": "Выставка «Пернатые путешественники»",
+   "date": "2026-10-06",
+   "end": "2026-10-27",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверская областная универсальная научная библиотека им. А. М. Горького",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15546",
+   "also": [],
+   "source": "tvermuzeum"
+  },
+  {
+   "id": "c26c87af3a",
+   "title": "Выставка «Различности»",
+   "date": "2026-10-06",
+   "end": "2026-11-08",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Выставочный зал Музея М. Е. Салтыкова-Щедрина",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15549",
+   "also": [],
+   "source": "tvermuzeum"
   },
   {
    "id": "df3f70935c",
@@ -181,17 +276,49 @@
    "source": "spravkatver"
   },
   {
+   "id": "71aa7730d4",
+   "title": "Выставка «Связь поколений»",
+   "date": "2026-09-22",
+   "end": "2026-10-13",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "арт-цоколь музея",
+   "price": null,
+   "url": "https://vk.ru/wall-221251433_4783",
+   "also": [
+    "https://vk.ru/wall-221251433_4782",
+    "https://vk.ru/wall-221251433_4778",
+    "https://vk.ru/wall-221251433_4761"
+   ],
+   "source": "club221251433"
+  },
+  {
    "id": "8e8e3700ab",
    "title": "Выставка «Связь поколений»",
    "date": "2026-10-06",
    "end": "2026-10-13",
    "time": null,
    "category": "Выставки и экскурсии",
-   "place": "Музей живописи В. М. Сидорова «На тёплой земле»",
+   "place": "Арт-цоколь музея",
    "price": null,
-   "url": "https://tverlife.ru/mesta/ot-opery-k-zhivopisi-vystavka-o-tvorcheskoj-preemstvennosti-otkrylas-v-tveri/",
+   "url": "https://vk.ru/wall-221251433_4760",
+   "also": [
+    "https://tverlife.ru/mesta/ot-opery-k-zhivopisi-vystavka-o-tvorcheskoj-preemstvennosti-otkrylas-v-tveri/"
+   ],
+   "source": "club221251433"
+  },
+  {
+   "id": "03d829b38e",
+   "title": "Выставка «Страницы реставрации. Гравюра»",
+   "date": "2026-10-06",
+   "end": null,
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, ул. Советская, д.3, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_17959",
    "also": [],
-   "source": "tverlife.ru"
+   "source": "tvergallery"
   },
   {
    "id": "6f2f3798e0",
@@ -233,6 +360,34 @@
    "source": "tverlife.ru"
   },
   {
+   "id": "e86b6931f5",
+   "title": "Выставка фотографий Александра Конькова",
+   "date": "2026-10-06",
+   "end": "2027-01-10",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Музей-Фотолаборатория XIX века",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-215199548_443",
+   "also": [],
+   "source": "19vek"
+  },
+  {
+   "id": "add921ae34",
+   "title": "Земля, что сердцу дорога",
+   "date": "2026-10-06",
+   "end": "2026-11-15",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской краеведческий музей",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15536",
+   "also": [
+    "https://vk.ru/wall-22098014_15514"
+   ],
+   "source": "tvermuzeum"
+  },
+  {
    "id": "c8b1a6cce0",
    "title": "Мелочи жизни",
    "date": "2026-10-06",
@@ -244,6 +399,32 @@
    "url": "https://tverlife.ru/sobytija/tverskih-zritelej-udivit-novaja-postanovka-melochi-zhizni/",
    "also": [],
    "source": "tverlife.ru"
+  },
+  {
+   "id": "2adbf07070",
+   "title": "Очарование Востока: Китай в предметах и живописи",
+   "date": "2026-10-06",
+   "end": "2026-10-14",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Музей тверского быта, ул. Горького, д. 19/4, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15533",
+   "also": [],
+   "source": "tvermuzeum"
+  },
+  {
+   "id": "cdbc6f54f4",
+   "title": "Передвижная уличная выставка Тверской областной картинной галереи",
+   "date": "2026-10-06",
+   "end": "2026-10-18",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Центр специализированных видов медицинской помощи имени В. П. Аваева, ул. Софьи Перовской, 54, Тверь",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-35652362_17934",
+   "also": [],
+   "source": "tvergallery"
   },
   {
    "id": "8c439228d7",
@@ -324,6 +505,19 @@
    "source": "tverbesplatno"
   },
   {
+   "id": "fd744509e5",
+   "title": "Женское фольклорное пение",
+   "date": "2026-10-07",
+   "end": null,
+   "time": "18:00",
+   "category": "Мастер-классы",
+   "place": "Детский музейный центр",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15506",
+   "also": [],
+   "source": "tvermuzeum"
+  },
+  {
    "id": "733855949a",
    "title": "Шейкер квиз: Спорт",
    "date": "2026-10-07",
@@ -352,6 +546,19 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "61689744c7",
+   "title": "Доходное место",
+   "date": "2026-10-07",
+   "end": null,
+   "time": null,
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://tverlife.ru/sobytija/tverskih-zritelej-udivit-novaja-postanovka-dohodnoe-mesto/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
    "id": "5120753006",
    "title": "Наследие женщин-новаторов: от истоков к будущему",
    "date": "2026-10-08",
@@ -365,6 +572,19 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "16e42cd71c",
+   "title": "Дюймовочка",
+   "date": "2026-10-08",
+   "end": null,
+   "time": "11:00",
+   "category": "Детям",
+   "place": "Тверской государственный театр кукол, пр-т Победы, д. 9",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118315",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "d0c044f450",
    "title": "День открытых дверей в Центре юных техников",
    "date": "2026-10-08",
@@ -374,7 +594,9 @@
    "place": "Тверской областной Центр юных техников, ул. 6-я Красной Слободы, д. 50",
    "price": "бесплатно",
    "url": "https://vk.ru/wall-38565348_88995",
-   "also": [],
+   "also": [
+    "https://vk.ru/wall-83486606_118428"
+   ],
    "source": "spravkatver"
   },
   {
@@ -388,22 +610,52 @@
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
    "also": [
+    "https://vk.ru/wall-83486606_118256",
+    "https://tverlife.ru/music/festival-muzykalnaja-osen-v-tveri-koncert-shedevrov-chajkovskogo-v-filarmonii/",
     "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
    ],
    "source": "spravkatver"
   },
   {
-   "id": "1c17649290",
-   "title": "Концерт шедевров Чайковского в филармонии",
+   "id": "e3bb045f2a",
+   "title": "1/16 финала Кубка России по баскетболу: Тверь — БК «Югра»",
    "date": "2026-10-08",
    "end": null,
-   "time": "18:30",
-   "category": "Концерты и музыка",
-   "place": "Тверская академическая областная филармония",
+   "time": "18:45",
+   "category": "Прочее",
+   "place": "Маршала Конева, 12",
    "price": null,
-   "url": "https://tverlife.ru/music/festival-muzykalnaja-osen-v-tveri-koncert-shedevrov-chajkovskogo-v-filarmonii/",
+   "url": "https://vk.ru/wall-164426939_36364",
    "also": [],
-   "source": "tverlife.ru"
+   "source": "club164426939"
+  },
+  {
+   "id": "a13ac3291c",
+   "title": "Баскетбол: Тверь — Югра, 1/16 Кубка России",
+   "date": "2026-10-08",
+   "end": null,
+   "time": "18:45",
+   "category": "Прочее",
+   "place": "ул. Маршала Конева, 12",
+   "price": null,
+   "url": "https://vk.ru/wall-164426939_36433",
+   "also": [
+    "https://vk.ru/wall-164426939_36379"
+   ],
+   "source": "club164426939"
+  },
+  {
+   "id": "a0aed91c6c",
+   "title": "Бег 5 км",
+   "date": "2026-10-08",
+   "end": null,
+   "time": "19:00",
+   "category": "Прочее",
+   "place": "двор",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-221788572_371",
+   "also": [],
+   "source": "kusskebap"
   },
   {
    "id": "3731b43af5",
@@ -417,6 +669,19 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "8fd69093e1",
+   "title": "Коллаж из летних моментов с Максом Поляковым",
+   "date": "2026-10-08",
+   "end": null,
+   "time": "19:00",
+   "category": "Мастер-классы",
+   "place": "Levels, б-р Радищева, 31а",
+   "price": "2500 ₽",
+   "url": "https://vk.ru/wall-228284909_643",
+   "also": [],
+   "source": "club228284909"
   },
   {
    "id": "d98e74c013",
@@ -465,6 +730,45 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "4e96300c51",
+   "title": "Танцевальная группа",
+   "date": "2026-10-08",
+   "end": null,
+   "time": "20:00",
+   "category": "Мастер-классы",
+   "place": "Орджоникидзе, 21",
+   "price": "около 200 ₽",
+   "url": "https://vk.ru/wall6713759_16456",
+   "also": [],
+   "source": "kakao_champion"
+  },
+  {
+   "id": "6197ee6776",
+   "title": "Кубок России 1/16. Тверь-Политех — Югра",
+   "date": "2026-10-08",
+   "end": null,
+   "time": null,
+   "category": "Прочее",
+   "place": "Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-164426939_36359",
+   "also": [],
+   "source": "club164426939"
+  },
+  {
+   "id": "5d0fb3c045",
+   "title": "Сказочный малышник «Ушастая история или секрет вкусной капусты» (1–2 года)",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "11:00",
+   "category": "Детям",
+   "place": "Детский центр развития «Бусинка», ул. Резинстроя, д. 7",
+   "price": "500 ₽",
+   "url": "https://vk.ru/wall-83486606_118376",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "21a8a7b5ca",
    "title": "Творческая встреча с членом Союза художников России Михаилом Стоячко",
    "date": "2026-10-09",
@@ -476,6 +780,19 @@
    "url": "https://tverlib.ru/ru/event/2026/20261009/",
    "also": [],
    "source": "tverlib.ru"
+  },
+  {
+   "id": "8f2ce59963",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "17:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "285cc04a9f",
@@ -491,6 +808,19 @@
    "source": "lisiedom"
   },
   {
+   "id": "4c277ca0d2",
+   "title": "Кампания по системе Things from the Flood",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "18:30",
+   "category": "Прочее",
+   "place": "Клуб Roleplay Loft, ул. Медниковская, 55/25, 3 этаж",
+   "price": "450 ₽",
+   "url": "https://vk.ru/wall-222512655_9054",
+   "also": [],
+   "source": "roleplayloft"
+  },
+  {
    "id": "e145204006",
    "title": "Концерт «Латинская Америка. В ритме танго»",
    "date": "2026-10-09",
@@ -501,10 +831,45 @@
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
    "also": [
+    "https://vk.ru/wall-83486606_118256",
     "https://tverlife.ru/music/v-ritme-tango-muzyka-brazilii-i-argentiny-prozvuchit-v-tveri-9-oktjabrja/",
     "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
    ],
    "source": "spravkatver"
+  },
+  {
+   "id": "e86fe85952",
+   "title": "Александр Мигаль. 40 лет выдержки",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Химволокно\", пл. Гагарина 1",
+   "price": null,
+   "url": "https://vk.ru/wall-201943527_10218",
+   "also": [
+    "https://vk.ru/wall-201943527_10264",
+    "https://vk.ru/wall-201943527_10253",
+    "https://vk.ru/wall-201943527_10248",
+    "https://vk.ru/wall-201943527_10187",
+    "https://vk.ru/wall-201943527_10176",
+    "https://vk.ru/wall-201943527_10175",
+    "https://vk.ru/wall-201943527_10168"
+   ],
+   "source": "openmictver"
+  },
+  {
+   "id": "be6dbfc5c5",
+   "title": "Выступление комика",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Химволокно\"",
+   "price": null,
+   "url": "https://vk.ru/wall-201943527_10204",
+   "also": [],
+   "source": "openmictver"
   },
   {
    "id": "a3b014f3a0",
@@ -533,6 +898,45 @@
    "source": "lisiedom"
   },
   {
+   "id": "0f22619a2f",
+   "title": "Сольный концерт комика",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Химволокно\"",
+   "price": null,
+   "url": "https://vk.ru/wall-201943527_10208",
+   "also": [],
+   "source": "openmictver"
+  },
+  {
+   "id": "31541dd94e",
+   "title": "Свеча «Поставь на паузу»",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "20:00",
+   "category": "Мастер-классы",
+   "place": "«Смола», бульвар Радищева, 6",
+   "price": "1600/1900 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
+   "also": [],
+   "source": "smola.decor"
+  },
+  {
+   "id": "74201ecae6",
+   "title": "Выставка участников IV пленэра «Венеция Венецианова. Городские пейзажи»",
+   "date": "2026-10-09",
+   "end": null,
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Вышневолоцкий краеведческий музей им. Г. Г. Монаховой",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15545",
+   "also": [],
+   "source": "tvermuzeum"
+  },
+  {
    "id": "510133299d",
    "title": "Музыкальная гостиная «...Зимняя вишня для босоного мальчика...»",
    "date": "2026-10-09",
@@ -551,12 +955,11 @@
    "date": "2026-10-10",
    "end": null,
    "time": "09:30",
-   "category": "Выставки и экскурсии",
+   "category": "Фестивали и ярмарки",
    "place": "ТРЦ «РИО», Тверь, пл. Гагарина д.5",
    "price": "бесплатно",
    "url": "https://vk.ru/wall-208523171_15740",
    "also": [
-    "https://vk.ru/wall-38565348_88784",
     "https://tverlife.ru/mesta/retro-prazdnik-dlja-vsej-semi-zakrytie-sezona-tverskogo-retro-kluba-10-oktjabrja/"
    ],
    "source": "tverbesplatno"
@@ -575,6 +978,19 @@
    "source": "spravkatver"
   },
   {
+   "id": "ba7c34a391",
+   "title": "Мастер-класс у русской печи «Сладкие пирожки: четыре любимые начинки»",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "11:00",
+   "category": "Мастер-классы",
+   "place": "Вкусно из печи, ул. Вагжанова, 21а, Тверь",
+   "price": "1500 ₽",
+   "url": "https://vk.ru/wall-83486606_118323",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "77ee0c6799",
    "title": "Осенний weekend в библиотеке: фиалки живые и на страницах книг",
    "date": "2026-10-10",
@@ -588,6 +1004,19 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "6c7d5cf0c3",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "12:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "1e74f9d288",
    "title": "История тверского троллейбуса",
    "date": "2026-10-10",
@@ -599,6 +1028,19 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "84e93d5e92",
+   "title": "Подводное царство в 3D: мастер-класс с Губкой Бобом",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "12:00",
+   "category": "Мастер-классы",
+   "place": "Компьютерная Академия ТОП",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118403",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "965b676067",
@@ -623,7 +1065,9 @@
    "place": "«Лисий дом», Головинский переулок, д. 2",
    "price": "750 ₽",
    "url": "https://vk.ru/wall-228603899_476",
-   "also": [],
+   "also": [
+    "https://vk.ru/wall-83486606_118381"
+   ],
    "source": "lisiedom"
   },
   {
@@ -651,6 +1095,21 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "57c123c291",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "15:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [
+    "https://vk.ru/wall-83486606_118325"
+   ],
+   "source": "afisha69"
   },
   {
    "id": "8346162f31",
@@ -692,6 +1151,19 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "568dce7cea",
+   "title": "Тайны золотой корзинки",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "16:00",
+   "category": "Детям",
+   "place": "набережная реки Лазури, 9А",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118429",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "04cfd1859e",
    "title": "Светильники, изменившие дизайн",
    "date": "2026-10-10",
@@ -709,6 +1181,19 @@
    "source": "therails.cc"
   },
   {
+   "id": "b102557b9c",
+   "title": "Panika? — ТУР 2026 — Почём панк-рок?",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": null,
+   "price": null,
+   "url": "https://vk.ru/wall-240274797_31",
+   "also": [],
+   "source": "art_cherdak_tver"
+  },
+  {
    "id": "707a4fa42a",
    "title": "Концерт «Секреты Парижа»",
    "date": "2026-10-10",
@@ -719,6 +1204,7 @@
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
    "also": [
+    "https://vk.ru/wall-83486606_118256",
     "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
    ],
    "source": "spravkatver"
@@ -752,6 +1238,19 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "ea22ae3c9e",
+   "title": "Парфюмерная вода вслепую",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "19:00",
+   "category": "Мастер-классы",
+   "place": "«Смола», бульвар Радищева, 6",
+   "price": "1700/3100 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
+   "also": [],
+   "source": "smola.decor"
+  },
+  {
    "id": "a3cbe24405",
    "title": "LITHIUM",
    "date": "2026-10-10",
@@ -760,8 +1259,9 @@
    "category": "Концерты и музыка",
    "place": "БигБен, ул. Брагина, 2 А",
    "price": null,
-   "url": "https://vk.ru/wall-38565348_88863",
+   "url": "https://vk.ru/wall-38565348_89038",
    "also": [
+    "https://vk.ru/wall-38565348_88863",
     "https://tverlife.ru/music/folk-metal-s-harakterom-gruppa-lithium-vystupit-v-tveri-10-oktjabrja/"
    ],
    "source": "spravkatver"
@@ -778,6 +1278,86 @@
    "url": "https://vk.ru/wall-228603899_458",
    "also": [],
    "source": "lisiedom"
+  },
+  {
+   "id": "f5829a576b",
+   "title": "Блатная Тверь",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "BetOn (Новоторжская ул., 12Б, стр. 1)",
+   "price": null,
+   "url": "https://vk.ru/wall-212290631_663",
+   "also": [
+    "https://vk.ru/wall-212290631_657"
+   ],
+   "source": "smena.party"
+  },
+  {
+   "id": "bb9d121210",
+   "title": "Барахолка в мастерской Смола",
+   "date": "2026-10-10",
+   "end": null,
+   "time": null,
+   "category": "Фестивали и ярмарки",
+   "place": "мастерская Смола, Радищева, 6",
+   "price": null,
+   "url": "https://vk.ru/wall-163401046_8972",
+   "also": [],
+   "source": "whatistobedonetver"
+  },
+  {
+   "id": "4db590e917",
+   "title": "Презентация EP группы PANIKA?",
+   "date": "2026-10-10",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "Чердак",
+   "price": null,
+   "url": "https://vk.ru/wall-240274797_29",
+   "also": [],
+   "source": "art_cherdak_tver"
+  },
+  {
+   "id": "b25c9524c2",
+   "title": "Красная Шапочка",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "11:00",
+   "category": "Детям",
+   "place": "Тверской государственный театр кукол, пр-т Победы, д. 9",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118411",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "10714c70ea",
+   "title": "Мастер-класс «Первый пирожок» для малышей",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "11:00",
+   "category": "Мастер-классы",
+   "place": "Вкусно из печи, ул. Вагжанова, 21а, Тверь",
+   "price": "1500 ₽",
+   "url": "https://vk.ru/wall-83486606_118323",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "b7f8b9f05b",
+   "title": "Праздник «С любовью к земле и людям» ко Дню работника сельского хозяйства",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "11:00",
+   "category": "Фестивали и ярмарки",
+   "place": "Юрьево-Девичьевский КДЦ, с. Юрьево-Девичье, ул. Центральная, д. 16А",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118327",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "6af0e3730a",
@@ -806,6 +1386,19 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "df748f5c94",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "12:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "b6d71e6168",
@@ -837,12 +1430,25 @@
    "source": "lectory_tver"
   },
   {
+   "id": "692f585e25",
+   "title": "Мастер-класс по декорированию тарелки «Осеннее настроение»",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "13:00",
+   "category": "Мастер-классы",
+   "place": "ДК «Мир» (Мамулино), ул. Георгиевская, д. 6",
+   "price": "350 руб.",
+   "url": "https://vk.ru/wall-83486606_118360",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "6c74faeecf",
    "title": "Оранжевый бал",
    "date": "2026-10-11",
    "end": null,
    "time": "13:00",
-   "category": "Прочее",
+   "category": "Концерты и музыка",
    "place": "ДК «Пролетарка»",
    "price": null,
    "url": "https://dkproletarka.ru/afisha/oranzhevyy-bal26/",
@@ -851,6 +1457,19 @@
     "https://vk.ru/wall-38565348_88851"
    ],
    "source": "dkproletarka.ru"
+  },
+  {
+   "id": "c6eb37a4e8",
+   "title": "Фестиваль профессий",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "13:00",
+   "category": "Детям",
+   "place": "Торговый парк №1",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118434",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "bacfe962b0",
@@ -866,6 +1485,19 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "d50c4948f3",
+   "title": "День гинкго билоба в Садовой гостиной",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "14:00",
+   "category": "Лекции и встречи",
+   "place": "Ботанический сад ТвГУ, пер. Шевченко, 16",
+   "price": "300 ₽ + входной билет",
+   "url": "https://vk.ru/wall-83486606_118274",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "06deab743a",
    "title": "Три архитектора, создавшие облик Твери",
    "date": "2026-10-11",
@@ -879,6 +1511,34 @@
     "https://vk.ru/wall-19087605_10891"
    ],
    "source": "therails.cc"
+  },
+  {
+   "id": "b485478419",
+   "title": "Осенняя фотосессия со щенками самоедами и кроликом",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "14:30",
+   "category": "Мастер-классы",
+   "place": "Парк (адрес уточняется при записи)",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118416",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "598ec3e518",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "15:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [
+    "https://vk.ru/wall-83486606_118325"
+   ],
+   "source": "afisha69"
   },
   {
    "id": "a1657067f6",
@@ -920,6 +1580,19 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "47bb76a760",
+   "title": "Сказочный малышник «Ушастая история или секрет вкусной капусты» (3–4 года)",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "17:00",
+   "category": "Детям",
+   "place": "Детский центр развития «Бусинка», ул. Резинстроя, д. 7",
+   "price": "500 ₽",
+   "url": "https://vk.ru/wall-83486606_118376",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "1551014311",
    "title": "Фильм «Кусама: Бесконечные миры» + обсуждение",
    "date": "2026-10-11",
@@ -958,9 +1631,23 @@
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
    "also": [
+    "https://vk.ru/wall-83486606_118256",
     "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
    ],
    "source": "spravkatver"
+  },
+  {
+   "id": "4ab537462d",
+   "title": "Кино + свечи",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "18:00",
+   "category": "Мастер-классы",
+   "place": "«Смола», бульвар Радищева, 6",
+   "price": "1600/1900 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
+   "also": [],
+   "source": "smola.decor"
   },
   {
    "id": "8e8ad85bf2",
@@ -978,8 +1665,8 @@
    "source": "koncerttver.ru"
   },
   {
-   "id": "f2695b6da9",
-   "title": "Rapcore: лекция и викторина",
+   "id": "1764a51dac",
+   "title": "Лекция Rapcore",
    "date": "2026-10-11",
    "end": null,
    "time": "21:00",
@@ -989,6 +1676,32 @@
    "url": "https://vk.ru/wall6713759_16574",
    "also": [],
    "source": "kakao_champion"
+  },
+  {
+   "id": "b94fed36ef",
+   "title": "Железнодорожная экспедиция по Николаевской железной дороге",
+   "date": "2026-10-11",
+   "end": null,
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверь — Спирово",
+   "price": "от 2500 ₽",
+   "url": "https://vk.ru/wall-83486606_118380",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "75c5cd703b",
+   "title": "Лекция куратора Инны Хегай (финисаж выставки «Искусство большого стиля»)",
+   "date": "2026-10-11",
+   "end": null,
+   "time": null,
+   "category": "Лекции и встречи",
+   "place": "Тверская областная картинная галерея, Тверской императорский дворец, ул. Советская, д. 3",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_18042",
+   "also": [],
+   "source": "tvergallery"
   },
   {
    "id": "d02a6ece03",
@@ -1019,19 +1732,6 @@
    "source": "koncerttver.ru"
   },
   {
-   "id": "5feaafef72",
-   "title": "Игра Творчество и искусство",
-   "date": "2026-10-12",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Ресторан \"Богемия\", Калинина, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_88989",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
    "id": "16152bf576",
    "title": "Кумиры поколений",
    "date": "2026-10-12",
@@ -1043,6 +1743,19 @@
    "url": "https://www.koncerttver.ru/afisha/kumiry-pokoleniy/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "cfc969d85c",
+   "title": "Шейкер квиз: Творчество и искусство",
+   "date": "2026-10-12",
+   "end": null,
+   "time": "19:00",
+   "category": "Прочее",
+   "place": "Ресторан «Богемия», Калинина, 3",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88989",
+   "also": [],
+   "source": "spravkatver"
   },
   {
    "id": "14ccdae4a7",
@@ -1084,6 +1797,19 @@
    "source": "spravkatver"
   },
   {
+   "id": "c09f708a10",
+   "title": "Танцевальная группа",
+   "date": "2026-10-13",
+   "end": null,
+   "time": "19:00",
+   "category": "Мастер-классы",
+   "place": "Орджоникидзе, 21",
+   "price": "около 200 ₽",
+   "url": "https://vk.ru/wall6713759_16456",
+   "also": [],
+   "source": "kakao_champion"
+  },
+  {
    "id": "68856c4cb9",
    "title": "Хочу мужа",
    "date": "2026-10-13",
@@ -1095,6 +1821,32 @@
    "url": "https://www.koncerttver.ru/afisha/khochu-muzha/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "d6d3beeb18",
+   "title": "Женский стендап",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": "Биг-Бен, ул. Брагина 2, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-201943527_10193",
+   "also": [],
+   "source": "openmictver"
+  },
+  {
+   "id": "424f8cf7b1",
+   "title": "Женское фольклорное пение",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "18:00",
+   "category": "Мастер-классы",
+   "place": "Детский музейный центр",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15506",
+   "also": [],
+   "source": "tvermuzeum"
   },
   {
    "id": "8717406ce4",
@@ -1120,6 +1872,7 @@
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
    "also": [
+    "https://vk.ru/wall-83486606_118256",
     "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
    ],
    "source": "spravkatver"
@@ -1153,6 +1906,19 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "604c4b6aa5",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "18:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "c1f59ca07d",
    "title": "Золотые хиты поколений в Торопце",
    "date": "2026-10-15",
@@ -1166,6 +1932,21 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "38dcb8dc54",
+   "title": "Дудук Бэнд. Концерт «Сердце знает»",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "18:30",
+   "category": "Концерты и музыка",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [
+    "https://vk.ru/wall-83486606_118256"
+   ],
+   "source": "spravkatver"
+  },
+  {
    "id": "fd72ec4f6d",
    "title": "Концерт «Сердце знает» Виталия Погосяна и проекта «Дудук-бэнд»",
    "date": "2026-10-15",
@@ -1177,7 +1958,6 @@
    "url": "https://vk.ru/wall-38565348_88962",
    "also": [
     "https://vk.ru/wall-38565348_88938",
-    "https://vk.ru/wall-38565348_88856",
     "https://tverlife.ru/music/armjanskij-duduk-i-peterburgskie-virtuozy-neobychnyj-koncert-v-tverskoj-filarmonii/"
    ],
    "source": "spravkatver"
@@ -1222,6 +2002,32 @@
    "source": "lectory2.ru"
   },
   {
+   "id": "af006269a2",
+   "title": "Танцевальная группа",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "20:00",
+   "category": "Мастер-классы",
+   "place": "Орджоникидзе, 21",
+   "price": "около 200 ₽",
+   "url": "https://vk.ru/wall6713759_16456",
+   "also": [],
+   "source": "kakao_champion"
+  },
+  {
+   "id": "80caade3ae",
+   "title": "Текстильный спрей",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "20:00",
+   "category": "Мастер-классы",
+   "place": "«Смола», бульвар Радищева, 6",
+   "price": "2200 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
+   "also": [],
+   "source": "smola.decor"
+  },
+  {
    "id": "050d1bd21d",
    "title": "Открытый инклюзивный фестиваль «Клюзик собирает друзей»",
    "date": "2026-10-15",
@@ -1248,6 +2054,32 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "54e11641cd",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "17:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "bc94289d6b",
+   "title": "Интерактивный спектакль в детском центре «Акварель»",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "17:30",
+   "category": "Детям",
+   "place": "детский центр «Акварель», ул. Склизкова, д. 116, корп. 5",
+   "price": "700 ₽",
+   "url": "https://vk.ru/wall-83486606_118410",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "f090f00796",
    "title": "Егора Кукса. Стендап-концерт",
    "date": "2026-10-16",
@@ -1259,6 +2091,19 @@
    "url": "https://tver.kassir.ru/shou/egora-kuksa-stendap-kontsert",
    "also": [],
    "source": "tver.kassir.ru"
+  },
+  {
+   "id": "d65d4e1766",
+   "title": "Стендап-концерт Егора Куксы",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": "клуб Биг-Бен, ул. Брагина 2, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-201943527_10183",
+   "also": [],
+   "source": "openmictver"
   },
   {
    "id": "459ee8f696",
@@ -1283,8 +2128,23 @@
    "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
-   "also": [],
+   "also": [
+    "https://vk.ru/wall-83486606_118256"
+   ],
    "source": "spravkatver"
+  },
+  {
+   "id": "d329d85c7e",
+   "title": "Кампания по системе Things from the Flood",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "18:30",
+   "category": "Прочее",
+   "place": "Клуб Roleplay Loft, ул. Медниковская, 55/25, 3 этаж",
+   "price": "450 ₽",
+   "url": "https://vk.ru/wall-222512655_9054",
+   "also": [],
+   "source": "roleplayloft"
   },
   {
    "id": "69edc3c0d4",
@@ -1298,6 +2158,32 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "21dbd0627d",
+   "title": "MAKE RUSSLAND GREAT AGAIN Tour",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "19:15",
+   "category": "Концерты и музыка",
+   "place": null,
+   "price": null,
+   "url": "https://vk.ru/wall-240274797_31",
+   "also": [],
+   "source": "art_cherdak_tver"
+  },
+  {
+   "id": "5847f84441",
+   "title": "Свеча «После 20:00»",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "20:00",
+   "category": "Мастер-классы",
+   "place": "«Смола», бульвар Радищева, 6",
+   "price": "1600/1900 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
+   "also": [],
+   "source": "smola.decor"
   },
   {
    "id": "bdf95d5147",
@@ -1331,6 +2217,32 @@
    "source": "lectory2.ru"
   },
   {
+   "id": "02b01806e5",
+   "title": "Мастер-класс «Вкус детства: сочник, коржик и песочное кольцо»",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "11:00",
+   "category": "Мастер-классы",
+   "place": "Вкусно из печи, ул. Вагжанова, 21а, Тверь",
+   "price": "1500 ₽",
+   "url": "https://vk.ru/wall-83486606_118323",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "14b8343529",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "12:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "611735e0f7",
    "title": "Экскурсия, лекция и каппинг на производстве BunaCoffee",
    "date": "2026-10-17",
@@ -1344,6 +2256,19 @@
    "source": "therails.cc"
   },
   {
+   "id": "d51a84c93f",
+   "title": "Мастер-класс по росписи керамических тарелочек",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "13:00",
+   "category": "Мастер-классы",
+   "place": "Surf Coffee, ул. Трёхсвятская, 29",
+   "price": "2500 ₽",
+   "url": "https://vk.ru/wall-147924904_2205",
+   "also": [],
+   "source": "club147924904"
+  },
+  {
    "id": "d421ba624a",
    "title": "Творческая встреча с заслуженными артистами, ведущими мастерами сцены Тверского театра кукол — Михаилом Гусевым и Александром Мистровым",
    "date": "2026-10-17",
@@ -1355,6 +2280,45 @@
    "url": "https://tverlib.ru/ru/event/2026/20261017/",
    "also": [],
    "source": "tverlib.ru"
+  },
+  {
+   "id": "32d4cebc39",
+   "title": "Экскурсия «О живописи детям. Портреты династии Романовых»",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "14:00",
+   "category": "Выставки и экскурсии",
+   "place": "Императорский путевой дворец, Тверь",
+   "price": "1000 ₽",
+   "url": "https://vk.ru/wall-83486606_118365",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "9c2c7dd044",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "15:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "fd9d25caff",
+   "title": "Мастерская дизайна во Дворце",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "15:00",
+   "category": "Мастер-классы",
+   "place": "Тверской императорский дворец",
+   "price": "600 ₽",
+   "url": "https://vk.ru/wall-35652362_18011",
+   "also": [],
+   "source": "tvergallery"
   },
   {
    "id": "6c5e13b99f",
@@ -1385,6 +2349,45 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "6b78f91631",
+   "title": "Роспись неваляшки",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "19:00",
+   "category": "Мастер-классы",
+   "place": "«Смола», бульвар Радищева, 6",
+   "price": "1900 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
+   "also": [],
+   "source": "smola.decor"
+  },
+  {
+   "id": "433c541735",
+   "title": "Стендап по-взрослому",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "19:00",
+   "category": "Прочее",
+   "place": "бар Все свои, ул. Коминтерна 77Б, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-241655552_31",
+   "also": [],
+   "source": "openmictver"
+  },
+  {
+   "id": "e17785d6a4",
+   "title": "Круглый стол «Стратеги Победы»",
+   "date": "2026-10-17",
+   "end": null,
+   "time": null,
+   "category": "Лекции и встречи",
+   "place": "Музей Калининского фронта",
+   "price": null,
+   "url": "https://vk.ru/wall-22098014_15545",
+   "also": [],
+   "source": "tvermuzeum"
+  },
+  {
    "id": "2902498781",
    "title": "Тверь - город трех религий",
    "date": "2026-10-18",
@@ -1396,6 +2399,58 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "1ad86415a3",
+   "title": "Мастер-класс по акробатике для детей от 3 лет",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "11:00",
+   "category": "Мастер-классы",
+   "place": "ТЦ Рубин, 3 этаж",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118295",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "68366c286e",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "12:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "7466937329",
+   "title": "Мастер-класс «Пирожки на любой вкус»",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "12:00",
+   "category": "Мастер-классы",
+   "place": "Вкусно из печи, ул. Вагжанова, 21а, Тверь",
+   "price": "1300 ₽",
+   "url": "https://vk.ru/wall-83486606_118323",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "16799fdc45",
+   "title": "Мастер-класс по акробатике для детей от 8 лет",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "12:00",
+   "category": "Мастер-классы",
+   "place": "ТЦ Рубин, 3 этаж",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118295",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "97fac0a650",
@@ -1425,6 +2480,19 @@
     "https://vk.ru/wall-212069516_5286"
    ],
    "source": "lectory_tver"
+  },
+  {
+   "id": "39e7598332",
+   "title": "Бесплатная экскурсия по выставке «Век импрессионизма»",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "15:00",
+   "category": "Выставки и экскурсии",
+   "place": "ТГМВЦ, ул. Советская, д. 54",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118414",
+   "also": [],
+   "source": "afisha69"
   },
   {
    "id": "63dceffa88",
@@ -1496,7 +2564,9 @@
    "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
    "price": null,
    "url": "https://vk.ru/wall-38565348_88856",
-   "also": [],
+   "also": [
+    "https://vk.ru/wall-83486606_118256"
+   ],
    "source": "spravkatver"
   },
   {
