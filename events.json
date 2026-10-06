@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T12:14:27+03:00",
+ "generated_at": "2026-10-06T12:33:50+03:00",
  "window": {
   "start": "2026-10-06",
   "end": "2026-10-19"
@@ -30,6 +30,19 @@
    "url": "https://vk.ru/wall-182307327_8941",
    "also": [],
    "source": "moibiztvr"
+  },
+  {
+   "id": "f2405ba656",
+   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
+   "date": "2026-10-03",
+   "end": "2026-10-31",
+   "time": "13:00",
+   "category": "Выставки и экскурсии",
+   "place": "Рельсы",
+   "price": "950 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
   },
   {
    "id": "ae7d7b81e5",
@@ -146,7 +159,7 @@
    "end": "2026-10-31",
    "time": null,
    "category": "Выставки и экскурсии",
-   "place": "Музейно-выставочный центр имени Лизы Чайкиной, ул. Салтыкова-Щедрина, 16",
+   "place": "Музейно-выставочный центр имени Лизы Чайкиной, ул. Салтыкова-Щедрина, 16, Тверь",
    "price": null,
    "url": "https://tverlife.ru/mesta/v-tveri-otkroetsja-vystavka-kukol-i-remjosel-studii-suprjadki/",
    "also": [],
@@ -233,9 +246,22 @@
    "source": "tverlife.ru"
   },
   {
-   "id": "b6c1ef3c79",
-   "title": "Тверской натюрморт",
+   "id": "c8b1a6cce0",
+   "title": "Мелочи жизни",
    "date": "2026-10-06",
+   "end": null,
+   "time": null,
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://tverlife.ru/sobytija/tverskih-zritelej-udivit-novaja-postanovka-melochi-zhizni/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
+   "id": "8c439228d7",
+   "title": "Тверской натюрморт",
+   "date": "2026-09-25",
    "end": "2026-10-13",
    "time": null,
    "category": "Выставки и экскурсии",
@@ -1134,19 +1160,6 @@
    "source": "bogolyubsky_cc"
   },
   {
-   "id": "22922d8012",
-   "title": "Музыкальная викторина «Любимая музыкалка»",
-   "date": "2026-10-15",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Клуб «Биг Бен», ул. Брагина, 2",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_88802",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
    "id": "cd51ae0a3c",
    "title": "Песни из кино",
    "date": "2026-10-15",
@@ -1158,6 +1171,19 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "5fc3462a05",
+   "title": "Сотка квиз: Любимая музыкалка",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "19:00",
+   "category": "Прочее",
+   "place": "Клуб \"Биг Бен\", ул. Брагина, 2",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88802",
+   "also": [],
+   "source": "spravkatver"
   },
   {
    "id": "af006269a2",
