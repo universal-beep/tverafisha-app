@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T12:33:50+03:00",
+ "generated_at": "2026-10-06T13:00:15+03:00",
  "window": {
   "start": "2026-10-06",
   "end": "2026-10-19"
@@ -86,19 +86,6 @@
    "source": "spravkatver"
   },
   {
-   "id": "46b6b47566",
-   "title": "Танцевальная группа",
-   "date": "2026-10-06",
-   "end": null,
-   "time": "19:00",
-   "category": "Мастер-классы",
-   "place": "Орджоникидзе, 21",
-   "price": "около 200 ₽",
-   "url": "https://vk.ru/wall6713759_16456",
-   "also": [],
-   "source": "kakao_champion"
-  },
-  {
    "id": "ba084246bd",
    "title": "Угадай мелодию. Русские суперхиты. Лайт",
    "date": "2026-10-06",
@@ -159,7 +146,7 @@
    "end": "2026-10-31",
    "time": null,
    "category": "Выставки и экскурсии",
-   "place": "Музейно-выставочный центр имени Лизы Чайкиной, ул. Салтыкова-Щедрина, 16, Тверь",
+   "place": "Музейно-выставочный центр имени Лизы Чайкиной, ул. Салтыкова-Щедрина, 16",
    "price": null,
    "url": "https://tverlife.ru/mesta/v-tveri-otkroetsja-vystavka-kukol-i-remjosel-studii-suprjadki/",
    "also": [],
@@ -391,8 +378,23 @@
    "source": "spravkatver"
   },
   {
-   "id": "c2a18d609a",
-   "title": "Концерт шедевров Чайковского в рамках фестиваля «Музыкальная осень в Твери»",
+   "id": "3434dcd52a",
+   "title": "Концерт классической музыки в рамках фестиваля «Музыкальная осень в Твери»",
+   "date": "2026-10-08",
+   "end": null,
+   "time": "18:30",
+   "category": "Концерты и музыка",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [
+    "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
+   ],
+   "source": "spravkatver"
+  },
+  {
+   "id": "1c17649290",
+   "title": "Концерт шедевров Чайковского в филармонии",
    "date": "2026-10-08",
    "end": null,
    "time": "18:30",
@@ -463,32 +465,6 @@
    "source": "koncerttver.ru"
   },
   {
-   "id": "4e96300c51",
-   "title": "Танцевальная группа",
-   "date": "2026-10-08",
-   "end": null,
-   "time": "20:00",
-   "category": "Мастер-классы",
-   "place": "Орджоникидзе, 21",
-   "price": "около 200 ₽",
-   "url": "https://vk.ru/wall6713759_16456",
-   "also": [],
-   "source": "kakao_champion"
-  },
-  {
-   "id": "ae58fb1f3f",
-   "title": "Концерт классической музыки",
-   "date": "2026-10-08",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "Тверская академическая областная филармония",
-   "price": null,
-   "url": "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
    "id": "21a8a7b5ca",
    "title": "Творческая встреча с членом Союза художников России Михаилом Стоячко",
    "date": "2026-10-09",
@@ -502,19 +478,33 @@
    "source": "tverlib.ru"
   },
   {
-   "id": "0665f2777d",
-   "title": "Латинская Америка. В ритме танго",
+   "id": "285cc04a9f",
+   "title": "Вечер создания браслета с натуральными самоцветами",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "18:00",
+   "category": "Мастер-классы",
+   "place": "Лисий Дом",
+   "price": "1300 ₽",
+   "url": "https://vk.ru/wall-228603899_460",
+   "also": [],
+   "source": "lisiedom"
+  },
+  {
+   "id": "e145204006",
+   "title": "Концерт «Латинская Америка. В ритме танго»",
    "date": "2026-10-09",
    "end": null,
    "time": "18:30",
    "category": "Концерты и музыка",
-   "place": "Тверская академическая областная филармония",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
    "price": null,
-   "url": "https://tverlife.ru/music/v-ritme-tango-muzyka-brazilii-i-argentiny-prozvuchit-v-tveri-9-oktjabrja/",
+   "url": "https://vk.ru/wall-38565348_88856",
    "also": [
+    "https://tverlife.ru/music/v-ritme-tango-muzyka-brazilii-i-argentiny-prozvuchit-v-tveri-9-oktjabrja/",
     "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
    ],
-   "source": "tverlife.ru"
+   "source": "spravkatver"
   },
   {
    "id": "a3b014f3a0",
@@ -528,6 +518,19 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "dcbd324376",
+   "title": "Поэзия Бродского с электронной музыкой",
+   "date": "2026-10-09",
+   "end": null,
+   "time": "19:00",
+   "category": "Лекции и встречи",
+   "place": "Лисий дом, Головинский переулок, 2",
+   "price": "1000 ₽",
+   "url": "https://vk.ru/wall-228603899_463",
+   "also": [],
+   "source": "lisiedom"
   },
   {
    "id": "510133299d",
@@ -572,6 +575,19 @@
    "source": "spravkatver"
   },
   {
+   "id": "77ee0c6799",
+   "title": "Осенний weekend в библиотеке: фиалки живые и на страницах книг",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "11:00",
+   "category": "Выставки и экскурсии",
+   "place": "Библиотека Горького, Актовый зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261010-2/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "1e74f9d288",
    "title": "История тверского троллейбуса",
    "date": "2026-10-10",
@@ -596,6 +612,19 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "83ac806893",
+   "title": "Мастер-класс «Ночник-облачко»",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "14:00",
+   "category": "Мастер-классы",
+   "place": "«Лисий дом», Головинский переулок, д. 2",
+   "price": "750 ₽",
+   "url": "https://vk.ru/wall-228603899_476",
+   "also": [],
+   "source": "lisiedom"
   },
   {
    "id": "1c3c6cc456",
@@ -680,6 +709,21 @@
    "source": "therails.cc"
   },
   {
+   "id": "707a4fa42a",
+   "title": "Концерт «Секреты Парижа»",
+   "date": "2026-10-10",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [
+    "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
+   ],
+   "source": "spravkatver"
+  },
+  {
    "id": "e38096fd74",
    "title": "Ухо жаброй не испортишь — Станислав Дробышевский",
    "date": "2026-10-10",
@@ -723,17 +767,17 @@
    "source": "spravkatver"
   },
   {
-   "id": "b35b896c3e",
-   "title": "Концерт «Секреты Парижа»",
+   "id": "0e9fb5203a",
+   "title": "Концерт-диспут «Гарик и Марик с ограниченной ответственностью» с Андреем Ивановым",
    "date": "2026-10-10",
    "end": null,
-   "time": null,
+   "time": "19:30",
    "category": "Концерты и музыка",
-   "place": "Тверская академическая областная филармония",
-   "price": null,
-   "url": "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/",
+   "place": "Лисий Дом, Головинский пер. 2",
+   "price": "1000 ₽",
+   "url": "https://vk.ru/wall-228603899_458",
    "also": [],
-   "source": "tverlife.ru"
+   "source": "lisiedom"
   },
   {
    "id": "6af0e3730a",
@@ -798,7 +842,7 @@
    "date": "2026-10-11",
    "end": null,
    "time": "13:00",
-   "category": "Концерты и музыка",
+   "category": "Прочее",
    "place": "ДК «Пролетарка»",
    "price": null,
    "url": "https://dkproletarka.ru/afisha/oranzhevyy-bal26/",
@@ -904,6 +948,21 @@
    "source": "spravkatver"
   },
   {
+   "id": "47c2b92f38",
+   "title": "Квартет саксофонистов «Звуки города»",
+   "date": "2026-10-11",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [
+    "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
+   ],
+   "source": "spravkatver"
+  },
+  {
    "id": "8e8ad85bf2",
    "title": "Дима Билан",
    "date": "2026-10-11",
@@ -930,19 +989,6 @@
    "url": "https://vk.ru/wall6713759_16574",
    "also": [],
    "source": "kakao_champion"
-  },
-  {
-   "id": "914c872a32",
-   "title": "Квартет саксофонистов «Звуки города»",
-   "date": "2026-10-11",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "Тверская академическая областная филармония",
-   "price": null,
-   "url": "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/",
-   "also": [],
-   "source": "tverlife.ru"
   },
   {
    "id": "d02a6ece03",
@@ -973,6 +1019,19 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "5feaafef72",
+   "title": "Игра Творчество и искусство",
+   "date": "2026-10-12",
+   "end": null,
+   "time": "19:00",
+   "category": "Прочее",
+   "place": "Ресторан \"Богемия\", Калинина, 3",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88989",
+   "also": [],
+   "source": "spravkatver"
+  },
+  {
    "id": "16152bf576",
    "title": "Кумиры поколений",
    "date": "2026-10-12",
@@ -984,19 +1043,6 @@
    "url": "https://www.koncerttver.ru/afisha/kumiry-pokoleniy/",
    "also": [],
    "source": "koncerttver.ru"
-  },
-  {
-   "id": "cfc969d85c",
-   "title": "Шейкер квиз: Творчество и искусство",
-   "date": "2026-10-12",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Ресторан «Богемия», Калинина, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_88989",
-   "also": [],
-   "source": "spravkatver"
   },
   {
    "id": "14ccdae4a7",
@@ -1038,19 +1084,6 @@
    "source": "spravkatver"
   },
   {
-   "id": "c09f708a10",
-   "title": "Танцевальная группа",
-   "date": "2026-10-13",
-   "end": null,
-   "time": "19:00",
-   "category": "Мастер-классы",
-   "place": "Орджоникидзе, 21",
-   "price": "около 200 ₽",
-   "url": "https://vk.ru/wall6713759_16456",
-   "also": [],
-   "source": "kakao_champion"
-  },
-  {
    "id": "68856c4cb9",
    "title": "Хочу мужа",
    "date": "2026-10-13",
@@ -1077,6 +1110,21 @@
    "source": "koncerttver.ru"
   },
   {
+   "id": "66e32fcdfc",
+   "title": "Оперетта «Ханума»",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "18:30",
+   "category": "Театр",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [
+    "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/"
+   ],
+   "source": "spravkatver"
+  },
+  {
    "id": "0524e8a3ac",
    "title": "Хор Сретенского монастыря",
    "date": "2026-10-14",
@@ -1090,19 +1138,6 @@
     "https://dkproletarka.ru/afisha/khor-sretenskogo-monastyrya/"
    ],
    "source": "koncerttver.ru"
-  },
-  {
-   "id": "0e3cc31fd3",
-   "title": "Оперетта «Ханума»",
-   "date": "2026-10-14",
-   "end": null,
-   "time": null,
-   "category": "Театр",
-   "place": "Тверская академическая областная филармония",
-   "price": null,
-   "url": "https://tverlife.ru/music/ot-organa-i-arfy-do-saksofonov-i-operetty-luchshie-koncerty-oktjabrja-v-tveri/",
-   "also": [],
-   "source": "tverlife.ru"
   },
   {
    "id": "7bc9dc67f6",
@@ -1142,6 +1177,7 @@
    "url": "https://vk.ru/wall-38565348_88962",
    "also": [
     "https://vk.ru/wall-38565348_88938",
+    "https://vk.ru/wall-38565348_88856",
     "https://tverlife.ru/music/armjanskij-duduk-i-peterburgskie-virtuozy-neobychnyj-koncert-v-tverskoj-filarmonii/"
    ],
    "source": "spravkatver"
@@ -1160,6 +1196,19 @@
    "source": "bogolyubsky_cc"
   },
   {
+   "id": "22922d8012",
+   "title": "Музыкальная викторина «Любимая музыкалка»",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "19:00",
+   "category": "Прочее",
+   "place": "Клуб «Биг Бен», ул. Брагина, 2",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88802",
+   "also": [],
+   "source": "spravkatver"
+  },
+  {
    "id": "cd51ae0a3c",
    "title": "Песни из кино",
    "date": "2026-10-15",
@@ -1171,32 +1220,6 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
-  },
-  {
-   "id": "5fc3462a05",
-   "title": "Сотка квиз: Любимая музыкалка",
-   "date": "2026-10-15",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Клуб \"Биг Бен\", ул. Брагина, 2",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_88802",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
-   "id": "af006269a2",
-   "title": "Танцевальная группа",
-   "date": "2026-10-15",
-   "end": null,
-   "time": "20:00",
-   "category": "Мастер-классы",
-   "place": "Орджоникидзе, 21",
-   "price": "около 200 ₽",
-   "url": "https://vk.ru/wall6713759_16456",
-   "also": [],
-   "source": "kakao_champion"
   },
   {
    "id": "050d1bd21d",
@@ -1249,6 +1272,19 @@
    "url": "https://tverlib.ru/ru/event/2026/20261016-1/",
    "also": [],
    "source": "tverlib.ru"
+  },
+  {
+   "id": "596a65f07c",
+   "title": "«Реквием» Вольфганг Амадей Моцарт",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "18:30",
+   "category": "Концерты и музыка",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [],
+   "source": "spravkatver"
   },
   {
    "id": "69edc3c0d4",
@@ -1449,6 +1485,19 @@
    "url": "https://tverlib.ru/ru/event/2026/20261018/",
    "also": [],
    "source": "tverlib.ru"
+  },
+  {
+   "id": "0165ad606e",
+   "title": "Концерт «Бах - лучшее»",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": "Тверская академическая областная филармония имени С.Я. Лемешева",
+   "price": null,
+   "url": "https://vk.ru/wall-38565348_88856",
+   "also": [],
+   "source": "spravkatver"
   },
   {
    "id": "d1636de135",
