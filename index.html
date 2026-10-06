@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Афиша Твери</title>
+<meta name="description" content="События Твери на ближайшие две недели: сегодня, завтра, выходные и фильтр по направлениям">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%85%3C/text%3E%3C/svg%3E">
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+  :root {
+    --bg: var(--tg-theme-bg-color, #ffffff);
+    --text: var(--tg-theme-text-color, #14181f);
+    --hint: var(--tg-theme-hint-color, #6a7280);
+    --link: var(--tg-theme-link-color, #1f6feb);
+    --accent: var(--tg-theme-button-color, #1f6feb);
+    --accent-text: var(--tg-theme-button-text-color, #ffffff);
+    --card: var(--tg-theme-secondary-bg-color, #f2f4f7);
+    --line: rgba(120, 130, 145, .25);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: var(--tg-theme-bg-color, #17212b);
+      --text: var(--tg-theme-text-color, #e8edf2);
+      --hint: var(--tg-theme-hint-color, #8d9aa8);
+      --link: var(--tg-theme-link-color, #6ab3f3);
+      --accent: var(--tg-theme-button-color, #3b82f6);
+      --card: var(--tg-theme-secondary-bg-color, #232e3c);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    padding: 0 16px calc(24px + env(safe-area-inset-bottom));
+  }
+  .wrap { max-width: 640px; margin: 0 auto; }
+  header { padding: 14px 0 6px; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+  h1 { font-size: 20px; margin: 0; letter-spacing: -.01em; }
+  .updated { font-size: 12px; color: var(--hint); white-space: nowrap; }
+  .stale { background: var(--card); border-left: 3px solid #e0a100; padding: 8px 12px; border-radius: 8px; font-size: 14px; margin: 6px 0 10px; }
+
+  .tabs { display: flex; gap: 6px; overflow-x: auto; padding: 6px 0; margin: 0 -16px; padding-inline: 16px; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar, .chips::-webkit-scrollbar { display: none; }
+  .tab, .chip {
+    flex: none; min-height: 44px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: transparent; color: var(--text); font: inherit; cursor: pointer; white-space: nowrap;
+  }
+  .tab[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); font-weight: 600; }
+  .chips { display: flex; gap: 6px; overflow-x: auto; padding: 4px 0 10px; margin: 0 -16px; padding-inline: 16px; scrollbar-width: none; }
+  .chip { min-height: 38px; padding: 0 12px; font-size: 14px; background: var(--card); border-color: transparent; }
+  .chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); font-weight: 600; }
+  .chip .n { opacity: .65; margin-left: 4px; font-variant-numeric: tabular-nums; }
+  .tab:focus-visible, .chip:focus-visible, summary:focus-visible, a:focus-visible, .reset:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .summary { font-size: 14px; color: var(--hint); margin: 2px 0 6px; }
+  .day { font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--hint); margin: 18px 0 8px; }
+  .card { display: grid; grid-template-columns: 52px 1fr; gap: 12px; padding: 12px 0; border-top: 1px solid var(--line); }
+  .card:first-of-type { border-top: 0; }
+  .time { font-variant-numeric: tabular-nums; font-weight: 600; font-size: 15px; padding-top: 1px; }
+  .time.none { font-weight: 400; color: var(--hint); font-size: 12px; line-height: 1.3; }
+  .title { font-weight: 600; font-size: 16px; color: var(--text); text-decoration: none; overflow-wrap: anywhere; }
+  .title:hover { text-decoration: underline; }
+  .meta { font-size: 14px; color: var(--hint); margin-top: 2px; overflow-wrap: anywhere; }
+  .tag { font-size: 12px; color: var(--hint); margin-top: 4px; }
+  .tag a { color: var(--link); margin-left: 6px; }
+
+  details { margin-top: 22px; background: var(--card); border-radius: 12px; padding: 4px 14px; }
+  summary { min-height: 44px; display: flex; align-items: center; cursor: pointer; font-weight: 600; }
+  .run { padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; }
+  .run .until { color: var(--hint); white-space: nowrap; }
+  .run a { color: var(--text); text-decoration: none; font-weight: 500; overflow-wrap: anywhere; }
+  .empty { text-align: center; padding: 36px 8px; color: var(--hint); }
+  .reset { margin-top: 12px; min-height: 44px; padding: 0 18px; border-radius: 999px; border: 0; background: var(--accent); color: var(--accent-text); font: inherit; cursor: pointer; }
+  footer { margin-top: 26px; font-size: 12px; color: var(--hint); }
+  .skeleton { height: 64px; border-radius: 10px; background: var(--card); margin: 12px 0; opacity: .6; }
+  @media (prefers-reduced-motion: no-preference) { .skeleton { animation: pulse 1.2s ease-in-out infinite; } }
+  @keyframes pulse { 50% { opacity: .3; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Афиша Твери</h1>
+    <span class="updated" id="updated"></span>
+  </header>
+  <div id="stale" class="stale" hidden></div>
+
+  <nav class="tabs" id="tabs" aria-label="Период"></nav>
+  <div class="chips" id="chips" role="group" aria-label="Направления"></div>
+
+  <div class="summary" id="summary" aria-live="polite"></div>
+  <main id="list"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></main>
+  <details id="running" hidden><summary id="running-title"></summary><div id="running-list"></div></details>
+  <footer id="footer"></footer>
+</div>
+
+<script src="logic.js"></script>
+<script>
+(function () {
+  var tg = window.Telegram && window.Telegram.WebApp;
+  if (tg) { try { tg.ready(); tg.expand(); } catch (e) {} }
+
+  var TABS = [['today', 'Сегодня'], ['tomorrow', 'Завтра'], ['weekend', 'Выходные'], ['week', '7 дней'], ['all', '14 дней']];
+  var EMOJI = { 'Театр': '🎭', 'Лекции и встречи': '🎓', 'Концерты и музыка': '🎵', 'Мастер-классы': '🎨',
+                'Выставки и экскурсии': '🖼', 'Кино': '🎬', 'Детям': '🧸', 'Бизнес и нетворкинг': '💼',
+                'Фестивали и ярмарки': '🎪', 'Прочее': '📌' };
+  var STORE = 'ta.cats';
+
+  var state = { range: TA.parseParams(location.search), cats: [], feed: null, today: TA.moscowToday() };
+
+  function load() { try { return JSON.parse(localStorage.getItem(STORE) || '[]'); } catch (e) { return []; } }
+  function save() { try { localStorage.setItem(STORE, JSON.stringify(state.cats)); } catch (e) {} }
+
+  function el(tag, attrs, children) {
+    var n = document.createElement(tag);
+    Object.keys(attrs || {}).forEach(function (k) {
+      if (k === 'text') n.textContent = attrs[k];
+      else if (k === 'class') n.className = attrs[k];
+      else if (k.slice(0, 2) === 'on') n.addEventListener(k.slice(2), attrs[k]);
+      else n.setAttribute(k, attrs[k]);
+    });
+    (children || []).forEach(function (c) { if (c) n.appendChild(c); });
+    return n;
+  }
+
+  function openLink(e) {
+    var a = e.currentTarget;
+    if (tg && tg.openLink) { e.preventDefault(); tg.openLink(a.href); }
+  }
+  function link(href, text, cls) { return el('a', { href: href, text: text, class: cls || '', target: '_blank', rel: 'noopener noreferrer', onclick: openLink }); }
+
+  function stamp(iso) { return iso ? iso.slice(8, 10) + '.' + iso.slice(5, 7) + ' ' + iso.slice(11, 16) : ''; }
+
+  function renderTabs() {
+    var nav = document.getElementById('tabs'); nav.textContent = '';
+    TABS.forEach(function (t) {
+      nav.appendChild(el('button', { class: 'tab', type: 'button', 'aria-pressed': String(state.range === t[0]), text: t[1],
+        onclick: function () { state.range = t[0]; try { history.replaceState(null, '', '?d=' + t[0]); } catch (e) {} render(); } }));
+    });
+  }
+
+  function renderChips(counts) {
+    var box = document.getElementById('chips'); box.textContent = '';
+    box.appendChild(el('button', { class: 'chip', type: 'button', 'aria-pressed': String(state.cats.length === 0), text: 'Все',
+      onclick: function () { state.cats = TA.toggleCategory(state.cats, null); save(); render(); } }));
+    state.feed.categories.forEach(function (c) {
+      var n = counts[c] || 0;
+      if (!n && state.cats.indexOf(c) < 0) return;   // пустые направления не показываем, выбранные оставляем
+      box.appendChild(el('button', { class: 'chip', type: 'button', 'aria-pressed': String(state.cats.indexOf(c) >= 0),
+        onclick: function () { state.cats = TA.toggleCategory(state.cats, c); save(); render(); } },
+        [document.createTextNode((EMOJI[c] || '•') + ' ' + c), el('span', { class: 'n', text: String(n) })]));
+    });
+  }
+
+  function card(e) {
+    var meta = [e.place, e.price].filter(Boolean).join(' · ');
+    var also = (e.also || []).map(function (u, i) { return link(u, String(i + 2)); });
+    var tag = el('div', { class: 'tag' }, [document.createTextNode((EMOJI[e.category] || '') + ' ' + e.category)]);
+    if (also.length) { tag.appendChild(document.createTextNode(' · ещё:')); also.forEach(function (a) { tag.appendChild(a); }); }
+    return el('div', { class: 'card' }, [
+      el('div', { class: e.time ? 'time' : 'time none', text: TA.timeLabel(e) }),
+      el('div', {}, [link(e.url, e.title, 'title'), meta ? el('div', { class: 'meta', text: meta }) : null, tag])
+    ]);
+  }
+
+  function render() {
+    var range = TA.rangeFor(state.range, state.today);
+    var r = TA.select(state.feed.events, range, state.cats);
+    renderTabs(); renderChips(r.counts);
+
+    var list = document.getElementById('list'); list.textContent = '';
+    var multiDay = range[0] !== range[1];
+    TA.groupByDate(r.regular).forEach(function (g) {
+      if (multiDay) list.appendChild(el('div', { class: 'day', text: TA.dayLabel(g.date, state.today) }));
+      g.events.forEach(function (e) { list.appendChild(card(e)); });
+    });
+
+    var summary = r.regular.length ? 'Событий: ' + r.regular.length : '';
+    if (state.cats.length) summary += (summary ? ' · ' : '') + 'фильтр: ' + state.cats.join(', ');
+    document.getElementById('summary').textContent = summary;
+
+    if (!r.regular.length && !r.running.length) {
+      var empty = el('div', { class: 'empty' }, [el('div', { text: state.cats.length ? 'По выбранным направлениям на этот период ничего нет.' : 'На этот период событий не нашлось.' })]);
+      if (state.cats.length) empty.appendChild(el('button', { class: 'reset', type: 'button', text: 'Снять фильтры', onclick: function () { state.cats = []; save(); render(); } }));
+      else if (state.range !== 'all') empty.appendChild(el('button', { class: 'reset', type: 'button', text: 'Показать 14 дней', onclick: function () { state.range = 'all'; render(); } }));
+      list.appendChild(empty);
+    }
+
+    var run = document.getElementById('running');
+    run.hidden = r.running.length === 0;
+    if (r.running.length) {
+      document.getElementById('running-title').textContent = 'Идут сейчас (' + r.running.length + ')';
+      var rl = document.getElementById('running-list'); rl.textContent = '';
+      r.running.forEach(function (e) {
+        var place = e.place ? ' · ' + e.place.split(',')[0] : '';
+        rl.appendChild(el('div', { class: 'run' }, [link(e.url, e.title), el('span', { class: 'until', text: ' · до ' + e.end.slice(8, 10) + '.' + e.end.slice(5, 7) + place })]));
+      });
+    }
+  }
+
+  function boot(feed) {
+    state.feed = feed;
+    var known = new Set(feed.categories);
+    state.cats = load().filter(function (c) { return known.has(c); });
+    document.getElementById('updated').textContent = 'обновлено ' + stamp(feed.generated_at);
+    var ageH = (Date.now() - new Date(feed.generated_at).getTime()) / 3600000;
+    if (ageH > 36) {
+      var s = document.getElementById('stale'); s.hidden = false;
+      s.textContent = 'Данные обновлялись ' + stamp(feed.generated_at) + ', возможно, они устарели.';
+    }
+    var f = [];
+    if (feed.failed_sources && feed.failed_sources.length) f.push('Не удалось прочитать: ' + feed.failed_sources.join(', ') + '.');
+    f.push('Данные собраны автоматически из афиш и сообществ, время и цену проверяйте по ссылке.');
+    document.getElementById('footer').textContent = f.join(' ');
+    render();
+  }
+
+  fetch('events.json?t=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(boot)
+    .catch(function () {
+      var list = document.getElementById('list'); list.textContent = '';
+      list.appendChild(el('div', { class: 'empty', text: 'Не удалось загрузить афишу. Попробуйте открыть позже.' }));
+    });
+})();
+</script>
+</body>
+</html>
