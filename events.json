@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-13T17:30:10+03:00",
+ "generated_at": "2026-10-14T15:16:44+03:00",
  "window": {
-  "start": "2026-10-13",
-  "end": "2026-10-26"
+  "start": "2026-10-14",
+  "end": "2026-10-27"
  },
  "categories": [
   "Театр",
@@ -16,115 +16,113 @@
   "Фестивали и ярмарки",
   "Прочее"
  ],
- "failed_sources": [
-  "koncerttver.ru"
- ],
+ "failed_sources": [],
  "events": [
   {
-   "id": "c5f9101815",
-   "title": "Иван-царевич и Серый Волк",
-   "date": "2026-10-13",
+   "id": "7f853b40c1",
+   "title": "Вождь краснокожих",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2502",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "cae25698bc",
+   "title": "Машенька и Медведь",
+   "date": "2026-10-14",
    "end": null,
    "time": "11:00",
    "category": "Театр",
    "place": "Тверской театр кукол",
    "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1448",
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1449",
    "also": [],
    "source": "teatr-afisha"
   },
   {
-   "id": "63086d0320",
-   "title": "Концерт Листопад добра и уважения",
-   "date": "2026-10-13",
+   "id": "d6d3beeb18",
+   "title": "Женский стендап",
+   "date": "2026-10-14",
    "end": null,
-   "time": "14:00",
+   "time": "18:00",
+   "category": "Театр",
+   "place": "Клуб Биг-Бен, ул. Брагина 2, Тверь",
+   "price": null,
+   "url": "https://vk.ru/wall-201943527_10193",
+   "also": [],
+   "source": "openmictver"
+  },
+  {
+   "id": "8c93d40572",
+   "title": "Хоррор-игра Ночной сеанс по системе Витрувий",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "18:30",
+   "category": "Прочее",
+   "place": "ул. Медниковская, 55/25, 3 этаж, Тверь",
+   "price": "450 ₽",
+   "url": "https://vk.ru/wall-222512655_9171",
+   "also": [],
+   "source": "roleplayloft"
+  },
+  {
+   "id": "0524e8a3ac",
+   "title": "Хор Сретенского монастыря",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "19:00",
    "category": "Концерты и музыка",
-   "place": "Тверской геронтологический центр",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/pesni-tancy-i-ugoshhenija-13-oktjabrja-v-gerontologicheskom-centre-ustrojat-prazdnik-dobra/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
-   "id": "7da9f6ca28",
-   "title": "Барышня-крестьянка",
-   "date": "2026-10-13",
-   "end": null,
-   "time": "15:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2594",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "1c83f33932",
-   "title": "Музыка эпохи классицизма. Йозеф Гайдн — родоначальник симфонии",
-   "date": "2026-10-13",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Культурный центр «Боголюбский», ул. Шмидта, 12",
-   "price": "700 ₽ / 350 ₽ (студентам)",
-   "url": "https://vk.ru/wall-188259486_7801",
-   "also": [
-    "https://vk.ru/wall-188259486_7712"
-   ],
-   "source": "bogolyubsky_cc"
-  },
-  {
-   "id": "86cc1b708a",
-   "title": "Хочу купить вашего мужа",
-   "date": "2026-10-13",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "ДК Металлист",
-   "price": "1500 ₽",
-   "url": "https://tver.kassir.ru/teatr/spektakl-hochu-kupit-vashego-muja",
+   "place": "ДК Пролетарка",
+   "price": "3500 ₽",
+   "url": "https://tver.kassir.ru/koncert/hor-sretenskogo-monastyirya-22",
    "also": [],
    "source": "tver.kassir.ru"
   },
   {
-   "id": "337c029682",
-   "title": "Человек. Или тень.",
-   "date": "2026-10-13",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1135",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "1dc76ecb55",
-   "title": "Шейкер квиз: лото «Кино, мультфильмы, сериалы»",
-   "date": "2026-10-13",
+   "id": "307c88179b",
+   "title": "Шейкер квиз: Телеквиз (лайт)",
+   "date": "2026-10-14",
    "end": null,
    "time": "19:00",
    "category": "Прочее",
    "place": "Ресторан «Богемия», Калинина, 3",
    "price": null,
-   "url": "https://vk.ru/wall-38565348_89041",
+   "url": "https://vk.ru/wall-38565348_89085",
    "also": [],
    "source": "spravkatver"
   },
   {
-   "id": "6ce98de1eb",
-   "title": "Шейкер квиз: музыка (иностранная)",
-   "date": "2026-10-13",
+   "id": "fd132bf224",
+   "title": "Золотые хиты поколений в Старице",
+   "date": "2026-10-14",
    "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Клуб «Биг Бен», Брагина, 2",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89054",
+   "time": "21:30",
+   "category": "Концерты и музыка",
+   "place": "Старицкий дом культуры им. Я.С. Потапова",
+   "price": "от 1200 ₽",
+   "url": "https://www.koncerttver.ru/afisha/zolotye-khity-pokoleniy-v-staritse/",
    "also": [],
-   "source": "spravkatver"
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "838e6a823e",
+   "title": "Хор Сретенского монастыря",
+   "date": "2026-10-14",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "от 1100 ₽",
+   "url": "https://www.koncerttver.ru/afisha/khor-sretenskogo-monastyrya/",
+   "also": [
+    "https://dkproletarka.ru/afisha/khor-sretenskogo-monastyrya/"
+   ],
+   "source": "koncerttver.ru"
   },
   {
    "id": "6cf609dd61",
@@ -248,21 +246,6 @@
    "source": "tverlife.ru"
   },
   {
-   "id": "e4429082d1",
-   "title": "Связь поколений",
-   "date": "2026-09-22",
-   "end": "2026-10-13",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "арт-цоколь музея",
-   "price": null,
-   "url": "https://vk.ru/wall-221251433_4760",
-   "also": [
-    "https://tverlife.ru/mesta/ot-opery-k-zhivopisi-vystavka-o-tvorcheskoj-preemstvennosti-otkrylas-v-tveri/"
-   ],
-   "source": "club221251433"
-  },
-  {
    "id": "af9792f960",
    "title": "У родного очага",
    "date": "2026-09-18",
@@ -285,86 +268,6 @@
    "place": "Библиотека им. А.М. Горького, галерея 2-го этажа",
    "price": "бесплатно",
    "url": "https://vk.ru/wall-38565348_89088",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
-   "id": "7f853b40c1",
-   "title": "Вождь краснокожих",
-   "date": "2026-10-14",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2502",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "cae25698bc",
-   "title": "Машенька и Медведь",
-   "date": "2026-10-14",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1449",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "d6d3beeb18",
-   "title": "Женский стендап",
-   "date": "2026-10-14",
-   "end": null,
-   "time": "18:00",
-   "category": "Театр",
-   "place": "Клуб Биг-Бен, ул. Брагина 2, Тверь",
-   "price": null,
-   "url": "https://vk.ru/wall-201943527_10193",
-   "also": [],
-   "source": "openmictver"
-  },
-  {
-   "id": "8c93d40572",
-   "title": "Хоррор-игра Ночной сеанс по системе Витрувий",
-   "date": "2026-10-14",
-   "end": null,
-   "time": "18:30",
-   "category": "Прочее",
-   "place": "ул. Медниковская, 55/25, 3 этаж, Тверь",
-   "price": "450 ₽",
-   "url": "https://vk.ru/wall-222512655_9171",
-   "also": [],
-   "source": "roleplayloft"
-  },
-  {
-   "id": "0524e8a3ac",
-   "title": "Хор Сретенского монастыря",
-   "date": "2026-10-14",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Пролетарка",
-   "price": "3500 ₽",
-   "url": "https://tver.kassir.ru/koncert/hor-sretenskogo-monastyirya-22",
-   "also": [
-    "https://dkproletarka.ru/afisha/khor-sretenskogo-monastyrya/"
-   ],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "307c88179b",
-   "title": "Шейкер квиз: Телеквиз (лайт)",
-   "date": "2026-10-14",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Ресторан «Богемия», Калинина, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89085",
    "also": [],
    "source": "spravkatver"
   },
@@ -473,20 +376,17 @@
    "source": "afisha69"
   },
   {
-   "id": "ebcdb43e07",
-   "title": "Сердце знает",
+   "id": "ddf6d29597",
+   "title": "Сердце знает: Виталий Погосян и Дудук-бэнд",
    "date": "2026-10-15",
    "end": null,
    "time": "18:30",
    "category": "Концерты и музыка",
-   "place": "Тверская филармония",
+   "place": "Тверская академическая областная филармония",
    "price": null,
-   "url": "https://vk.ru/wall-38565348_88962",
-   "also": [
-    "https://vk.ru/wall-38565348_88938",
-    "https://tverlife.ru/music/armjanskij-duduk-i-peterburgskie-virtuozy-neobychnyj-koncert-v-tverskoj-filarmonii/"
-   ],
-   "source": "spravkatver"
+   "url": "https://tverlife.ru/music/armjanskij-duduk-i-peterburgskie-virtuozy-neobychnyj-koncert-v-tverskoj-filarmonii/",
+   "also": [],
+   "source": "tverlife.ru"
   },
   {
    "id": "4dc0e57004",
@@ -528,6 +428,19 @@
    "url": "https://vk.ru/wall-109539026_1030",
    "also": [],
    "source": "smola.decor"
+  },
+  {
+   "id": "6926445776",
+   "title": "Золотые хиты поколений в Торопце",
+   "date": "2026-10-15",
+   "end": null,
+   "time": "21:00",
+   "category": "Концерты и музыка",
+   "place": "Торопецкий Дом культуры",
+   "price": "от 1000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/zolotye-khity-pokoleniy-v-toropce/",
+   "also": [],
+   "source": "koncerttver.ru"
   },
   {
    "id": "050d1bd21d",
@@ -792,6 +705,21 @@
    "source": "smola.decor"
   },
   {
+   "id": "fba24ff79e",
+   "title": "Танцевальная шоу-программа «Пионерлагерь. Родительский день»",
+   "date": "2026-10-16",
+   "end": null,
+   "time": "23:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "350 ₽",
+   "url": "https://www.koncerttver.ru/afisha/tantsevalnaya-shou-programma-pionerlager-roditelskiy-den/",
+   "also": [
+    "https://dkproletarka.ru/afisha/tantsevalnaya-shou-programma-pionerlager-roditelskiy-den/"
+   ],
+   "source": "koncerttver.ru"
+  },
+  {
    "id": "f3efa18723",
    "title": "Гелий Коржев. Свет и тень",
    "date": "2026-10-16",
@@ -814,19 +742,6 @@
    "place": "ДК «Пролетарка»",
    "price": null,
    "url": "https://dkproletarka.ru/afisha/kinopokazy-v-ramkakh-festivalya-kinoveche/",
-   "also": [],
-   "source": "dkproletarka.ru"
-  },
-  {
-   "id": "c74f91075e",
-   "title": "Танцевальная шоу-программа «Пионерлагерь. Родительский день»",
-   "date": "2026-10-16",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": null,
-   "url": "https://dkproletarka.ru/afisha/tantsevalnaya-shou-programma-pionerlager-roditelskiy-den/",
    "also": [],
    "source": "dkproletarka.ru"
   },
@@ -857,19 +772,6 @@
    "source": "afisha69"
   },
   {
-   "id": "dd0dae21cd",
-   "title": "Вкус детства: сочник, коржик и песочное кольцо",
-   "date": "2026-10-17",
-   "end": null,
-   "time": "11:00",
-   "category": "Мастер-классы",
-   "place": "Вкусно из печи, ул. Вагжанова, 21а",
-   "price": "1500 ₽",
-   "url": "https://vk.ru/wall-83486606_118323",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
    "id": "0c5e174275",
    "title": "Иван да Марья",
    "date": "2026-10-17",
@@ -881,19 +783,6 @@
    "url": "https://quicktickets.ru/tver-teatr-kukol/s1465",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "596924b5fe",
-   "title": "Сказки для взрослых",
-   "date": "2026-10-17",
-   "end": null,
-   "time": "11:00",
-   "category": "Мастер-классы",
-   "place": "Лисий дом, Головинский переулок, дом 2",
-   "price": "1000 р.",
-   "url": "https://vk.ru/wall-228603899_481",
-   "also": [],
-   "source": "lisiedom"
   },
   {
    "id": "17ef001bf6",
@@ -1000,6 +889,19 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "e7f136c472",
+   "title": "Читаем и обсуждаем фантастический рассказ Ф. М. Достоевского",
+   "date": "2026-10-17",
+   "end": null,
+   "time": "14:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Деловой информационный центр",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261017-1_00/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "6db2bf6cc3",
    "title": "Экскурсия по выставке Век импрессионизма",
    "date": "2026-10-17",
@@ -1013,8 +915,8 @@
    "source": "afisha69"
   },
   {
-   "id": "e27abd5e36",
-   "title": "«По дороге к упавшей звезде»",
+   "id": "538e2a7cca",
+   "title": "Марина Скирко «По дороге к упавшей звезде»",
    "date": "2026-10-17",
    "end": null,
    "time": "17:00",
@@ -1117,17 +1019,19 @@
    "source": "openmictver"
   },
   {
-   "id": "0266b07e87",
-   "title": "\"Кармен\"",
+   "id": "6e0b758809",
+   "title": "Кармен",
    "date": "2026-10-17",
    "end": null,
-   "time": null,
+   "time": "20:00",
    "category": "Театр",
    "place": "ДК «Пролетарка»",
-   "price": null,
-   "url": "https://dkproletarka.ru/afisha/karmen/",
-   "also": [],
-   "source": "dkproletarka.ru"
+   "price": "от 1800 ₽",
+   "url": "https://www.koncerttver.ru/afisha/karmen/",
+   "also": [
+    "https://dkproletarka.ru/afisha/karmen/"
+   ],
+   "source": "koncerttver.ru"
   },
   {
    "id": "ce74fe771f",
@@ -1210,32 +1114,6 @@
     "https://vk.ru/wall-212069516_5286"
    ],
    "source": "lectory_tver"
-  },
-  {
-   "id": "5e994fe92e",
-   "title": "Пирожки на любой вкус",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "12:00",
-   "category": "Мастер-классы",
-   "place": "Вкусно из печи, ул. Вагжанова, 21а",
-   "price": "1300 ₽",
-   "url": "https://vk.ru/wall-83486606_118323",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
-   "id": "29ca731105",
-   "title": "Тверь - город трех религий",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "12:00",
-   "category": "Выставки и экскурсии",
-   "place": null,
-   "price": "1100 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
   },
   {
    "id": "fbbd0c9b00",
@@ -1398,6 +1276,21 @@
    "source": "tverlib.ru"
   },
   {
+   "id": "9490327585",
+   "title": "Елена Ваенга",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "18:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2800 ₽",
+   "url": "https://www.koncerttver.ru/afisha/elena-vaenga-2026/",
+   "also": [
+    "https://dkproletarka.ru/afisha/elena-vaenga26/"
+   ],
+   "source": "koncerttver.ru"
+  },
+  {
    "id": "d1636de135",
    "title": "Playingtheangel",
    "date": "2026-10-18",
@@ -1452,6 +1345,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "7495174b80",
+   "title": "Вокальное трио БЭЙС",
+   "date": "2026-10-18",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/vokalnoe-trio-beys/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
    "id": "541b8fa23f",
    "title": "Афанасий",
    "date": "2026-10-18",
@@ -1463,19 +1369,6 @@
    "url": "https://vk.ru/wall-38565348_89051",
    "also": [],
    "source": "spravkatver"
-  },
-  {
-   "id": "f771d92af4",
-   "title": "Елена Ваенга",
-   "date": "2026-10-18",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": null,
-   "url": "https://dkproletarka.ru/afisha/elena-vaenga26/",
-   "also": [],
-   "source": "dkproletarka.ru"
   },
   {
    "id": "4547929e5b",
@@ -1500,10 +1393,36 @@
    "place": "ДК Пролетарка",
    "price": "3000 ₽",
    "url": "https://tver.kassir.ru/shou/bratya-safronovyi-uragan-chudes-2",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "2d84038b71",
+   "title": "Братья Сафроновы Великие иллюзии",
+   "date": "2026-10-19",
+   "end": null,
+   "time": "22:00",
+   "category": "Театр",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/bratya-safronovy-velikie-illyuzii/",
    "also": [
     "https://dkproletarka.ru/afisha/bratya-safronovy-velikie-illyuzii/"
    ],
-   "source": "tver.kassir.ru"
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "3a9e3fa7e1",
+   "title": "Тверской изобретатель и рационализатор – 2026",
+   "date": "2026-10-20",
+   "end": null,
+   "time": "09:00",
+   "category": "Выставки и экскурсии",
+   "place": "Библиотека Горького, -15.00 Большой зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261020-1/",
+   "also": [],
+   "source": "tverlib.ru"
   },
   {
    "id": "6a74403769",
@@ -1567,9 +1486,7 @@
    "place": "ДК Пролетарка",
    "price": "2500 ₽",
    "url": "https://tver.kassir.ru/koncert/lesopoval",
-   "also": [
-    "https://dkproletarka.ru/afisha/gruppa-lesopoval26/"
-   ],
+   "also": [],
    "source": "tver.kassir.ru"
   },
   {
@@ -1584,6 +1501,34 @@
    "url": "https://forms.gle/wFbM8xcGLKJRYyM97",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "d347559875",
+   "title": "Группа «Лесоповал»",
+   "date": "2026-10-20",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/gruppa-lesopoval-2026/",
+   "also": [
+    "https://dkproletarka.ru/afisha/gruppa-lesopoval26/"
+   ],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "4063ba3dad",
+   "title": "Роковое наследство",
+   "date": "2026-10-20",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Металлист\"",
+   "price": "от 2000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/rokovoe-nasledstvo/",
+   "also": [],
+   "source": "koncerttver.ru"
   },
   {
    "id": "6c9d0e2e25",
@@ -1694,6 +1639,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "109735e573",
+   "title": "Роковое наследство",
+   "date": "2026-10-21",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ЦОИ Калининской АЭС г. Удомля",
+   "price": "от 1800 ₽",
+   "url": "https://www.koncerttver.ru/afisha/rokovoe-nasledstvo2508/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
    "id": "83e96b9f69",
    "title": "Концертная программа, посвященная всероссийскому празднику День отца",
    "date": "2026-10-21",
@@ -1759,6 +1717,19 @@
    "source": "smola.decor"
   },
   {
+   "id": "acafc9885d",
+   "title": "Раневская. Одинокая насмешница",
+   "date": "2026-10-22",
+   "end": null,
+   "time": "22:00",
+   "category": "Театр",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1700 ₽",
+   "url": "https://www.koncerttver.ru/afisha/-ranevskaya-odinokaya-nasmeshnitsa/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
    "id": "117bf3f34d",
    "title": "Пролетарский квартирник. Всеволод Мишуров и Илья Ушаков",
    "date": "2026-10-22",
@@ -1785,19 +1756,17 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "234bea9d85",
-   "title": "Пушкинский бал «Чёрная речка... вальс, прерванный судьбой» в рамках проекта «Бал-перезагрузка»",
+   "id": "7d2f24c8a3",
+   "title": "Пушкинский бал. Чёрная речка... вальс, прерванный судьбой",
    "date": "2026-10-23",
    "end": null,
    "time": "13:00",
    "category": "Прочее",
-   "place": "ДК «Пролетарка»",
+   "place": "Бальный зал ОДК «Пролетарка»",
    "price": null,
-   "url": "https://dkproletarka.ru/afisha/pushkinskiy-bal-chyernaya-rechka-vals-prervannyy-sudboy-v-ramkakh-proekta-bal-perezagruzka/",
-   "also": [
-    "https://vk.ru/wall-38565348_88988"
-   ],
-   "source": "dkproletarka.ru"
+   "url": "https://vk.ru/wall-38565348_88988",
+   "also": [],
+   "source": "spravkatver"
   },
   {
    "id": "1670ee4a88",
@@ -1811,6 +1780,21 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1127",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "8ac93f7062",
+   "title": "Чёрная речка... вальс, прерванный судьбой",
+   "date": "2026-10-23",
+   "end": null,
+   "time": "16:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "300 ₽",
+   "url": "https://www.koncerttver.ru/afisha/chyernaya-rechka-vals-prervannyy-sudboy/",
+   "also": [
+    "https://dkproletarka.ru/afisha/pushkinskiy-bal-chyernaya-rechka-vals-prervannyy-sudboy-v-ramkakh-proekta-bal-perezagruzka/"
+   ],
+   "source": "koncerttver.ru"
   },
   {
    "id": "b0172cf54f",
@@ -2400,6 +2384,19 @@
    "source": "dkproletarka.ru"
   },
   {
+   "id": "71e04eaedc",
+   "title": "Культура «Ахлян уа сахлян»: подлинное искусство арабского гостеприимства",
+   "date": "2026-10-25",
+   "end": null,
+   "time": null,
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261025_00/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "dfb81654f0",
    "title": "Почитание Богородицы в Древней Руси",
    "date": "2026-10-25",
@@ -2439,6 +2436,99 @@
     "https://vk.ru/wall-38565348_89087"
    ],
    "source": "bogolyubsky_cc"
+  },
+  {
+   "id": "a3b6e399e0",
+   "title": "Волшебная лампа Аладдина",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1459",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "c3be5531a4",
+   "title": "Красавица и чудовище",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "12:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2509",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "3f56540e26",
+   "title": "Мастер-класс Тверская матрёшка",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "12:00",
+   "category": "Мастер-классы",
+   "place": "ТГМВЦ, ул. Советская, д. 54 (Лекционно-выставочный зал)",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118409",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
+   "id": "33b3438bae",
+   "title": "Курс «Говорим красиво»",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "19:00",
+   "category": "Мастер-классы",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2596",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "afad42951b",
+   "title": "Скамейка",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1129",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "dc219d042d",
+   "title": "Театр балета «Русский балет» им. В.М. Гордеева",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "21:30",
+   "category": "Театр",
+   "place": "Тверской Академический театр драмы",
+   "price": "от 500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/teatr-baleta-russkiy-balet-im-v-m-gordeeva-/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "ac7920e41a",
+   "title": "Елена НикОленко «Настоящая»",
+   "date": "2026-10-27",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": "от 200 ₽",
+   "url": "https://www.koncerttver.ru/afisha/elena-nikolenko-nastoyashchaya/",
+   "also": [
+    "https://dkproletarka.ru/afisha/elena-nikolenko-nastoyashchaya/"
+   ],
+   "source": "koncerttver.ru"
   }
  ]
 }
