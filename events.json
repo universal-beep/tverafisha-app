@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T14:35:29+03:00",
+ "generated_at": "2026-10-19T16:49:29+03:00",
  "window": {
-  "start": "2026-10-18",
-  "end": "2026-10-31"
+  "start": "2026-10-19",
+  "end": "2026-11-01"
  },
  "categories": [
   "Театр",
@@ -19,327 +19,18 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "70511ebc42",
-   "title": "Физика, которая удивляет",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "10:00",
-   "category": "Детям",
-   "place": "Эксперимент Лэнд",
-   "price": "500 ₽",
-   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "2b8cff9e65",
-   "title": "Айболит и Бармалей",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1452",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "88a7e24e2c",
-   "title": "Тверь-СШОР — Русичи-2",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "11:00",
-   "category": "Прочее",
-   "place": "Маршала Конева, 12",
-   "price": "бесплатно",
-   "url": "https://vk.ru/wall-241923990_3",
-   "also": [],
-   "source": "club164426939"
-  },
-  {
-   "id": "97fac0a650",
-   "title": "Мастер-класс по вышивке «Сэмплер: птицы и шовчики»",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "12:00",
-   "category": "Мастер-классы",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261018-2/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "99e356ed94",
-   "title": "Непарадный центр: по тихим улочкам Твери",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "12:00",
-   "category": "Выставки и экскурсии",
-   "place": null,
-   "price": "700 рублей",
-   "url": "https://vk.ru/wall43803602_4701",
-   "also": [
-    "https://vk.ru/wall-212069516_5301",
-    "https://vk.ru/wall-212069516_5287",
-    "https://vk.ru/wall-212069516_5286"
-   ],
-   "source": "lectory_tver"
-  },
-  {
-   "id": "fbbd0c9b00",
-   "title": "Экскурсия по выставке Век импрессионизма",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "12:00",
-   "category": "Выставки и экскурсии",
-   "place": "ТГМВЦ, ул. Советская, д. 54",
-   "price": null,
-   "url": "https://vk.ru/wall-83486606_118414",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
-   "id": "136b04f705",
-   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
-   "date": "2026-10-18",
-   "end": "2026-10-31",
-   "time": "13:00",
-   "category": "Выставки и экскурсии",
-   "place": "Рельсы",
-   "price": "950 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "b612ff23a7",
-   "title": "Корея: голоса пост-семейной эпохи",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "13:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Отдел литературы на иностранных языках",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261018-1_00/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "ec3241c2f1",
-   "title": "Подсвечник своими руками",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "13:00",
-   "category": "Мастер-классы",
-   "place": "ТЦ «Дюна», 3 этаж",
-   "price": "650 ₽",
-   "url": "https://vk.ru/wall-83486606_118482",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
-   "id": "914e620bac",
-   "title": "Лекция-дегустация: «История гастробрендов Тверской области»",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "14:00",
-   "category": "Лекции и встречи",
-   "place": "Рельсы",
-   "price": "1000 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "63dceffa88",
-   "title": "Елена Ваенга",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "15:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Пролетарка",
-   "price": "2800 ₽",
-   "url": "https://tver.kassir.ru/koncert/elena-vaenga",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "71ad367136",
-   "title": "Настольный теннис (для всех желающих)",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "15:00",
-   "category": "Прочее",
-   "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "250 ₽",
-   "url": "https://tver.kassir.ru/sport/nastolnyiy-tennis-dlya-vseh-jelayuschih",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "36966bc59d",
-   "title": "Экскурсия по выставке Век импрессионизма",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "15:00",
-   "category": "Выставки и экскурсии",
-   "place": "ТГМВЦ, ул. Советская, д. 54",
-   "price": null,
-   "url": "https://vk.ru/wall-83486606_118414",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
-   "id": "ef440da48f",
-   "title": "Несколько дней на двоих",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "16:00",
-   "category": "Театр",
-   "place": "Быстрый театр",
-   "price": "600 ₽",
-   "url": "https://vk.com/wall-146146577_4020",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "cc02b572c2",
-   "title": "Праздничный концерт Папин день календаря",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "16:00",
-   "category": "Концерты и музыка",
-   "place": "ДК «Затверецкий», ул. Академика Туполева, 105",
-   "price": "бесплатно",
-   "url": "https://vk.ru/wall-83486606_118497",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
-   "id": "dbe62a9d9b",
-   "title": "Вафельное сердце",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "17:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2510",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "2ef43ba771",
-   "title": "Дизайн на столе: большие идеи в маленьких предметах",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "17:00",
-   "category": "Лекции и встречи",
-   "place": "Рельсы",
-   "price": "550 ₽",
-   "url": "https://therails.cc/",
-   "also": [
-    "https://vk.ru/wall-19087605_10858"
-   ],
-   "source": "therails.cc"
-  },
-  {
-   "id": "6887286b2f",
-   "title": "Мафия",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "17:00",
-   "category": "Прочее",
-   "place": "центр Твери",
-   "price": "600 ₽",
-   "url": "https://vk.ru/wall-212069516_5291",
-   "also": [
-    "https://vk.ru/wall-212069516_5286"
-   ],
-   "source": "lectory_tver"
-  },
-  {
-   "id": "7b6039d799",
-   "title": "Чужбина - родина моя",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "17:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261018/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "9490327585",
-   "title": "Елена Ваенга",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "18:00",
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": "от 2800 ₽",
-   "url": "https://www.koncerttver.ru/afisha/elena-vaenga-2026/",
-   "also": [
-    "https://dkproletarka.ru/afisha/elena-vaenga26/"
-   ],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "361ab77478",
-   "title": "Массовое катание",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "18:00",
-   "category": "Прочее",
-   "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "250 ₽",
-   "url": "https://tver.kassir.ru/sport/massovoe-katanie-1",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "8d36ebeffd",
-   "title": "Фильм «Мы иные»",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "19:00",
-   "category": "Кино",
-   "place": "Рельсы",
-   "price": null,
-   "url": "https://forms.gle/kFrLuj2gBEFno18n8",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "d164bd02c0",
-   "title": "Старуха",
-   "date": "2026-10-18",
-   "end": null,
-   "time": "19:30",
-   "category": "Театр",
-   "place": "Камерный театр Тверь",
-   "price": null,
-   "url": "https://tver.qtickets.events/263200-spektakl-starukha-kopiya",
-   "also": [
-    "https://vk.ru/wall-38565348_89081"
-   ],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "7495174b80",
-   "title": "Вокальное трио БЭЙС",
-   "date": "2026-10-18",
+   "id": "2d84038b71",
+   "title": "Братья Сафроновы Великие иллюзии",
+   "date": "2026-10-19",
    "end": null,
    "time": "22:00",
-   "category": "Концерты и музыка",
-   "place": "ДК \"Металлист\"",
-   "price": "от 1000 ₽",
-   "url": "https://www.koncerttver.ru/afisha/vokalnoe-trio-beys/",
-   "also": [],
+   "category": "Театр",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/bratya-safronovy-velikie-illyuzii/",
+   "also": [
+    "https://dkproletarka.ru/afisha/bratya-safronovy-velikie-illyuzii/"
+   ],
    "source": "koncerttver.ru"
   },
   {
@@ -357,32 +48,6 @@
     "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/"
    ],
    "source": "tvergallery"
-  },
-  {
-   "id": "541b8fa23f",
-   "title": "Афанасий",
-   "date": "2026-10-18",
-   "end": null,
-   "time": null,
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89051",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
-   "id": "01454b0f4a",
-   "title": "Выставка из коллекции Андрея Конькова",
-   "date": "2026-08-14",
-   "end": "2026-10-18",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Большой зал ТГМВЦ",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89097",
-   "also": [],
-   "source": "spravkatver"
   },
   {
    "id": "0e8720048f",
@@ -409,19 +74,6 @@
    "url": "https://vk.ru/wall-35652362_18078",
    "also": [],
    "source": "tvergallery"
-  },
-  {
-   "id": "4547929e5b",
-   "title": "Разговор о поэзии Райнера Марии Рильке",
-   "date": "2026-10-18",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": null,
-   "price": "от 300 ₽",
-   "url": "https://vk.ru/wall-211140867_5343",
-   "also": [],
-   "source": "dom36tver"
   },
   {
    "id": "a57629383e",
@@ -476,60 +128,6 @@
    "source": "spravkatver"
   },
   {
-   "id": "3c290ab18f",
-   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-10-19",
-   "end": null,
-   "time": "09:00",
-   "category": "Выставки и экскурсии",
-   "place": "Мемориальный комплекс \"Медное\"",
-   "price": "550 ₽",
-   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "020fd3f342",
-   "title": "Золотые флажки: Мастер-класс по чеканке на фольге",
-   "date": "2026-10-19",
-   "end": null,
-   "time": "16:00",
-   "category": "Мастер-классы",
-   "place": "Котокафе \"Мур-мяу\"",
-   "price": "1000 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/zolotyie-flajki-master-klass-po-chekanke-na-folge",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "9d06eb7e10",
-   "title": "Братья Сафроновы",
-   "date": "2026-10-19",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "ДК Пролетарка",
-   "price": "3000 ₽",
-   "url": "https://tver.kassir.ru/shou/bratya-safronovyi-uragan-chudes-2",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "2d84038b71",
-   "title": "Братья Сафроновы Великие иллюзии",
-   "date": "2026-10-19",
-   "end": null,
-   "time": "22:00",
-   "category": "Театр",
-   "place": "ДК «Пролетарка»",
-   "price": "от 2500 ₽",
-   "url": "https://www.koncerttver.ru/afisha/bratya-safronovy-velikie-illyuzii/",
-   "also": [
-    "https://dkproletarka.ru/afisha/bratya-safronovy-velikie-illyuzii/"
-   ],
-   "source": "koncerttver.ru"
-  },
-  {
    "id": "3a9e3fa7e1",
    "title": "Тверской изобретатель и рационализатор – 2026",
    "date": "2026-10-20",
@@ -541,45 +139,6 @@
    "url": "https://tverlib.ru/ru/event/2026/20261020-1/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "4aa29d5eb4",
-   "title": "Во имя тебя, Родина! Выставка",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "10:00",
-   "category": "Выставки и экскурсии",
-   "place": "Тверской областной дом народного творчества",
-   "price": "бесплатно",
-   "url": "https://tver.kassir.ru/muzey/vo-imya-tebya-rodina-vyistavka",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "aaa9e5a50e",
-   "title": "Мир наших историй: Выставка народной студии традиционных ремёсел \"Супрядки\"",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "10:00",
-   "category": "Выставки и экскурсии",
-   "place": "Тверской областной дом народного творчества",
-   "price": "бесплатно",
-   "url": "https://tver.kassir.ru/vystavki/mir-nashih-istoriy-vyistavka-narodnoy-studii-traditsionnyih-remyosel-supryadki",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "51526bfe03",
-   "title": "Территория смелых. Выставка",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "10:00",
-   "category": "Выставки и экскурсии",
-   "place": "Тверской областной дом народного творчества",
-   "price": "бесплатно",
-   "url": "https://tver.kassir.ru/muzey/territoriya-smelyih-oblastnaya-vyistavka",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "6a74403769",
@@ -621,19 +180,6 @@
    "source": "spravkatver"
   },
   {
-   "id": "bd4785f44f",
-   "title": "Композиция из вощины. Мастер-класс",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "15:00",
-   "category": "Детям",
-   "place": "Центр культуры и досуга",
-   "price": "200 ₽",
-   "url": "https://tver.kassir.ru/detyam/svecha-iz-voschinyi-master-klass",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
    "id": "afba74969a",
    "title": "Творческая встреча с фотографом Игорем Пискарёвым",
    "date": "2026-10-20",
@@ -645,45 +191,6 @@
    "url": "https://tverlib.ru/ru/event/2026/20261020/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "e386f7c2e4",
-   "title": "Картина с листьями: Мастер-класс",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "18:30",
-   "category": "Мастер-классы",
-   "place": "Котокафе \"Мур-мяу\"",
-   "price": "600 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/kartina-s-listyami-master-klass",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "27c524e5d8",
-   "title": "Лесоповал",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Пролетарка",
-   "price": "2500 ₽",
-   "url": "https://tver.kassir.ru/koncert/lesopoval",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "b3b13be31f",
-   "title": "Роковое наследство",
-   "date": "2026-10-20",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "ДК Металлист",
-   "price": "2000 ₽",
-   "url": "https://tver.kassir.ru/teatr/rokovoe-nasledstvo-6",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "e614cb229d",
@@ -814,41 +321,23 @@
    "place": "Культурный центр «Боголюбский», Шмидта, 12",
    "price": "2000 ₽ за два дня, 1100 ₽ за один день",
    "url": "https://vk.ru/wall-188259486_7748",
-   "also": [
-    "https://vk.ru/wall-38565348_89045"
-   ],
+   "also": [],
    "source": "bogolyubsky_cc"
   },
   {
-   "id": "4364f5f967",
-   "title": "Космическая вселенная Ханса Циммера. Оркестр Sole Concerts",
-   "date": "2026-10-21",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Металлист",
-   "price": "1400 ₽",
-   "url": "https://tver.kassir.ru/koncert/sovetskie-hityi-4",
-   "also": [
-    "https://tver.kassir.ru/koncert/sovetskie-hityi-4#4115228"
-   ],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "4277c61ffc",
-   "title": "Одиночество XXI века: проблема или свобода? Беседа-дискуссия",
+   "id": "1b8619c589",
+   "title": "Одиночество XXI века: проблема или свобода?",
    "date": "2026-10-21",
    "end": null,
    "time": "19:00",
    "category": "Лекции и встречи",
-   "place": "Гостиница Волга",
-   "price": "750 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/odinochestvo-xxi-veka-problema-ili-svoboda-beseda-diskussiya",
+   "place": "Гостиница «Волга», конференц-зал, 2 этаж",
+   "price": "750 рублей",
+   "url": "https://vk.ru/wall-212069516_5306",
    "also": [
-    "https://vk.ru/wall-212069516_5306",
     "https://vk.ru/wall-212069516_5286"
    ],
-   "source": "tver.kassir.ru"
+   "source": "lectory_tver"
   },
   {
    "id": "311649ebab",
@@ -862,19 +351,6 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1126",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "2cae3a47ba",
-   "title": "Роковое наследство (Удомля)",
-   "date": "2026-10-21",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Центр общественной информации Калининской АЭС (КЗ ЦОИ КАЭС)",
-   "price": "1800 ₽",
-   "url": "https://tver.kassir.ru/teatr/rokovoe-nasledstvo-udomlya",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "109735e573",
@@ -901,19 +377,6 @@
    "url": "https://dkproletarka.ru/afisha/kontsertnaya-programma-posvyashchennaya-vserossiyskomu-prazdniku-den-ottsa/",
    "also": [],
    "source": "dkproletarka.ru"
-  },
-  {
-   "id": "6311990937",
-   "title": "Интерактивная программа «Секреты Капустных вечерок: традиции и обычаи Руси»",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "14:00",
-   "category": "Детям",
-   "place": "Центр культуры и досуга",
-   "price": "бесплатно",
-   "url": "https://tver.kassir.ru/detyam/pora-kvasit-kulinarnyiy-master-klass",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "969494adda",
@@ -953,19 +416,6 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1119",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "f0f14413b5",
-   "title": "Раневская",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "ДК Металлист",
-   "price": "2300 ₽",
-   "url": "https://tver.kassir.ru/teatr/ranevskaya-odinokaya-nasmeshnitsa-9",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "e9869690c4",
@@ -1018,19 +468,6 @@
    "url": "https://quicktickets.ru/tver-teatr-kukol/s1485",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "7b1f7699e2",
-   "title": "Интеллектуальный квиз для молодежи",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "12:00",
-   "category": "Прочее",
-   "place": "Лихославльская центральная библиотека имени В.Н. Соколова",
-   "price": "100 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/intellektualnyiy-kviz-dlya-molodeji",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "1670ee4a88",
@@ -1141,19 +578,6 @@
    "source": "smola.decor"
   },
   {
-   "id": "255b22fe40",
-   "title": "Лекция в лектории музея",
-   "date": "2026-10-23",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Тверской краеведческий музей",
-   "price": null,
-   "url": "https://vk.ru/wall-22098014_15515",
-   "also": [],
-   "source": "tvermuzeum"
-  },
-  {
    "id": "d6d9fc8c09",
    "title": "Лекция о внешней политике Петра I",
    "date": "2026-10-23",
@@ -1222,17 +646,17 @@
    "source": "pereplyot"
   },
   {
-   "id": "e59dab5bfa",
-   "title": "Мастер-класс по росписи по дереву: Краски Русского Севера",
+   "id": "cd877e08dc",
+   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
    "date": "2026-10-24",
-   "end": null,
-   "time": "12:00",
-   "category": "Мастер-классы",
-   "place": "Тверской областной дом народного творчества",
-   "price": "400 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/master-klass-po-rospisi-po-derevu-kraski-russkogo-severa",
+   "end": "2026-10-31",
+   "time": "13:00",
+   "category": "Выставки и экскурсии",
+   "place": "Рельсы",
+   "price": "950 ₽",
+   "url": "https://therails.cc/",
    "also": [],
-   "source": "tver.kassir.ru"
+   "source": "therails.cc"
   },
   {
    "id": "e74d3c47d3",
@@ -1285,19 +709,6 @@
    "url": "https://vk.ru/wall-233053028_14",
    "also": [],
    "source": "roleplayloft"
-  },
-  {
-   "id": "a15d04adb7",
-   "title": "Роспись по дереву",
-   "date": "2026-10-24",
-   "end": null,
-   "time": "15:00",
-   "category": "Прочее",
-   "place": "Центр культуры и досуга",
-   "price": "200 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/rospis-po-derevu",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "25b705dd45",
@@ -1527,20 +938,19 @@
    "source": "lectory2.ru"
   },
   {
-   "id": "5181bfc8bd",
-   "title": "Тверь поэтическая. Экскурсия",
+   "id": "6354ee8a17",
+   "title": "Тверь поэтическая",
    "date": "2026-10-25",
    "end": null,
    "time": "12:00",
    "category": "Выставки и экскурсии",
-   "place": "Набережная Степана Разина",
+   "place": null,
    "price": "700 ₽",
-   "url": "https://tver.kassir.ru/ekskursii/tver-poeticheskaya-ekskursiya",
+   "url": "https://vk.ru/wall-212069516_5287",
    "also": [
-    "https://vk.ru/wall-212069516_5287",
     "https://vk.ru/wall-212069516_5286"
    ],
-   "source": "tver.kassir.ru"
+   "source": "lectory_tver"
   },
   {
    "id": "6b550cf3a3",
@@ -1738,19 +1148,6 @@
    "url": "https://quicktickets.ru/tver-tuz/s2509",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "3f56540e26",
-   "title": "Мастер-класс Тверская матрёшка",
-   "date": "2026-10-27",
-   "end": null,
-   "time": "12:00",
-   "category": "Мастер-классы",
-   "place": "ТГМВЦ, ул. Советская, д. 54 (Лекционно-выставочный зал)",
-   "price": null,
-   "url": "https://vk.ru/wall-83486606_118409",
-   "also": [],
-   "source": "afisha69"
   },
   {
    "id": "33b3438bae",
@@ -1978,19 +1375,6 @@
    "source": "smola.decor"
   },
   {
-   "id": "2d3d0aff57",
-   "title": "ЛимонЭрудит. Интеллектуальная игра",
-   "date": "2026-10-30",
-   "end": null,
-   "time": "12:00",
-   "category": "Прочее",
-   "place": "Лихославльская центральная библиотека имени В.Н. Соколова",
-   "price": "300 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/limonerudit-intellektualnaya-igra",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
    "id": "3c6d1dec92",
    "title": "Чёрная курица",
    "date": "2026-10-30",
@@ -2015,6 +1399,19 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1131",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "ecbfe2f190",
+   "title": "Презентация сайта «Карельская нить жизни»",
+   "date": "2026-10-30",
+   "end": null,
+   "time": "15:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Отдел литературы на иностранных языках",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261030-1/",
+   "also": [],
+   "source": "tverlib.ru"
   },
   {
    "id": "81e5cb5635",
@@ -2082,19 +1479,6 @@
    "source": "koncerttver.ru"
   },
   {
-   "id": "e7d7ad9d84",
-   "title": "Афанасий",
-   "date": "2026-10-30",
-   "end": null,
-   "time": null,
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89051",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
    "id": "1b02d48068",
    "title": "Открытие Всероссийского детско‑юношеского кинофестиваля «Мосты»",
    "date": "2026-10-30",
@@ -2132,19 +1516,6 @@
    "url": "https://tverlib.ru/ru/event/kluby/tverskoy-klub-pchelovodov/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "2b8f733bc5",
-   "title": "Мастер-класс по изготовлению народного костюма: Мужская рубаха",
-   "date": "2026-10-31",
-   "end": null,
-   "time": "11:00",
-   "category": "Мастер-классы",
-   "place": "Тверской областной дом народного творчества",
-   "price": "600 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/master-klass-po-izgotovleniyu-narodnogo-kostyuma-mujskaya-rubaha",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "d94ba9652e",
@@ -2247,9 +1618,7 @@
    "place": "Театр Париж",
    "price": null,
    "url": "https://teatrparis.ru",
-   "also": [
-    "https://vk.com/wall-206028351_7563"
-   ],
+   "also": [],
    "source": "teatr-afisha"
   },
   {
@@ -2307,19 +1676,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "24010b42b6",
-   "title": "Оркестр Cagmo: Симфония Майкла Джексона при свечах",
-   "date": "2026-10-31",
-   "end": null,
-   "time": "18:00",
-   "category": "Концерты и музыка",
-   "place": "Киноконцертный зал Панорама",
-   "price": "2500 ₽",
-   "url": "https://tver.kassir.ru/koncert/orkestr-cagmo-simfoniya-maykla-djeksona-pri-svechah",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
    "id": "96eab91724",
    "title": "Рок-н-Хтонь",
    "date": "2026-10-31",
@@ -2331,19 +1687,6 @@
    "url": "https://vk.ru/wall-240274797_31",
    "also": [],
    "source": "art_cherdak_tver"
-  },
-  {
-   "id": "55aa97f512",
-   "title": "Кубанский казачий хор",
-   "date": "2026-10-31",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Пролетарка",
-   "price": "2200 ₽",
-   "url": "https://tver.kassir.ru/koncert/kubanskiy-kazachiy-hor",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "03c59c2d28",
@@ -2385,19 +1728,6 @@
    "url": "https://tverlib.ru/ru/event/kluby/tverskoy-klub-chto-gde-kogda/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "f90b4dac1b",
-   "title": "Афанасий",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89051",
-   "also": [],
-   "source": "spravkatver"
   },
   {
    "id": "136555288a",
@@ -2606,6 +1936,75 @@
    "url": "https://tverlib.ru/ru/event/vistavki/202610-01/",
    "also": [],
    "source": "tverlib.ru"
+  },
+  {
+   "id": "b6c9a298c1",
+   "title": "Маленькое чудо",
+   "date": "2026-11-01",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1468",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "f2ed67b968",
+   "title": "Фестиваль Наука 0+",
+   "date": "2026-11-01",
+   "end": null,
+   "time": "11:00",
+   "category": "Фестивали и ярмарки",
+   "place": "Детский технопарк Кванториум, пер. Студенческий, д. 28",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-83486606_118415",
+   "also": [
+    "https://tverlife.ru/mesta/nauka-0-v-tveri-1-nojabrja-v-kvantoriume-projdjot-festival-dlja-detej-i-vzroslyh/"
+   ],
+   "source": "afisha69"
+  },
+  {
+   "id": "3cd459e5fa",
+   "title": "Тверские храмы",
+   "date": "2026-11-01",
+   "end": null,
+   "time": "13:00",
+   "category": "Выставки и экскурсии",
+   "place": null,
+   "price": "1100 ₽",
+   "url": "https://lectory2.ru/",
+   "also": [],
+   "source": "lectory2.ru"
+  },
+  {
+   "id": "06bafc0b49",
+   "title": "Курс «Говорим красиво»",
+   "date": "2026-11-01",
+   "end": null,
+   "time": "17:00",
+   "category": "Мастер-классы",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2600",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "6ed4ae7a2d",
+   "title": "Салон красоты или О чём говорят женщины",
+   "date": "2026-11-01",
+   "end": null,
+   "time": "17:00",
+   "category": "Театр",
+   "place": "Театр Париж",
+   "price": null,
+   "url": "https://teatrparis.ru",
+   "also": [
+    "https://vk.com/wall-206028351_7563"
+   ],
+   "source": "teatr-afisha"
   }
  ]
 }
