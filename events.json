@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-21T15:13:16+03:00",
+ "generated_at": "2026-10-22T15:16:31+03:00",
  "window": {
-  "start": "2026-10-21",
-  "end": "2026-11-03"
+  "start": "2026-10-22",
+  "end": "2026-11-04"
  },
  "categories": [
   "Театр",
@@ -19,56 +19,30 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "709441f264",
-   "title": "Конек-Горбунок",
-   "date": "2026-10-21",
+   "id": "969494adda",
+   "title": "Философский клуб: любовь как задача",
+   "date": "2026-10-22",
    "end": null,
-   "time": "11:00",
+   "time": "17:00",
+   "category": "Мастер-классы",
+   "place": "Рельсы",
+   "price": "300 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
+  },
+  {
+   "id": "6851b6e419",
+   "title": "Гранатовый браслет",
+   "date": "2026-10-22",
+   "end": null,
+   "time": "18:30",
    "category": "Театр",
-   "place": "Тверской театр кукол",
+   "place": "Тверской академический театр драмы",
    "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1455",
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1119",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "e03eff8173",
-   "title": "Приключение Колобка",
-   "date": "2026-10-21",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2512",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "59edc2b423",
-   "title": "Работа метеослужбы в современных условиях",
-   "date": "2026-10-21",
-   "end": null,
-   "time": "14:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Актовый зал",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261021/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "6db9fd1916",
-   "title": "Альтернативная история жизни на Земле — Михаил Никитин",
-   "date": "2026-10-21",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Тверь",
-   "price": "1300 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
   },
   {
    "id": "2c76d81a08",
@@ -84,43 +58,28 @@
    "source": "bogolyubsky_cc"
   },
   {
-   "id": "1b8619c589",
-   "title": "Одиночество XXI века: проблема или свобода?",
-   "date": "2026-10-21",
+   "id": "e9869690c4",
+   "title": "Диффузор Что пахнет моим домом",
+   "date": "2026-10-22",
    "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Гостиница «Волга», конференц-зал, 2 этаж",
-   "price": "750 рублей",
-   "url": "https://vk.ru/wall-212069516_5306",
-   "also": [
-    "https://vk.ru/wall-212069516_5286"
-   ],
-   "source": "lectory_tver"
-  },
-  {
-   "id": "311649ebab",
-   "title": "Пигмалион",
-   "date": "2026-10-21",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1126",
+   "time": "20:00",
+   "category": "Мастер-классы",
+   "place": "Смола, бульвар Радищева, 6",
+   "price": "2500 ₽",
+   "url": "https://vk.ru/wall-109539026_1030",
    "also": [],
-   "source": "teatr-afisha"
+   "source": "smola.decor"
   },
   {
-   "id": "109735e573",
-   "title": "Роковое наследство",
-   "date": "2026-10-21",
+   "id": "acafc9885d",
+   "title": "Раневская. Одинокая насмешница",
+   "date": "2026-10-22",
    "end": null,
    "time": "22:00",
-   "category": "Концерты и музыка",
-   "place": "ЦОИ Калининской АЭС г. Удомля",
-   "price": "от 1800 ₽",
-   "url": "https://www.koncerttver.ru/afisha/rokovoe-nasledstvo2508/",
+   "category": "Театр",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1700 ₽",
+   "url": "https://www.koncerttver.ru/afisha/-ranevskaya-odinokaya-nasmeshnitsa/",
    "also": [],
    "source": "koncerttver.ru"
   },
@@ -135,7 +94,6 @@
    "price": null,
    "url": "https://vk.ru/wall-35652362_17977",
    "also": [
-    "https://vk.ru/wall-35652362_17971",
     "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/"
    ],
    "source": "tvergallery"
@@ -167,15 +125,15 @@
    "source": "tvergallery"
   },
   {
-   "id": "83e96b9f69",
-   "title": "Концертная программа, посвященная всероссийскому празднику День отца",
-   "date": "2026-10-21",
+   "id": "117bf3f34d",
+   "title": "Пролетарский квартирник. Всеволод Мишуров и Илья Ушаков",
+   "date": "2026-10-22",
    "end": null,
    "time": null,
    "category": "Концерты и музыка",
    "place": "ДК «Пролетарка»",
    "price": null,
-   "url": "https://dkproletarka.ru/afisha/kontsertnaya-programma-posvyashchennaya-vserossiyskomu-prazdniku-den-ottsa/",
+   "url": "https://dkproletarka.ru/afisha/proletarskiy-kvartirnik-vsevolod-mishurov-i-ilya-ushakov/",
    "also": [],
    "source": "dkproletarka.ru"
   },
@@ -217,84 +175,6 @@
    "url": "https://tverlife.ru/mesta/v-tveri-pokazhut-zhivopis-petra-gribova-polnuju-ljubvi-k-rodnoj-zemle/",
    "also": [],
    "source": "tverlife.ru"
-  },
-  {
-   "id": "969494adda",
-   "title": "Философский клуб: любовь как задача",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "17:00",
-   "category": "Мастер-классы",
-   "place": "Рельсы",
-   "price": "300 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "7d1988e614",
-   "title": "Иконы «Жены Мироносицы у гроба» и «Богоматерь Владимирская с избранными святыми» из церкви Белая Троица в Твери",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "17:30",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261022/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "6851b6e419",
-   "title": "Гранатовый браслет",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "18:30",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1119",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "e9869690c4",
-   "title": "Диффузор Что пахнет моим домом",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "20:00",
-   "category": "Мастер-классы",
-   "place": "Смола, бульвар Радищева, 6",
-   "price": "2500 ₽",
-   "url": "https://vk.ru/wall-109539026_1030",
-   "also": [],
-   "source": "smola.decor"
-  },
-  {
-   "id": "acafc9885d",
-   "title": "Раневская. Одинокая насмешница",
-   "date": "2026-10-22",
-   "end": null,
-   "time": "22:00",
-   "category": "Театр",
-   "place": "ДК \"Металлист\"",
-   "price": "от 1700 ₽",
-   "url": "https://www.koncerttver.ru/afisha/-ranevskaya-odinokaya-nasmeshnitsa/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "117bf3f34d",
-   "title": "Пролетарский квартирник. Всеволод Мишуров и Илья Ушаков",
-   "date": "2026-10-22",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": null,
-   "url": "https://dkproletarka.ru/afisha/proletarskiy-kvartirnik-vsevolod-mishurov-i-ilya-ushakov/",
-   "also": [],
-   "source": "dkproletarka.ru"
   },
   {
    "id": "a6964fc29f",
@@ -392,6 +272,19 @@
    "source": "smola.decor"
   },
   {
+   "id": "381b104354",
+   "title": "12-й фестиваль Тверской переплёт",
+   "date": "2026-10-23",
+   "end": "2026-10-25",
+   "time": null,
+   "category": "Фестивали и ярмарки",
+   "place": "Тверская областная библиотека им. А. М. Горького, Свободный переулок, 28",
+   "price": null,
+   "url": "https://vk.ru/wall-83486606_118485",
+   "also": [],
+   "source": "afisha69"
+  },
+  {
    "id": "d6d9fc8c09",
    "title": "Лекция о внешней политике Петра I",
    "date": "2026-10-23",
@@ -403,22 +296,6 @@
    "url": "https://vk.ru/wall-211140867_5343",
    "also": [],
    "source": "dom36tver"
-  },
-  {
-   "id": "f459fc4f1f",
-   "title": "Тверской переплёт",
-   "date": "2026-10-23",
-   "end": null,
-   "time": null,
-   "category": "Фестивали и ярмарки",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/pereplet/2026/",
-   "also": [
-    "https://vk.ru/wall-101555294_3171",
-    "https://vk.ru/wall-83486606_118485"
-   ],
-   "source": "tverlib.ru"
   },
   {
    "id": "9eb104d75c",
@@ -538,19 +415,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "47d37ba6f4",
-   "title": "Зелёная азбука: концерт-презентация",
-   "date": "2026-10-24",
-   "end": null,
-   "time": "15:30",
-   "category": "Детям",
-   "place": "Тверской переплёт, Детская площадка",
-   "price": null,
-   "url": "https://vk.ru/wall-101555294_3170",
-   "also": [],
-   "source": "pereplyot"
-  },
-  {
    "id": "cac2e2886c",
    "title": "Встреча с Софьей Воротынцевой",
    "date": "2026-10-24",
@@ -560,19 +424,6 @@
    "place": "Тверской переплёт, площадка «Без формата»",
    "price": null,
    "url": "https://vk.ru/wall-101555294_3180",
-   "also": [],
-   "source": "pereplyot"
-  },
-  {
-   "id": "89084174f8",
-   "title": "Игра в пазлы: концерт-презентация",
-   "date": "2026-10-24",
-   "end": null,
-   "time": "16:15",
-   "category": "Концерты и музыка",
-   "place": "Тверской переплёт, Детская площадка",
-   "price": null,
-   "url": "https://vk.ru/wall-101555294_3170",
    "also": [],
    "source": "pereplyot"
   },
@@ -588,19 +439,6 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1122",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "70748e02df",
-   "title": "Презентация романов Марата Карапетяна и Игоря Полякова",
-   "date": "2026-10-24",
-   "end": null,
-   "time": "18:00",
-   "category": "Лекции и встречи",
-   "place": "Тверской переплёт, площадка «Проза», Славянский зал",
-   "price": null,
-   "url": "https://vk.ru/wall-101555294_3164",
-   "also": [],
-   "source": "pereplyot"
   },
   {
    "id": "2a9ef95f8d",
@@ -694,19 +532,6 @@
    "source": "dom36tver"
   },
   {
-   "id": "d6ba661d0e",
-   "title": "Тверской переплёт",
-   "date": "2026-10-24",
-   "end": null,
-   "time": null,
-   "category": "Фестивали и ярмарки",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/pereplet/2026/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "e51c9ef2dd",
    "title": "Встреча с Ольгой Ляпиной",
    "date": "2026-10-25",
@@ -746,19 +571,6 @@
     "https://vk.ru/wall-212069516_5286"
    ],
    "source": "lectory_tver"
-  },
-  {
-   "id": "6b550cf3a3",
-   "title": "Звери Крылова — Звери Серова: Лисица и виноград",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "12:30",
-   "category": "Мастер-классы",
-   "place": "Усадьба Домотканово (Тверская обл., Калининский муниципальный округ, д. Красная Новь, д. 8а)",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/ot-shtriha-k-harakteru-osennie-tvorcheskie-vstrechi-v-usadbe-domotkanovo-dlja-detej-i-roditelej/",
-   "also": [],
-   "source": "tverlife.ru"
   },
   {
    "id": "4d853e27bb",
@@ -865,19 +677,6 @@
    "source": "dkproletarka.ru"
   },
   {
-   "id": "71e04eaedc",
-   "title": "Культура «Ахлян уа сахлян»: подлинное искусство арабского гостеприимства",
-   "date": "2026-10-25",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261025_00/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "dfb81654f0",
    "title": "Почитание Богородицы в Древней Руси",
    "date": "2026-10-25",
@@ -889,19 +688,6 @@
    "url": "https://vk.ru/wall-211140867_5343",
    "also": [],
    "source": "dom36tver"
-  },
-  {
-   "id": "b40a0f2756",
-   "title": "Тверской переплёт",
-   "date": "2026-10-25",
-   "end": null,
-   "time": null,
-   "category": "Фестивали и ярмарки",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/pereplet/2026/",
-   "also": [],
-   "source": "tverlib.ru"
   },
   {
    "id": "faf133dd96",
@@ -1207,19 +993,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "ecbfe2f190",
-   "title": "Презентация сайта «Карельская нить жизни»",
-   "date": "2026-10-30",
-   "end": null,
-   "time": "15:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Отдел литературы на иностранных языках",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261030-1/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "81e5cb5635",
    "title": "Загадки Тверской истории",
    "date": "2026-10-30",
@@ -1231,19 +1004,6 @@
    "url": "https://tverlife.ru/mesta/v-tveri-projdjot-intellektualnaja-bitva-o-prirode-kraja/",
    "also": [],
    "source": "tverlife.ru"
-  },
-  {
-   "id": "79e673b523",
-   "title": "Томас Манн «Доктор Фаустус»",
-   "date": "2026-10-30",
-   "end": null,
-   "time": "18:15",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Отдел литературы на иностранных языках",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261030/",
-   "also": [],
-   "source": "tverlib.ru"
   },
   {
    "id": "f7e79a05d8",
@@ -1311,19 +1071,6 @@
    "source": "dom36tver"
   },
   {
-   "id": "ef7f3cfeac",
-   "title": "Клуб тверских пчеловодов",
-   "date": "2026-10-31",
-   "end": null,
-   "time": "11:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Отдел патентно-технической и экологической информации",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/kluby/tverskoy-klub-pchelovodov/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "d94ba9652e",
    "title": "Турнир по нардам",
    "date": "2026-10-31",
@@ -1350,19 +1097,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "f3560964f8",
-   "title": "Художник Константин Сомов",
-   "date": "2026-10-31",
-   "end": null,
-   "time": "13:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261031/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "08d94d9e00",
    "title": "Капризная принцесса",
    "date": "2026-10-31",
@@ -1374,19 +1108,6 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1132",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "9e83dedbcc",
-   "title": "Экскурсия по городу А из нашего окна",
-   "date": "2026-10-31",
-   "end": null,
-   "time": "14:00",
-   "category": "Выставки и экскурсии",
-   "place": "Сквер героев Чернобыля (у памятника ликвидаторам)",
-   "price": null,
-   "url": "https://vk.ru/wall-83486606_118458",
-   "also": [],
-   "source": "afisha69"
   },
   {
    "id": "146ee2261c",
@@ -1508,19 +1229,6 @@
    "source": "koncerttver.ru"
   },
   {
-   "id": "f8e06595b4",
-   "title": "«Что? Где? Когда?»",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/kluby/tverskoy-klub-chto-gde-kogda/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "136555288a",
    "title": "Велесова ночь",
    "date": "2026-10-31",
@@ -1534,71 +1242,6 @@
    "source": "smola.decor"
   },
   {
-   "id": "c3f0fa25c3",
-   "title": "Во имя добра и милосердия",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-06/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "47f254606e",
-   "title": "Волжская провинция",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-07/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "aef21bc409",
-   "title": "Встречаем «Тверской переплёт»",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-08/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "817c092323",
-   "title": "Галина Вишневская: жизнь в искусстве",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-14/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "6441698e09",
-   "title": "Города сквозь века",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-13/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
    "id": "ed8e8d9945",
    "title": "Детективный квест",
    "date": "2026-10-31",
@@ -1610,123 +1253,6 @@
    "url": "https://vk.ru/wall-212069516_5286",
    "also": [],
    "source": "lectory_tver"
-  },
-  {
-   "id": "70484e7a7c",
-   "title": "Из сокровищницы духовной музыки",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-03/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "da09194ab1",
-   "title": "История развития музея как социального института",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-02/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "d62ccff78e",
-   "title": "К 130-летию со дня рождения Евгения Шварца",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-04/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "07dcc9af29",
-   "title": "Национальные костюмы народов России",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-10/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "72820b2823",
-   "title": "Пернатые путешественники",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-05/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "d3fabda0e3",
-   "title": "Равновесие",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-09/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "fc844b1e83",
-   "title": "Связь с этим миром",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-11/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "0df6377194",
-   "title": "Следующие 50 лет: как обмануть старость",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-12/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "5462a931e5",
-   "title": "Я умею готовить. А ты?",
-   "date": "2026-10-31",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/vistavki/202610-01/",
-   "also": [],
-   "source": "tverlib.ru"
   },
   {
    "id": "b6c9a298c1",
@@ -1861,6 +1387,84 @@
    "url": "https://quicktickets.ru/tver-tuz/s2525",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "f57c38f14a",
+   "title": "Красная Шапочка",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1470",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "e55db53c53",
+   "title": "Тверь-Политех — Нефтехимик",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "17:45",
+   "category": "Прочее",
+   "place": "Арена БК «Тверь», Маршала Конева, 12",
+   "price": null,
+   "url": "https://vk.ru/wall-164426939_36437",
+   "also": [],
+   "source": "club164426939"
+  },
+  {
+   "id": "713903c041",
+   "title": "Кофе и еда — Виктор Кузнецов",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "18:00",
+   "category": "Лекции и встречи",
+   "place": "Тверь",
+   "price": "2300 ₽",
+   "url": "https://lectory2.ru/",
+   "also": [],
+   "source": "lectory2.ru"
+  },
+  {
+   "id": "0bff412319",
+   "title": "Вишнёвый сад",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "18:30",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1177",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "826bb416af",
+   "title": "Огни. Фонари, или Ночь в закулисье",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "20:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1472",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "89f25fba1c",
+   "title": "Праздничная концертная программа «Наш — дом!», посвящённая Дню народного единства",
+   "date": "2026-11-04",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/prazdnichnaya-kontsertnaya-programma-nash-dom-posvyashchyennaya-dnyu-narodnogo-edinstva/",
+   "also": [],
+   "source": "dkproletarka.ru"
   }
  ]
 }
