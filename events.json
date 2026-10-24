@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-23T14:57:48+03:00",
+ "generated_at": "2026-10-24T14:26:55+03:00",
  "window": {
-  "start": "2026-10-23",
-  "end": "2026-11-05"
+  "start": "2026-10-24",
+  "end": "2026-11-06"
  },
  "categories": [
   "Театр",
@@ -18,203 +18,6 @@
  ],
  "failed_sources": [],
  "events": [
-  {
-   "id": "a6964fc29f",
-   "title": "Красная Шапочка",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1485",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "1670ee4a88",
-   "title": "Волшебная яблоня",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "14:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1127",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "8ac93f7062",
-   "title": "Чёрная речка... вальс, прерванный судьбой",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "16:00",
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": "300 ₽",
-   "url": "https://www.koncerttver.ru/afisha/chyernaya-rechka-vals-prervannyy-sudboy/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "524539955d",
-   "title": "Заступник и молитвенник за землю Тверскую",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "17:30",
-   "category": "Лекции и встречи",
-   "place": "Тверской краеведческий музей",
-   "price": null,
-   "url": "https://vk.ru/wall-22098014_15562",
-   "also": [
-    "https://vk.ru/wall-22098014_15545"
-   ],
-   "source": "tvermuzeum"
-  },
-  {
-   "id": "5d006e4d8d",
-   "title": "История любви",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "18:30",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1120",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "c0adb90f5a",
-   "title": "Американские горки",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Театр Премьер",
-   "price": null,
-   "url": "https://vk.com/wall-17112343_5927",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "b833644363",
-   "title": "Классическая парфюмерная вода",
-   "date": "2026-10-23",
-   "end": null,
-   "time": "20:00",
-   "category": "Мастер-классы",
-   "place": "Смола, бульвар Радищева, 6",
-   "price": "1700/3100 ₽",
-   "url": "https://vk.ru/wall-109539026_1030",
-   "also": [],
-   "source": "smola.decor"
-  },
-  {
-   "id": "82f85b0753",
-   "title": "Авангард",
-   "date": "2026-10-02",
-   "end": "2026-12-06",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Тверской императорский дворец, ул. Советская, д. 3",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
-   "id": "0e8720048f",
-   "title": "Выставка фотографий Александра Конькова",
-   "date": "2026-10-10",
-   "end": "2027-01-10",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Фотолаборатория XIX века",
-   "price": "бесплатно",
-   "url": "https://vk.ru/wall-215199548_443",
-   "also": [],
-   "source": "19vek"
-  },
-  {
-   "id": "f3efa18723",
-   "title": "Гелий Коржев. Свет и тень",
-   "date": "2026-10-16",
-   "end": "2026-11-15",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Тверской императорский дворец, ул. Советская, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-35652362_18078",
-   "also": [],
-   "source": "tvergallery"
-  },
-  {
-   "id": "d6d9fc8c09",
-   "title": "Лекция о внешней политике Петра I",
-   "date": "2026-10-23",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": null,
-   "price": "от 300 ₽",
-   "url": "https://vk.ru/wall-211140867_5343",
-   "also": [],
-   "source": "dom36tver"
-  },
-  {
-   "id": "a57629383e",
-   "title": "Различности",
-   "date": "2026-10-03",
-   "end": "2026-11-08",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Музей М. Е. Салтыкова-Щедрина, выставочный зал",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/razlichnosti-v-tveri-otkryvaetsja-vystavka-molodyh-hudozhnikov/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
-   "id": "6696e11965",
-   "title": "Размышления в живописи",
-   "date": "2026-10-10",
-   "end": "2026-10-25",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": null,
-   "price": null,
-   "url": "https://vk.ru/wall-223061401_952",
-   "also": [],
-   "source": "club223061401"
-  },
-  {
-   "id": "711f5a0635",
-   "title": "Русь уходящая",
-   "date": "2026-10-06",
-   "end": "2026-10-31",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Музей живописи Валентина Сидорова На тёплой земле",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/v-tveri-pokazhut-zhivopis-petra-gribova-polnuju-ljubvi-k-rodnoj-zemle/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
-   "id": "f459fc4f1f",
-   "title": "Тверской переплёт",
-   "date": "2026-10-23",
-   "end": null,
-   "time": null,
-   "category": "Фестивали и ярмарки",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/pereplet/2026/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
   {
    "id": "53336e2c8a",
    "title": "Три поросёнка",
@@ -253,19 +56,6 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1128",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "6b0f7bb6e0",
-   "title": "Встреча с Андреем Усачёвым",
-   "date": "2026-10-24",
-   "end": null,
-   "time": "14:00",
-   "category": "Детям",
-   "place": "Большой читальный зал",
-   "price": null,
-   "url": "https://vk.ru/wall-101555294_3205",
-   "also": [],
-   "source": "pereplyot"
   },
   {
    "id": "70b421f8ea",
@@ -359,6 +149,45 @@
    "source": "therails.cc"
   },
   {
+   "id": "82f85b0753",
+   "title": "Авангард",
+   "date": "2026-10-02",
+   "end": "2026-12-06",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, ул. Советская, д. 3",
+   "price": null,
+   "url": "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
+   "id": "0e8720048f",
+   "title": "Выставка фотографий Александра Конькова",
+   "date": "2026-10-10",
+   "end": "2027-01-10",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Фотолаборатория XIX века",
+   "price": "бесплатно",
+   "url": "https://vk.ru/wall-215199548_443",
+   "also": [],
+   "source": "19vek"
+  },
+  {
+   "id": "f3efa18723",
+   "title": "Гелий Коржев. Свет и тень",
+   "date": "2026-10-16",
+   "end": "2026-11-15",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, ул. Советская, 3",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_18078",
+   "also": [],
+   "source": "tvergallery"
+  },
+  {
    "id": "6177dd0282",
    "title": "Доходное место",
    "date": "2026-10-24",
@@ -370,19 +199,6 @@
    "url": "https://tverlife.ru/sobytija/tverskih-zritelej-udivit-novaja-postanovka-dohodnoe-mesto/",
    "also": [],
    "source": "tverlife.ru"
-  },
-  {
-   "id": "683b3d7254",
-   "title": "Знаете ли вы Кимры? Встреча с Алексеем Молчановым",
-   "date": "2026-10-24",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Межрегиональный книжный фестиваль «Тверской переплёт»",
-   "price": null,
-   "url": "https://vk.ru/wall-236091153_165",
-   "also": [],
-   "source": "pereplyot"
   },
   {
    "id": "9cfd6e5847",
@@ -398,6 +214,45 @@
    "source": "dom36tver"
   },
   {
+   "id": "a57629383e",
+   "title": "Различности",
+   "date": "2026-10-03",
+   "end": "2026-11-08",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Музей М. Е. Салтыкова-Щедрина, выставочный зал",
+   "price": null,
+   "url": "https://tverlife.ru/mesta/razlichnosti-v-tveri-otkryvaetsja-vystavka-molodyh-hudozhnikov/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
+   "id": "6696e11965",
+   "title": "Размышления в живописи",
+   "date": "2026-10-10",
+   "end": "2026-10-25",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": null,
+   "price": null,
+   "url": "https://vk.ru/wall-223061401_952",
+   "also": [],
+   "source": "club223061401"
+  },
+  {
+   "id": "711f5a0635",
+   "title": "Русь уходящая",
+   "date": "2026-10-06",
+   "end": "2026-10-31",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Музей живописи Валентина Сидорова На тёплой земле",
+   "price": null,
+   "url": "https://tverlife.ru/mesta/v-tveri-pokazhut-zhivopis-petra-gribova-polnuju-ljubvi-k-rodnoj-zemle/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
    "id": "d6ba661d0e",
    "title": "Тверской переплёт",
    "date": "2026-10-24",
@@ -409,19 +264,6 @@
    "url": "https://tverlib.ru/ru/event/pereplet/2026/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "e51c9ef2dd",
-   "title": "Встреча с Ольгой Ляпиной",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "12:00",
-   "category": "Лекции и встречи",
-   "place": "Деловой информационный центр",
-   "price": null,
-   "url": "https://vk.ru/wall-101555294_3212",
-   "also": [],
-   "source": "pereplyot"
   },
   {
    "id": "f674c7988f",
@@ -593,19 +435,6 @@
    "url": "https://tverlib.ru/ru/event/pereplet/2026/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "faf133dd96",
-   "title": "Брак и семья сегодня",
-   "date": "2026-10-26",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Культурный центр «Боголюбский», Шмидта, 12",
-   "price": "500 ₽ / 250 ₽ (студентам)",
-   "url": "https://vk.ru/wall-188259486_7728",
-   "also": [],
-   "source": "bogolyubsky_cc"
   },
   {
    "id": "a3b6e399e0",
@@ -909,19 +738,6 @@
    "url": "https://tverlib.ru/ru/event/2026/20261030-1/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "81e5cb5635",
-   "title": "Загадки Тверской истории",
-   "date": "2026-10-30",
-   "end": null,
-   "time": "18:00",
-   "category": "Прочее",
-   "place": "Тверской краеведческий музей (г. Тверь, ул. Советская, д. 5)",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/v-tveri-projdjot-intellektualnaja-bitva-o-prirode-kraja/",
-   "also": [],
-   "source": "tverlife.ru"
   },
   {
    "id": "79e673b523",
@@ -1420,19 +1236,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "6a26413330",
-   "title": "Наука 0+",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "11:00",
-   "category": "Фестивали и ярмарки",
-   "place": "Кванториум, Студенческий переулок, 28, Тверь",
-   "price": "бесплатно",
-   "url": "https://tverlife.ru/mesta/nauka-0-v-tveri-1-nojabrja-v-kvantoriume-projdjot-festival-dlja-detej-i-vzroslyh/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
    "id": "3cd459e5fa",
    "title": "Тверские храмы",
    "date": "2026-11-01",
@@ -1643,6 +1446,86 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1185",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "645946da2b",
+   "title": "Посадить дерево",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "18:30",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2552",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "e9a748b02d",
+   "title": "Старший сын",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "18:30",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1178",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "70aed02a14",
+   "title": "Скамейка",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1189",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "86387710a7",
+   "title": "Фильм «Меня пожирает собственная кровать»",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "19:00",
+   "category": "Кино",
+   "place": "Рельсы",
+   "price": "450 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
+  },
+  {
+   "id": "d8128db9c0",
+   "title": "Вальмон. Опасные связи",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "22:00",
+   "category": "Театр",
+   "place": "ДК «Пролетарка»",
+   "price": "от 1500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/valmon-opasnye-svyazi/",
+   "also": [
+    "https://dkproletarka.ru/afisha/myuzikl-valmon-opasnye-svyazi26/"
+   ],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "9655f3bced",
+   "title": "Шансон Парад",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/shanson-parad/",
+   "also": [],
+   "source": "koncerttver.ru"
   }
  ]
 }
