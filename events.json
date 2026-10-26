@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-25T14:56:05+03:00",
+ "generated_at": "2026-10-26T16:27:45+03:00",
  "window": {
-  "start": "2026-10-25",
-  "end": "2026-11-07"
+  "start": "2026-10-26",
+  "end": "2026-11-08"
  },
  "categories": [
   "Театр",
@@ -19,21 +19,6 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "6354ee8a17",
-   "title": "Тверь поэтическая",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "12:00",
-   "category": "Выставки и экскурсии",
-   "place": null,
-   "price": "700 ₽",
-   "url": "https://vk.ru/wall-212069516_5287",
-   "also": [
-    "https://vk.ru/wall-212069516_5286"
-   ],
-   "source": "lectory_tver"
-  },
-  {
    "id": "cd877e08dc",
    "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
    "date": "2026-10-24",
@@ -45,97 +30,6 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
-  },
-  {
-   "id": "4d853e27bb",
-   "title": "Тверь, которую мы помним и любим: вечер путешествий",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "14:00",
-   "category": "Лекции и встречи",
-   "place": "Музей фотографии «Искра», ул. Новоторжская, 12А",
-   "price": "1350 ₽",
-   "url": "https://vk.ru/wall-166355673_4887",
-   "also": [],
-   "source": "iskramuseum"
-  },
-  {
-   "id": "25f8db61ec",
-   "title": "Фильм «Барашек в ящике»",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "17:00",
-   "category": "Кино",
-   "place": "Рельсы",
-   "price": "450 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "710a0fa1fa",
-   "title": "Чайка",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "17:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2519",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "23b6044a89",
-   "title": "Пенный микрофон",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "17:30",
-   "category": "Концерты и музыка",
-   "place": "Клуб Биг-Бен, ул. Брагина, 2, Тверь",
-   "price": null,
-   "url": "https://vk.ru/wall-201943527_10222",
-   "also": [],
-   "source": "openmictver"
-  },
-  {
-   "id": "10e8d82f25",
-   "title": "Воск, кино и ничего срочного",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "18:00",
-   "category": "Мастер-классы",
-   "place": "Смола, бульвар Радищева, 6",
-   "price": "1600/1900 ₽",
-   "url": "https://vk.ru/wall-109539026_1030",
-   "also": [],
-   "source": "smola.decor"
-  },
-  {
-   "id": "c83313dc4e",
-   "title": "Мастер и Маргарита",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "18:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1121",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "52310a3380",
-   "title": "Танкист",
-   "date": "2026-10-25",
-   "end": null,
-   "time": "18:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1540",
-   "also": [],
-   "source": "teatr-afisha"
   },
   {
    "id": "82f85b0753",
@@ -177,32 +71,6 @@
    "source": "tvergallery"
   },
   {
-   "id": "71e04eaedc",
-   "title": "Культура «Ахлян уа сахлян»: подлинное искусство арабского гостеприимства",
-   "date": "2026-10-25",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261025_00/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "dfb81654f0",
-   "title": "Почитание Богородицы в Древней Руси",
-   "date": "2026-10-25",
-   "end": null,
-   "time": null,
-   "category": "Лекции и встречи",
-   "place": null,
-   "price": "от 300 ₽",
-   "url": "https://vk.ru/wall-211140867_5343",
-   "also": [],
-   "source": "dom36tver"
-  },
-  {
    "id": "a57629383e",
    "title": "Различности",
    "date": "2026-10-03",
@@ -216,19 +84,6 @@
    "source": "tverlife.ru"
   },
   {
-   "id": "6696e11965",
-   "title": "Размышления в живописи",
-   "date": "2026-10-10",
-   "end": "2026-10-25",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": null,
-   "price": null,
-   "url": "https://vk.ru/wall-223061401_952",
-   "also": [],
-   "source": "club223061401"
-  },
-  {
    "id": "711f5a0635",
    "title": "Русь уходящая",
    "date": "2026-10-06",
@@ -240,19 +95,6 @@
    "url": "https://tverlife.ru/mesta/v-tveri-pokazhut-zhivopis-petra-gribova-polnuju-ljubvi-k-rodnoj-zemle/",
    "also": [],
    "source": "tverlife.ru"
-  },
-  {
-   "id": "b40a0f2756",
-   "title": "Тверской переплёт",
-   "date": "2026-10-25",
-   "end": null,
-   "time": null,
-   "category": "Фестивали и ярмарки",
-   "place": "Библиотека Горького",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/pereplet/2026/",
-   "also": [],
-   "source": "tverlib.ru"
   },
   {
    "id": "a3b6e399e0",
@@ -1081,16 +923,16 @@
   },
   {
    "id": "6ed4ae7a2d",
-   "title": "Салон красоты или О чём говорят женщины",
+   "title": "Салон красоты, или О чём говорят женщины",
    "date": "2026-11-01",
    "end": null,
    "time": "17:00",
    "category": "Театр",
    "place": "Театр Париж",
    "price": null,
-   "url": "https://teatrparis.ru",
+   "url": "https://vk.com/wall-206028351_7563",
    "also": [
-    "https://vk.com/wall-206028351_7563"
+    "https://teatrparis.ru"
    ],
    "source": "teatr-afisha"
   },
@@ -1292,6 +1134,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "64224c4786",
+   "title": "За закрытыми дверями",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Театр Премьер",
+   "price": null,
+   "url": "https://vk.com/wall-17112343_5992",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
    "id": "70aed02a14",
    "title": "Скамейка",
    "date": "2026-11-06",
@@ -1411,6 +1266,19 @@
    "source": "therails.cc"
   },
   {
+   "id": "ef01dfa6e6",
+   "title": "Хор на Рельсах: билет на две встречи",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "13:55",
+   "category": "Концерты и музыка",
+   "place": "Рельсы",
+   "price": "1100 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
+  },
+  {
    "id": "91be88b592",
    "title": "Хор на Рельсах. Поём «Позови меня с собой» — Алла Пугачёва",
    "date": "2026-11-07",
@@ -1498,6 +1366,138 @@
    "place": "ДК \"Металлист\"",
    "price": "от 2500 ₽",
    "url": "https://www.koncerttver.ru/afisha/konstantin-raykin-monospektakl-samoe-lyubimoe/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "e5ca6bd5cc",
+   "title": "Ресурсы Космоса — Владимир Сурдин",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "12:00",
+   "category": "Лекции и встречи",
+   "place": null,
+   "price": "1400 ₽",
+   "url": "https://lectory2.ru/",
+   "also": [],
+   "source": "lectory2.ru"
+  },
+  {
+   "id": "287df41792",
+   "title": "Косточка",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "13:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2556",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "c2b3874bee",
+   "title": "Цирк мыльных пузырей",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "14:00",
+   "category": "Прочее",
+   "place": "ДК \"Металлист\"",
+   "price": "от 600 ₽",
+   "url": "https://www.koncerttver.ru/afisha/tsirk-mylnykh-puzyrey-2026/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "23dd625369",
+   "title": "Обломов",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "16:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1541",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "4070f2af98",
+   "title": "Тверь-Политех — ТСК-Урал-УрГУПС",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "16:45",
+   "category": "Прочее",
+   "place": "Арена БК «Тверь», Маршала Конева, 12",
+   "price": null,
+   "url": "https://vk.ru/wall-164426939_36437",
+   "also": [],
+   "source": "club164426939"
+  },
+  {
+   "id": "d45e26564d",
+   "title": "Лисьи огни",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "17:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2535",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "ac7df9ca1a",
+   "title": "Фильм «Фьорд»",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "17:00",
+   "category": "Кино",
+   "place": "Рельсы",
+   "price": "450 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
+  },
+  {
+   "id": "ef8b26c2b9",
+   "title": "Мелочи жизни (в гостях у Антоши Чехонте)",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "17:30",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1190",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "5f737aacec",
+   "title": "Безумный день, или Женитьба Фигаро",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "18:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1180",
+   "also": [
+    "https://tverlife.ru/sobytija/tverskoj-figaro-pereigraet-znatnuju-sudbu-v-zhenitbe-figaro/"
+   ],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "614c25e783",
+   "title": "Девчата с характером",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "20:00",
+   "category": "Прочее",
+   "place": "ДК \"Металлист\"",
+   "price": "от 800 ₽",
+   "url": "https://www.koncerttver.ru/afisha/devchata-s-kharakterom/",
    "also": [],
    "source": "koncerttver.ru"
   }
