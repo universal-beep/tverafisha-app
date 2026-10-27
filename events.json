@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-26T16:27:45+03:00",
+ "generated_at": "2026-10-27T15:35:48+03:00",
  "window": {
-  "start": "2026-10-26",
-  "end": "2026-11-08"
+  "start": "2026-10-27",
+  "end": "2026-11-09"
  },
  "categories": [
   "Театр",
@@ -18,84 +18,6 @@
  ],
  "failed_sources": [],
  "events": [
-  {
-   "id": "cd877e08dc",
-   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
-   "date": "2026-10-24",
-   "end": "2026-10-31",
-   "time": "13:00",
-   "category": "Выставки и экскурсии",
-   "place": "Рельсы",
-   "price": "950 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "82f85b0753",
-   "title": "Авангард",
-   "date": "2026-10-02",
-   "end": "2026-12-06",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Тверской императорский дворец, ул. Советская, д. 3",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
-   "id": "0e8720048f",
-   "title": "Выставка фотографий Александра Конькова",
-   "date": "2026-10-10",
-   "end": "2027-01-10",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Фотолаборатория XIX века",
-   "price": "бесплатно",
-   "url": "https://vk.ru/wall-215199548_443",
-   "also": [],
-   "source": "19vek"
-  },
-  {
-   "id": "f3efa18723",
-   "title": "Гелий Коржев. Свет и тень",
-   "date": "2026-10-16",
-   "end": "2026-11-15",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Тверской императорский дворец, ул. Советская, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-35652362_18078",
-   "also": [],
-   "source": "tvergallery"
-  },
-  {
-   "id": "a57629383e",
-   "title": "Различности",
-   "date": "2026-10-03",
-   "end": "2026-11-08",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Музей М. Е. Салтыкова-Щедрина, выставочный зал",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/razlichnosti-v-tveri-otkryvaetsja-vystavka-molodyh-hudozhnikov/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
-  {
-   "id": "711f5a0635",
-   "title": "Русь уходящая",
-   "date": "2026-10-06",
-   "end": "2026-10-31",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Музей живописи Валентина Сидорова На тёплой земле",
-   "price": null,
-   "url": "https://tverlife.ru/mesta/v-tveri-pokazhut-zhivopis-petra-gribova-polnuju-ljubvi-k-rodnoj-zemle/",
-   "also": [],
-   "source": "tverlife.ru"
-  },
   {
    "id": "a3b6e399e0",
    "title": "Волшебная лампа Аладдина",
@@ -121,6 +43,19 @@
    "url": "https://quicktickets.ru/tver-tuz/s2509",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "cd877e08dc",
+   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
+   "date": "2026-10-24",
+   "end": "2026-10-31",
+   "time": "13:00",
+   "category": "Выставки и экскурсии",
+   "place": "Рельсы",
+   "price": "950 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
   },
   {
    "id": "33b3438bae",
@@ -175,6 +110,58 @@
     "https://dkproletarka.ru/afisha/elena-nikolenko-nastoyashchaya/"
    ],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "82f85b0753",
+   "title": "Авангард",
+   "date": "2026-10-02",
+   "end": "2026-12-06",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, ул. Советская, д. 3",
+   "price": null,
+   "url": "https://tverlife.ru/mesta/shedevry-russkogo-avangarda-v-tveri-otkryvaetsja-unikalnaja-vystavka/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
+   "id": "f3efa18723",
+   "title": "Гелий Коржев. Свет и тень",
+   "date": "2026-10-16",
+   "end": "2026-11-15",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, ул. Советская, 3",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_18078",
+   "also": [],
+   "source": "tvergallery"
+  },
+  {
+   "id": "a57629383e",
+   "title": "Различности",
+   "date": "2026-10-03",
+   "end": "2026-11-08",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Музей М. Е. Салтыкова-Щедрина, выставочный зал",
+   "price": null,
+   "url": "https://tverlife.ru/mesta/razlichnosti-v-tveri-otkryvaetsja-vystavka-molodyh-hudozhnikov/",
+   "also": [],
+   "source": "tverlife.ru"
+  },
+  {
+   "id": "711f5a0635",
+   "title": "Русь уходящая",
+   "date": "2026-10-06",
+   "end": "2026-10-31",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Музей живописи Валентина Сидорова На тёплой земле",
+   "price": null,
+   "url": "https://tverlife.ru/mesta/v-tveri-pokazhut-zhivopis-petra-gribova-polnuju-ljubvi-k-rodnoj-zemle/",
+   "also": [],
+   "source": "tverlife.ru"
   },
   {
    "id": "c5d7ad7f64",
@@ -1499,6 +1486,21 @@
    "price": "от 800 ₽",
    "url": "https://www.koncerttver.ru/afisha/devchata-s-kharakterom/",
    "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "9484ff159d",
+   "title": "Ярослав Сумишевский",
+   "date": "2026-11-09",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/yaroslav-sumishevskiy-2026/",
+   "also": [
+    "https://dkproletarka.ru/afisha/yaroslav-sumishevskiy26/"
+   ],
    "source": "koncerttver.ru"
   }
  ]
