@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T16:42:41+03:00",
+ "generated_at": "2026-11-02T19:29:03+03:00",
  "window": {
-  "start": "2026-11-01",
-  "end": "2026-11-14"
+  "start": "2026-11-02",
+  "end": "2026-11-15"
  },
  "categories": [
   "Театр",
@@ -19,108 +19,28 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "74a8a21576",
-   "title": "Физика, которая удивляет",
-   "date": "2026-11-01",
+   "id": "94411be77f",
+   "title": "Никогда не поздно",
+   "date": "2026-11-02",
    "end": null,
-   "time": "10:00",
-   "category": "Детям",
-   "place": "Эксперимент Лэнд",
-   "price": "500 ₽",
-   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "b6c9a298c1",
-   "title": "Маленькое чудо",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1468",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "6673776f5c",
-   "title": "Алексей Венецианов: очарование привычной простоты",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "14:00",
-   "category": "Лекции и встречи",
+   "time": "16:00",
+   "category": "Выставки и экскурсии",
    "place": "Библиотека Горького, Зал искусств",
    "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261101/",
+   "url": "https://tverlib.ru/ru/event/2026/20261102/",
    "also": [],
    "source": "tverlib.ru"
   },
   {
-   "id": "e1dfb1da6b",
-   "title": "Интерактивная экскурсия по экспозиции",
-   "date": "2026-11-01",
+   "id": "02f28fef82",
+   "title": "Настольный теннис (для всех желающих)",
+   "date": "2026-11-02",
    "end": null,
-   "time": "17:00",
-   "category": "Выставки и экскурсии",
-   "place": "Эксперимент Лэнд",
-   "price": "500 ₽",
-   "url": "https://tver.kassir.ru/ekskursii/ekskursiya-po-ekspozitsii",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "06bafc0b49",
-   "title": "Курс «Говорим красиво»",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "17:00",
-   "category": "Мастер-классы",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2600",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "6ed4ae7a2d",
-   "title": "Салон красоты, или О чём говорят женщины",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "17:00",
-   "category": "Театр",
-   "place": "Театр Париж",
-   "price": null,
-   "url": "https://vk.com/wall-206028351_7563",
-   "also": [
-    "https://teatrparis.ru"
-   ],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "bbe457b521",
-   "title": "Владимир Винокур",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "18:00",
-   "category": "Концерты и музыка",
-   "place": "МУК Городской Дом культуры г. Ржева",
-   "price": "3000 ₽",
-   "url": "https://tver.kassir.ru/koncert/vladimir-vinokur-i-teatr-parodiy-prazdnichnyiy-kontsert",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "9b7fa689bd",
-   "title": "Массовое катание",
-   "date": "2026-11-01",
-   "end": null,
-   "time": "18:00",
+   "time": "20:00",
    "category": "Прочее",
    "place": "Спорткомплекс \"Юбилейный\"",
    "price": "250 ₽",
-   "url": "https://tver.kassir.ru/sport/massovoe-katanie-1",
+   "url": "https://tver.kassir.ru/sport/nastolnyiy-tennis-dlya-vseh-jelayuschih",
    "also": [],
    "source": "tver.kassir.ru"
   },
@@ -138,9 +58,9 @@
    "source": "tvergallery"
   },
   {
-   "id": "7218056d28",
+   "id": "ce75c2775a",
    "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-02",
+   "date": "2026-11-03",
    "end": null,
    "time": "09:00",
    "category": "Выставки и экскурсии",
@@ -149,19 +69,6 @@
    "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
    "also": [],
    "source": "tver.kassir.ru"
-  },
-  {
-   "id": "94411be77f",
-   "title": "Никогда не поздно",
-   "date": "2026-11-02",
-   "end": null,
-   "time": "16:00",
-   "category": "Выставки и экскурсии",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261102/",
-   "also": [],
-   "source": "tverlib.ru"
   },
   {
    "id": "5096849182",
@@ -259,6 +166,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "6828bede56",
+   "title": "Физика, которая удивляет",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "10:00",
+   "category": "Детям",
+   "place": "Эксперимент Лэнд",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "f57c38f14a",
    "title": "Красная Шапочка",
    "date": "2026-11-04",
@@ -348,19 +268,6 @@
    "url": "https://tver.kassir.ru/detyam/chas-akterskogo-masterstva-trening-po-plastike-i-stsenicheskoy-rechi",
    "also": [],
    "source": "tver.kassir.ru"
-  },
-  {
-   "id": "5485b1a25a",
-   "title": "Демографический перелом XXI века — Андрей Афанасьев",
-   "date": "2026-11-05",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Тверь",
-   "price": "1300 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
   },
   {
    "id": "fbb9da4528",
@@ -664,6 +571,19 @@
    "source": "lectory2.ru"
   },
   {
+   "id": "47c028edbb",
+   "title": "Массовое катание",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "18:00",
+   "category": "Прочее",
+   "place": "Спорткомплекс \"Юбилейный\"",
+   "price": "250 ₽",
+   "url": "https://tver.kassir.ru/sport/massovoe-katanie-1",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "f269ec397f",
    "title": "Оскар",
    "date": "2026-11-07",
@@ -885,10 +805,21 @@
    "place": "ДК «Пролетарка»",
    "price": "от 2000 ₽",
    "url": "https://www.koncerttver.ru/afisha/yaroslav-sumishevskiy-2026/",
-   "also": [
-    "https://dkproletarka.ru/afisha/yaroslav-sumishevskiy26/"
-   ],
+   "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "3fead947cd",
+   "title": "Концерт Ярослава Сумишевского",
+   "date": "2026-11-09",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/yaroslav-sumishevskiy26/",
+   "also": [],
+   "source": "dkproletarka.ru"
   },
   {
    "id": "ec1988940b",
@@ -1004,10 +935,34 @@
    "place": "ДК «Пролетарка»",
    "price": "от 2000 ₽",
    "url": "https://www.koncerttver.ru/afisha/slava-2026/",
-   "also": [
-    "https://dkproletarka.ru/afisha/slava26/"
-   ],
+   "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "b2b26c0516",
+   "title": "Концерт певицы Славы",
+   "date": "2026-11-11",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/slava26/",
+   "also": [],
+   "source": "dkproletarka.ru"
+  },
+  {
+   "id": "21f803e0cf",
+   "title": "Искусство современной вышивки. Всероссийская выставка",
+   "date": "2026-11-12",
+   "end": null,
+   "time": "10:00",
+   "category": "Выставки и экскурсии",
+   "place": "Тверской областной дом народного творчества",
+   "price": "бесплатно",
+   "url": "https://tver.kassir.ru/muzey/iskusstvo-sovremennoy-vyishivki-vserossiyskaya-vyistavka",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "61e9e3f189",
@@ -1084,10 +1039,21 @@
    "place": "ДК «Пролетарка»",
    "price": "от 2200 ₽",
    "url": "https://www.koncerttver.ru/afisha/aleksey-arkhipovskiy-kontsert-v-tveri3048/",
-   "also": [
-    "https://dkproletarka.ru/afisha/aleksey-arkhipovskiy26/"
-   ],
+   "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "c8b7cb08ca",
+   "title": "Концерт Алексея Архиповского",
+   "date": "2026-11-12",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/aleksey-arkhipovskiy26/",
+   "also": [],
+   "source": "dkproletarka.ru"
   },
   {
    "id": "19737d0831",
@@ -1175,7 +1141,7 @@
    "time": "19:30",
    "category": "Концерты и музыка",
    "place": "Клуб Зеркало",
-   "price": "2600 ₽",
+   "price": "2800 ₽",
    "url": "https://tver.kassir.ru/koncert/faktor-2-23",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1246,6 +1212,19 @@
    "url": "https://quicktickets.ru/tver-tuz/s2544",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "77f9ec3a62",
+   "title": "Детство, опалённое войной. Сборная экскурсия",
+   "date": "2026-11-14",
+   "end": null,
+   "time": "12:00",
+   "category": "Выставки и экскурсии",
+   "place": "Тверской областной дом народного творчества",
+   "price": "150 ₽",
+   "url": "https://tver.kassir.ru/ekskursii/detstvo-opalyonnoe-voynoy-sbornaya-ekskursiya",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "2e35c94547",
@@ -1320,7 +1299,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Пролетарка",
-   "price": "5000 ₽",
+   "price": "4500 ₽",
    "url": "https://tver.kassir.ru/koncert/aleksandr-panayotov-17",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1374,9 +1353,111 @@
    "place": "ДК «Пролетарка»",
    "price": "от 2000 ₽",
    "url": "https://www.koncerttver.ru/afisha/aleksandr-panayotov/",
-   "also": [
-    "https://dkproletarka.ru/afisha/aleksandr-panayotov/"
-   ],
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "6af691026c",
+   "title": "Концерт Александра Панайотова",
+   "date": "2026-11-14",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/aleksandr-panayotov/",
+   "also": [],
+   "source": "dkproletarka.ru"
+  },
+  {
+   "id": "3e4e65260a",
+   "title": "Жили-были гуси",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1481",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "70bb4b976e",
+   "title": "Капризная принцесса",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "14:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1195",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "48c8eb63d4",
+   "title": "Обыкновенное чудо",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "17:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2545",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "ad3056f571",
+   "title": "Султан Лагучев",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "17:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Металлист",
+   "price": "3500 ₽",
+   "url": "https://tver.kassir.ru/koncert/sultan-laguchev-38",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "2991544875",
+   "title": "Номер 13 (Беспорядок)",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "18:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1183",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "81feb3c379",
+   "title": "Истории твоего города: Стендап шоу",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "Harat’s Pub",
+   "price": "1000 ₽",
+   "url": "https://tver.kassir.ru/koncert/istorii-tvoego-goroda-stendap-shou",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "d7e49c5411",
+   "title": "Султан Лагучев",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "20:00",
+   "category": "Прочее",
+   "place": "ДК \"Металлист\"",
+   "price": "от 2500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/sultan-laguchev-2026/",
+   "also": [],
    "source": "koncerttver.ru"
   }
  ]
