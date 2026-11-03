@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T19:29:03+03:00",
+ "generated_at": "2026-11-03T17:34:19+03:00",
  "window": {
-  "start": "2026-11-02",
-  "end": "2026-11-15"
+  "start": "2026-11-03",
+  "end": "2026-11-16"
  },
  "categories": [
   "Театр",
@@ -18,58 +18,6 @@
  ],
  "failed_sources": [],
  "events": [
-  {
-   "id": "94411be77f",
-   "title": "Никогда не поздно",
-   "date": "2026-11-02",
-   "end": null,
-   "time": "16:00",
-   "category": "Выставки и экскурсии",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261102/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "02f28fef82",
-   "title": "Настольный теннис (для всех желающих)",
-   "date": "2026-11-02",
-   "end": null,
-   "time": "20:00",
-   "category": "Прочее",
-   "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "250 ₽",
-   "url": "https://tver.kassir.ru/sport/nastolnyiy-tennis-dlya-vseh-jelayuschih",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "f3efa18723",
-   "title": "Гелий Коржев. Свет и тень",
-   "date": "2026-10-16",
-   "end": "2026-11-15",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Тверской императорский дворец, ул. Советская, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-35652362_18078",
-   "also": [],
-   "source": "tvergallery"
-  },
-  {
-   "id": "ce75c2775a",
-   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-03",
-   "end": null,
-   "time": "09:00",
-   "category": "Выставки и экскурсии",
-   "place": "Мемориальный комплекс \"Медное\"",
-   "price": "550 ₽",
-   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
   {
    "id": "5096849182",
    "title": "Во имя тебя, Родина! Выставка",
@@ -109,6 +57,19 @@
    "also": [
     "https://tver.kassir.ru/teatr/vladimir-kuklachyov"
    ],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "c1ab93b2b0",
+   "title": "Настольный теннис (для всех желающих)",
+   "date": "2026-11-03",
+   "end": null,
+   "time": "18:00",
+   "category": "Прочее",
+   "place": "Спорткомплекс \"Юбилейный\"",
+   "price": "250 ₽",
+   "url": "https://tver.kassir.ru/sport/nastolnyiy-tennis-dlya-vseh-jelayuschih",
+   "also": [],
    "source": "tver.kassir.ru"
   },
   {
@@ -164,6 +125,32 @@
    "url": "https://quicktickets.ru/tver-tuz/s2525",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "f3efa18723",
+   "title": "Гелий Коржев. Свет и тень",
+   "date": "2026-10-16",
+   "end": "2026-11-15",
+   "time": null,
+   "category": "Выставки и экскурсии",
+   "place": "Тверской императорский дворец, ул. Советская, 3",
+   "price": null,
+   "url": "https://vk.ru/wall-35652362_18078",
+   "also": [],
+   "source": "tvergallery"
+  },
+  {
+   "id": "863ed795cf",
+   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
+   "date": "2026-11-04",
+   "end": null,
+   "time": "09:00",
+   "category": "Выставки и экскурсии",
+   "place": "Мемориальный комплекс \"Медное\"",
+   "price": "550 ₽",
+   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "6828bede56",
@@ -322,6 +309,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "9b866d32ad",
+   "title": "Трезвость от сотворения мира до нашего времени",
+   "date": "2026-11-06",
+   "end": null,
+   "time": "18:30",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Славянский зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261106-1/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "64224c4786",
    "title": "За закрытыми дверями",
    "date": "2026-11-06",
@@ -441,6 +441,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "dbf8dddc4d",
+   "title": "«Тверские перекрестки»",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "13:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Славянский зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261107-2/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "b62cf11e7d",
    "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
    "date": "2026-11-07",
@@ -491,6 +504,19 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "8a4ad48dd1",
+   "title": "Между пунктами К и Т",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "16:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Славянский зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261107-1/",
+   "also": [],
+   "source": "tverlib.ru"
   },
   {
    "id": "4655819e17",
@@ -569,19 +595,6 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
-  },
-  {
-   "id": "47c028edbb",
-   "title": "Массовое катание",
-   "date": "2026-11-07",
-   "end": null,
-   "time": "18:00",
-   "category": "Прочее",
-   "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "250 ₽",
-   "url": "https://tver.kassir.ru/sport/massovoe-katanie-1",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "f269ec397f",
@@ -762,7 +775,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "3000 ₽",
+   "price": "2800 ₽",
    "url": "https://tver.kassir.ru/koncert/pavel-volya",
    "also": [
     "https://tver.kassir.ru/koncert/pavel-volya#5866751"
@@ -1305,19 +1318,6 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "58a4957536",
-   "title": "Биртман",
-   "date": "2026-11-14",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "Клуб Биг Бен",
-   "price": "2600 ₽",
-   "url": "https://tver.kassir.ru/koncert/birtman",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
    "id": "9ca0ddd8f7",
    "title": "Шоу под дождём 4 «Мужчина и Женщина»",
    "date": "2026-11-14",
@@ -1383,6 +1383,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "ee5041e99e",
+   "title": "Готовим поздравление ко Дню Рождения Деда Мороза!",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "14:00",
+   "category": "Прочее",
+   "place": "МБУ ДЦ \"Мир\"",
+   "price": "300 ₽",
+   "url": "https://www.koncerttver.ru/afisha/gotovim-pozdravlenie-ko-dnyu-rozhdeniya-deda-moroza/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
    "id": "70bb4b976e",
    "title": "Капризная принцесса",
    "date": "2026-11-15",
@@ -1394,6 +1407,19 @@
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1195",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "e61bf1fa25",
+   "title": "«Музыкальная гостиная»",
+   "date": "2026-11-15",
+   "end": null,
+   "time": "16:00",
+   "category": "Театр",
+   "place": "Библиотека Горького, Актовый зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261115/",
+   "also": [],
+   "source": "tverlib.ru"
   },
   {
    "id": "48c8eb63d4",
@@ -1459,6 +1485,58 @@
    "url": "https://www.koncerttver.ru/afisha/sultan-laguchev-2026/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "7857af4a06",
+   "title": "Сергей Орлов. StandUp",
+   "date": "2026-11-16",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Металлист",
+   "price": "5000 ₽",
+   "url": "https://tver.kassir.ru/koncert/sergey-orlov-40",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "527d53a9cc",
+   "title": "Группа Нэнси",
+   "date": "2026-11-16",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ЦОИ Калининской АЭС г. Удомля",
+   "price": "от 1800 ₽",
+   "url": "https://www.koncerttver.ru/afisha/gruppa-nensi-2027/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "c551f73af2",
+   "title": "Сергей Орлов с новой программой Звезда в Твери",
+   "date": "2026-11-16",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК \"Металлист\"",
+   "price": "от 3000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/sergey-orlov-zvezda-v-tveri/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "04c290a64c",
+   "title": "Музыкальная гостиная «Два кусочЕка колбаски на белом холодном окне»",
+   "date": "2026-11-16",
+   "end": null,
+   "time": null,
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/muzykalnaya-gostinaya-dva-kusocheka-kolbaski-na-belom-kholodnom-okne/",
+   "also": [],
+   "source": "dkproletarka.ru"
   }
  ]
 }
