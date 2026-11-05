@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T17:48:37+03:00",
+ "generated_at": "2026-11-05T17:53:52+03:00",
  "window": {
-  "start": "2026-11-04",
-  "end": "2026-11-17"
+  "start": "2026-11-05",
+  "end": "2026-11-18"
  },
  "categories": [
   "Театр",
@@ -19,9 +19,9 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "2028bd7230",
+   "id": "d3d3f8ddf5",
    "title": "Во имя тебя, Родина! Выставка",
-   "date": "2026-11-04",
+   "date": "2026-11-05",
    "end": null,
    "time": "10:00",
    "category": "Выставки и экскурсии",
@@ -32,9 +32,9 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "6828bede56",
+   "id": "41c48d432b",
    "title": "Физика, которая удивляет",
-   "date": "2026-11-04",
+   "date": "2026-11-05",
    "end": null,
    "time": "10:00",
    "category": "Детям",
@@ -45,48 +45,9 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "f57c38f14a",
-   "title": "Красная Шапочка",
-   "date": "2026-11-04",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1470",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "e55db53c53",
-   "title": "Тверь-Политех — Нефтехимик",
-   "date": "2026-11-04",
-   "end": null,
-   "time": "17:45",
-   "category": "Прочее",
-   "place": "Арена БК «Тверь», Маршала Конева, 12",
-   "price": null,
-   "url": "https://vk.ru/wall-164426939_36437",
-   "also": [],
-   "source": "club164426939"
-  },
-  {
-   "id": "713903c041",
-   "title": "Кофе и еда — Виктор Кузнецов",
-   "date": "2026-11-04",
-   "end": null,
-   "time": "18:00",
-   "category": "Лекции и встречи",
-   "place": "Тверь",
-   "price": "2300 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
-  },
-  {
-   "id": "25ccf93778",
+   "id": "a4eab2d65c",
    "title": "Настольный теннис (для всех желающих)",
-   "date": "2026-11-04",
+   "date": "2026-11-05",
    "end": null,
    "time": "18:00",
    "category": "Прочее",
@@ -97,28 +58,15 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "0bff412319",
-   "title": "Вишнёвый сад",
-   "date": "2026-11-04",
+   "id": "fbb9da4528",
+   "title": "Забудем об этом",
+   "date": "2026-11-05",
    "end": null,
-   "time": "18:30",
+   "time": "19:00",
    "category": "Театр",
    "place": "Тверской академический театр драмы",
    "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1177",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "826bb416af",
-   "title": "Огни. Фонари, или Ночь в закулисье",
-   "date": "2026-11-04",
-   "end": null,
-   "time": "20:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1472",
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1185",
    "also": [],
    "source": "teatr-afisha"
   },
@@ -136,9 +84,9 @@
    "source": "tvergallery"
   },
   {
-   "id": "cb807ca12a",
+   "id": "7ffc685f9d",
    "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-05",
+   "date": "2026-11-06",
    "end": null,
    "time": "09:00",
    "category": "Выставки и экскурсии",
@@ -147,32 +95,6 @@
    "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
    "also": [],
    "source": "tver.kassir.ru"
-  },
-  {
-   "id": "866db928c2",
-   "title": "Час актерского мастерства: тренинг по пластике и сценической речи",
-   "date": "2026-11-05",
-   "end": null,
-   "time": "13:00",
-   "category": "Детям",
-   "place": "Калашниковский дом культуры, Филиал МБУК ЦКиД",
-   "price": "100 ₽",
-   "url": "https://tver.kassir.ru/detyam/chas-akterskogo-masterstva-trening-po-plastike-i-stsenicheskoy-rechi",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "fbb9da4528",
-   "title": "Забудем об этом",
-   "date": "2026-11-05",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1185",
-   "also": [],
-   "source": "teatr-afisha"
   },
   {
    "id": "3e42e9b133",
@@ -680,7 +602,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "3000 ₽",
+   "price": "3200 ₽",
    "url": "https://tver.kassir.ru/koncert/pavel-volya",
    "also": [
     "https://tver.kassir.ru/koncert/pavel-volya#5866751"
@@ -825,7 +747,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Пролетарка",
-   "price": "2500 ₽",
+   "price": "3000 ₽",
    "url": "https://tver.kassir.ru/koncert/slava",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1204,7 +1126,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Пролетарка",
-   "price": "4500 ₽",
+   "price": "5300 ₽",
    "url": "https://tver.kassir.ru/koncert/aleksandr-panayotov-17",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1386,7 +1308,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Металлист",
-   "price": "4000 ₽",
+   "price": "4500 ₽",
    "url": "https://tver.kassir.ru/koncert/sergey-orlov-40",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1457,6 +1379,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "55c7d1cc94",
+   "title": "Час актерского мастерства: тренинг по пластике и сценической речи",
+   "date": "2026-11-17",
+   "end": null,
+   "time": "12:00",
+   "category": "Детям",
+   "place": "Калашниковский дом культуры, Филиал МБУК ЦКиД",
+   "price": "100 ₽",
+   "url": "https://tver.kassir.ru/detyam/chas-akterskogo-masterstva-trening-po-plastike-i-stsenicheskoy-rechi",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "fc84858da3",
    "title": "Волшебство из бусин. Мастер-класс",
    "date": "2026-11-17",
@@ -1518,6 +1453,149 @@
    "place": "ДК «Пролетарка»",
    "price": null,
    "url": "https://dkproletarka.ru/afisha/proletarskiy-kvartirnik-dima-krasotkin1/",
+   "also": [],
+   "source": "dkproletarka.ru"
+  },
+  {
+   "id": "dcc8eff031",
+   "title": "Экология. Образование. Бизнес - 2026",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "09:00",
+   "category": "Выставки и экскурсии",
+   "place": "Библиотека Горького, -15.00 Большой зал Славянский зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261118-1/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
+   "id": "33f3484bfb",
+   "title": "Волшебная лампа Аладдина",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1530",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "f7aa3157b6",
+   "title": "Роспись по дереву",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "14:00",
+   "category": "Прочее",
+   "place": "Центр культуры и досуга",
+   "price": "200 ₽",
+   "url": "https://tver.kassir.ru/obrazovanie/rospis-po-derevu",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "ad04f9e3c2",
+   "title": "Человек есть тайна в рамках проекта Доступно о классиках",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "14:00",
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": "250 ₽",
+   "url": "https://www.koncerttver.ru/afisha/chelovek-est-tayna-v-ramkakh-proekta-dostupno-o-klassikakh/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "e1a18b35d8",
+   "title": "Север в лицах, звуках, красках",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "16:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Зал искусств",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261118/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
+   "id": "2c15a42dfb",
+   "title": "Тверь-Политех — Химки-2",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "18:45",
+   "category": "Прочее",
+   "place": "Арена БК «Тверь», Маршала Конева, 12",
+   "price": null,
+   "url": "https://vk.ru/wall-164426939_36437",
+   "also": [],
+   "source": "club164426939"
+  },
+  {
+   "id": "864c04d195",
+   "title": "Нежное сердце",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1192",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "a7369b74bc",
+   "title": "Песни из кино",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "Тверь",
+   "price": "1700 ₽",
+   "url": "https://lectory2.ru/",
+   "also": [],
+   "source": "lectory2.ru"
+  },
+  {
+   "id": "d2a59e341f",
+   "title": "Татьяна Буланова",
+   "date": "2026-11-18",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/tatyana-bulanova/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "37937444e8",
+   "title": "«Доступно о классиках». Встреча с миром Ф.М. Достоевского: «Человек есть тайна»",
+   "date": "2026-11-18",
+   "end": null,
+   "time": null,
+   "category": "Лекции и встречи",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/dostupno-o-klassikakh-vstrecha-s-mirom-f-m-dostoevskogo-chelovek-est-tayna/",
+   "also": [],
+   "source": "dkproletarka.ru"
+  },
+  {
+   "id": "cf9ed8e1df",
+   "title": "Концерт Татьяны Булановой",
+   "date": "2026-11-18",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/tatyana-bulanova26/",
    "also": [],
    "source": "dkproletarka.ru"
   }
