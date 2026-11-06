@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T17:53:52+03:00",
+ "generated_at": "2026-11-06T17:30:43+03:00",
  "window": {
-  "start": "2026-11-05",
-  "end": "2026-11-18"
+  "start": "2026-11-06",
+  "end": "2026-11-19"
  },
  "categories": [
   "Театр",
@@ -19,9 +19,9 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "d3d3f8ddf5",
+   "id": "33109b8d07",
    "title": "Во имя тебя, Родина! Выставка",
-   "date": "2026-11-05",
+   "date": "2026-11-06",
    "end": null,
    "time": "10:00",
    "category": "Выставки и экскурсии",
@@ -32,67 +32,15 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "41c48d432b",
+   "id": "0ce67df0af",
    "title": "Физика, которая удивляет",
-   "date": "2026-11-05",
+   "date": "2026-11-06",
    "end": null,
    "time": "10:00",
    "category": "Детям",
    "place": "Эксперимент Лэнд",
    "price": "500 ₽",
    "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "a4eab2d65c",
-   "title": "Настольный теннис (для всех желающих)",
-   "date": "2026-11-05",
-   "end": null,
-   "time": "18:00",
-   "category": "Прочее",
-   "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "250 ₽",
-   "url": "https://tver.kassir.ru/sport/nastolnyiy-tennis-dlya-vseh-jelayuschih",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "fbb9da4528",
-   "title": "Забудем об этом",
-   "date": "2026-11-05",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1185",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "f3efa18723",
-   "title": "Гелий Коржев. Свет и тень",
-   "date": "2026-10-16",
-   "end": "2026-11-15",
-   "time": null,
-   "category": "Выставки и экскурсии",
-   "place": "Тверской императорский дворец, ул. Советская, 3",
-   "price": null,
-   "url": "https://vk.ru/wall-35652362_18078",
-   "also": [],
-   "source": "tvergallery"
-  },
-  {
-   "id": "7ffc685f9d",
-   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "09:00",
-   "category": "Выставки и экскурсии",
-   "place": "Мемориальный комплекс \"Медное\"",
-   "price": "550 ₽",
-   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
    "also": [],
    "source": "tver.kassir.ru"
   },
@@ -214,6 +162,19 @@
    "url": "https://www.koncerttver.ru/afisha/shanson-parad/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "68f5779fca",
+   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "09:00",
+   "category": "Выставки и экскурсии",
+   "place": "Мемориальный комплекс \"Медное\"",
+   "price": "550 ₽",
+   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "b9aa751654",
@@ -385,19 +346,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "d28a013978",
-   "title": "Тверь-Политех — ТСК-Урал-УрГУПС",
-   "date": "2026-11-07",
-   "end": null,
-   "time": "17:00",
-   "category": "Прочее",
-   "place": "Арена БК «Тверь», Маршала Конева, 12",
-   "price": null,
-   "url": "https://vk.ru/wall-164426939_36437",
-   "also": [],
-   "source": "club164426939"
-  },
-  {
    "id": "1cb4923b02",
    "title": "Девчата",
    "date": "2026-11-07",
@@ -448,6 +396,19 @@
    "url": "https://www.koncerttver.ru/afisha/konstantin-raykin-monospektakl-samoe-lyubimoe/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "38cda3e7f8",
+   "title": "Цирк мыльных иллюзий",
+   "date": "2026-11-08",
+   "end": null,
+   "time": "11:00",
+   "category": "Прочее",
+   "place": "ДК Металлист",
+   "price": "600 ₽",
+   "url": "https://tver.kassir.ru/shou/tsirk-myilnyih-illyuziy",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "e5ca6bd5cc",
@@ -528,19 +489,6 @@
    "source": "teatr-afisha"
   },
   {
-   "id": "4070f2af98",
-   "title": "Тверь-Политех — ТСК-Урал-УрГУПС",
-   "date": "2026-11-08",
-   "end": null,
-   "time": "16:45",
-   "category": "Прочее",
-   "place": "Арена БК «Тверь», Маршала Конева, 12",
-   "price": null,
-   "url": "https://vk.ru/wall-164426939_36437",
-   "also": [],
-   "source": "club164426939"
-  },
-  {
    "id": "d45e26564d",
    "title": "Лисьи огни",
    "date": "2026-11-08",
@@ -589,9 +537,7 @@
    "place": "Тверской академический театр драмы",
    "price": null,
    "url": "https://quicktickets.ru/tver-teatr-dramy/s1180",
-   "also": [
-    "https://tverlife.ru/sobytija/tverskoj-figaro-pereigraet-znatnuju-sudbu-v-zhenitbe-figaro/"
-   ],
+   "also": [],
    "source": "teatr-afisha"
   },
   {
@@ -747,7 +693,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Пролетарка",
-   "price": "3000 ₽",
+   "price": "5500 ₽",
    "url": "https://tver.kassir.ru/koncert/slava",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1080,6 +1026,32 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "6da76c8e0c",
+   "title": "Читаем и обсуждаем рассказ А. П. Чехова",
+   "date": "2026-11-14",
+   "end": null,
+   "time": "14:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Отдел патентно-технической и экологической информации",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261114-1/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
+   "id": "c3dfdd3d63",
+   "title": "Презентация книги Джеймса Джойса «Ирландия на скамье подсудимых»",
+   "date": "2026-11-14",
+   "end": null,
+   "time": "16:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Славянский зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261114/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "9690b5459b",
    "title": "Шоу под дождём",
    "date": "2026-11-14",
@@ -1405,32 +1377,6 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "da39f06bfb",
-   "title": "Мировые Рок-Хиты на виолончелях. Renaissance Cellos",
-   "date": "2026-11-17",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "МУК Городской Дом культуры г. Ржева",
-   "price": "2000 ₽",
-   "url": "https://tver.kassir.ru/koncert/renaissance-cellos-mirovyie-rok-hityi-na-violonchelyah-9",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "77d277bfe3",
-   "title": "Тверь-Политех — Химки-2",
-   "date": "2026-11-17",
-   "end": null,
-   "time": "19:00",
-   "category": "Прочее",
-   "place": "Арена БК «Тверь», Маршала Конева, 12",
-   "price": null,
-   "url": "https://vk.ru/wall-164426939_36437",
-   "also": [],
-   "source": "club164426939"
-  },
-  {
    "id": "c79ebed11f",
    "title": "Сергей Орлов с новой программой Звезда в Твери Дополнительный концерт",
    "date": "2026-11-17",
@@ -1522,19 +1468,6 @@
    "source": "tverlib.ru"
   },
   {
-   "id": "2c15a42dfb",
-   "title": "Тверь-Политех — Химки-2",
-   "date": "2026-11-18",
-   "end": null,
-   "time": "18:45",
-   "category": "Прочее",
-   "place": "Арена БК «Тверь», Маршала Конева, 12",
-   "price": null,
-   "url": "https://vk.ru/wall-164426939_36437",
-   "also": [],
-   "source": "club164426939"
-  },
-  {
    "id": "864c04d195",
    "title": "Нежное сердце",
    "date": "2026-11-18",
@@ -1598,6 +1531,45 @@
    "url": "https://dkproletarka.ru/afisha/tatyana-bulanova26/",
    "also": [],
    "source": "dkproletarka.ru"
+  },
+  {
+   "id": "c94ea51135",
+   "title": "Айболит и Бармалей",
+   "date": "2026-11-19",
+   "end": null,
+   "time": "11:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1440",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "27fcbb6779",
+   "title": "Иконы тверского мастера Семена Гурьева-Глазковского в церкви Белая Троица в Твери",
+   "date": "2026-11-19",
+   "end": null,
+   "time": "17:30",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Зал искусств",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261119/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
+   "id": "9c7217ce97",
+   "title": "Как жить и растить детей в эпоху нестабильности — Катерина Мурашова",
+   "date": "2026-11-19",
+   "end": null,
+   "time": "19:00",
+   "category": "Лекции и встречи",
+   "place": "Тверь",
+   "price": "1300 ₽",
+   "url": "https://lectory2.ru/",
+   "also": [],
+   "source": "lectory2.ru"
   }
  ]
 }
