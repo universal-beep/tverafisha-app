@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T17:30:43+03:00",
+ "generated_at": "2026-11-07T16:26:43+03:00",
  "window": {
-  "start": "2026-11-06",
-  "end": "2026-11-19"
+  "start": "2026-11-07",
+  "end": "2026-11-20"
  },
  "categories": [
   "Театр",
@@ -19,151 +19,6 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "33109b8d07",
-   "title": "Во имя тебя, Родина! Выставка",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "10:00",
-   "category": "Выставки и экскурсии",
-   "place": "Тверской областной дом народного творчества",
-   "price": "бесплатно",
-   "url": "https://tver.kassir.ru/muzey/vo-imya-tebya-rodina-vyistavka",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "0ce67df0af",
-   "title": "Физика, которая удивляет",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "10:00",
-   "category": "Детям",
-   "place": "Эксперимент Лэнд",
-   "price": "500 ₽",
-   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "3e42e9b133",
-   "title": "Борис Михайлов «Продолжение»",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "17:30",
-   "category": "Выставки и экскурсии",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261106/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "645946da2b",
-   "title": "Посадить дерево",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "18:30",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2552",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "e9a748b02d",
-   "title": "Старший сын",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "18:30",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1178",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "9b866d32ad",
-   "title": "Трезвость от сотворения мира до нашего времени",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "18:30",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Славянский зал",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261106-1/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "64224c4786",
-   "title": "За закрытыми дверями",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Театр Премьер",
-   "price": null,
-   "url": "https://vk.com/wall-17112343_5992",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "70aed02a14",
-   "title": "Скамейка",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1189",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "86387710a7",
-   "title": "Фильм «Меня пожирает собственная кровать»",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "19:00",
-   "category": "Кино",
-   "place": "Рельсы",
-   "price": "450 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "d8128db9c0",
-   "title": "Вальмон. Опасные связи",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "22:00",
-   "category": "Театр",
-   "place": "Тверской Академический театр драмы",
-   "price": "от 1500 ₽",
-   "url": "https://www.koncerttver.ru/afisha/valmon-opasnye-svyazi/",
-   "also": [
-    "https://dkproletarka.ru/afisha/myuzikl-valmon-opasnye-svyazi26/"
-   ],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "9655f3bced",
-   "title": "Шансон Парад",
-   "date": "2026-11-06",
-   "end": null,
-   "time": "22:00",
-   "category": "Прочее",
-   "place": "ДК \"Металлист\"",
-   "price": "от 1500 ₽",
-   "url": "https://www.koncerttver.ru/afisha/shanson-parad/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
    "id": "68f5779fca",
    "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
    "date": "2026-11-07",
@@ -173,6 +28,19 @@
    "place": "Мемориальный комплекс \"Медное\"",
    "price": "550 ₽",
    "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "6c292b0a57",
+   "title": "Во имя тебя, Родина! Выставка",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "10:00",
+   "category": "Выставки и экскурсии",
+   "place": "Тверской областной дом народного творчества",
+   "price": "бесплатно",
+   "url": "https://tver.kassir.ru/muzey/vo-imya-tebya-rodina-vyistavka",
    "also": [],
    "source": "tver.kassir.ru"
   },
@@ -190,6 +58,19 @@
    "source": "therails.cc"
   },
   {
+   "id": "2f740f8a08",
+   "title": "Физика, которая удивляет",
+   "date": "2026-11-07",
+   "end": null,
+   "time": "10:00",
+   "category": "Детям",
+   "place": "Эксперимент Лэнд",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "fc0d8d6b6b",
    "title": "Дюймовочка",
    "date": "2026-11-07",
@@ -201,19 +82,6 @@
    "url": "https://quicktickets.ru/tver-teatr-kukol/s1476",
    "also": [],
    "source": "teatr-afisha"
-  },
-  {
-   "id": "79f3bf5441",
-   "title": "Арт-завтрак. Социалистическое искусство — Анастасия Каменская",
-   "date": "2026-11-07",
-   "end": null,
-   "time": "12:00",
-   "category": "Лекции и встречи",
-   "place": "Тверь",
-   "price": "1700 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
   },
   {
    "id": "0c364ada3b",
@@ -305,19 +173,6 @@
    "url": "https://tverlib.ru/ru/event/2026/20261107-1/",
    "also": [],
    "source": "tverlib.ru"
-  },
-  {
-   "id": "4655819e17",
-   "title": "На закате: Мастер-класс по живописи",
-   "date": "2026-11-07",
-   "end": null,
-   "time": "16:00",
-   "category": "Детям",
-   "place": "Лихославльская детская школа искусств",
-   "price": "950 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/na-zakate-master-klass-po-jivopisi",
-   "also": [],
-   "source": "tver.kassir.ru"
   },
   {
    "id": "cfccd70de7",
@@ -1570,6 +1425,123 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "36e42b2416",
+   "title": "Приключения домовёнка Кузи. Спектакль",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "18:00",
+   "category": "Театр",
+   "place": "Центр культуры и досуга",
+   "price": "бесплатно",
+   "url": "https://tver.kassir.ru/teatr/priklyucheniya-domovyonka-kuzi-spektakl",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "710a5522c2",
+   "title": "Евгений Маргулис",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Пролетарка",
+   "price": "2700 ₽",
+   "url": "https://tver.kassir.ru/koncert/evgeniy-margulis",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "e473876147",
+   "title": "Илья Поляков — «SOLO CODA». Концерт пианиста со связанными руками",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "Рельсы",
+   "price": "1400 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
+  },
+  {
+   "id": "046cf451c3",
+   "title": "Моя первая любовь",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Тверской театр кукол",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-kukol/s1531",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "3762c967d8",
+   "title": "Спящая красавица",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Театр Премьер",
+   "price": null,
+   "url": "https://vk.com/wall-17112343_5992",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "8facfa6d7a",
+   "title": "Plazma",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "20:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Металлист",
+   "price": "3000 ₽",
+   "url": "https://tver.kassir.ru/koncert/plazma-11",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "8a987428da",
+   "title": "Евгений Маргулис",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2700 ₽",
+   "url": "https://www.koncerttver.ru/afisha/evgeniy-margulis/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "842228957a",
+   "title": "Группа PLAZMA",
+   "date": "2026-11-20",
+   "end": null,
+   "time": "23:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1449 ₽",
+   "url": "https://www.koncerttver.ru/afisha/gruppa-plazma/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "c9abd15bd4",
+   "title": "Концерт Евгения Маргулиса",
+   "date": "2026-11-20",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/evgeniy-margulis26/",
+   "also": [],
+   "source": "dkproletarka.ru"
   }
  ]
 }
