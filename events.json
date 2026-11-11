@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T18:09:56+03:00",
+ "generated_at": "2026-11-11T17:40:04+03:00",
  "window": {
-  "start": "2026-11-10",
-  "end": "2026-11-23"
+  "start": "2026-11-11",
+  "end": "2026-11-24"
  },
  "categories": [
   "Театр",
@@ -18,71 +18,6 @@
  ],
  "failed_sources": [],
  "events": [
-  {
-   "id": "b62cf11e7d",
-   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
-   "date": "2026-11-07",
-   "end": "2026-11-28",
-   "time": "13:00",
-   "category": "Выставки и экскурсии",
-   "place": "Рельсы",
-   "price": "950 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "ec1988940b",
-   "title": "Лисьи огни",
-   "date": "2026-11-10",
-   "end": null,
-   "time": "14:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2537",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "3711439fea",
-   "title": "Композиционное мышление Исаака Левитана",
-   "date": "2026-11-10",
-   "end": null,
-   "time": "17:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Зал искусств",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261110/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "03b2c5982c",
-   "title": "Нежное сердце",
-   "date": "2026-11-10",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1191",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "0b2d942ae6",
-   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "09:00",
-   "category": "Выставки и экскурсии",
-   "place": "Мемориальный комплекс \"Медное\"",
-   "price": "550 ₽",
-   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
   {
    "id": "f0b3f55c66",
    "title": "Во имя тебя, Родина! Выставка",
@@ -149,6 +84,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "b62cf11e7d",
+   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
+   "date": "2026-11-07",
+   "end": "2026-11-28",
+   "time": "13:00",
+   "category": "Выставки и экскурсии",
+   "place": "Рельсы",
+   "price": "950 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
+  },
+  {
    "id": "fb2cd249f0",
    "title": "Гостиная для строк",
    "date": "2026-11-11",
@@ -195,7 +143,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Пролетарка",
-   "price": "5500 ₽",
+   "price": "6000 ₽",
    "url": "https://tver.kassir.ru/koncert/slava",
    "also": [],
    "source": "tver.kassir.ru"
@@ -238,6 +186,19 @@
    "url": "https://dkproletarka.ru/afisha/slava26/",
    "also": [],
    "source": "dkproletarka.ru"
+  },
+  {
+   "id": "1cceee6770",
+   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
+   "date": "2026-11-12",
+   "end": null,
+   "time": "09:00",
+   "category": "Выставки и экскурсии",
+   "place": "Мемориальный комплекс \"Медное\"",
+   "price": "550 ₽",
+   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "21f803e0cf",
@@ -394,6 +355,19 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "bd0f24dd32",
+   "title": "Массовое катание",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "18:30",
+   "category": "Прочее",
+   "place": "Спорткомплекс \"Юбилейный\"",
+   "price": "250 ₽",
+   "url": "https://tver.kassir.ru/sport/massovoe-katanie-1",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "26965ed278",
@@ -1466,6 +1440,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "c83f8cbffc",
+   "title": "Испанское шоу мыльных пузырей: Клинк!",
+   "date": "2026-11-22",
+   "end": null,
+   "time": "12:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Металлист",
+   "price": "1200 ₽",
+   "url": "https://tver.kassir.ru/shou/ispanskoe-shou-myilnyih-puzyirey-klink",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "c458823331",
    "title": "Стратегия жизни: как собрать себя из пяти векторов",
    "date": "2026-11-22",
@@ -1538,7 +1525,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "3300 ₽",
+   "price": "3000 ₽",
    "url": "https://tver.kassir.ru/koncert/komnata-kulturyi-30",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1555,6 +1542,125 @@
    "url": "https://www.koncerttver.ru/afisha/komnata-kultury/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "458c2f7e21",
+   "title": "Чёрная курица",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "12:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2548",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "59b5322d99",
+   "title": "Городецкая роспись. Мастер-класс",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "16:00",
+   "category": "Мастер-классы",
+   "place": "Сосновицкий дом культуры",
+   "price": "100 ₽",
+   "url": "https://tver.kassir.ru/obrazovanie/gorodetskaya-rospis-master-klass",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "dc88fa8c8d",
+   "title": "Владимир Захаров и \"Рок-Острова\"",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Пролетарка",
+   "price": "2000 ₽",
+   "url": "https://tver.kassir.ru/koncert/rok-ostrova-17",
+   "also": [
+    "https://tver.kassir.ru/koncert/rok-ostrova-17#5726562"
+   ],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "cf0b415d8d",
+   "title": "Как устроено зрение — Наталья Ринская",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "19:00",
+   "category": "Лекции и встречи",
+   "place": "Тверь",
+   "price": "1300 ₽",
+   "url": "https://lectory2.ru/",
+   "also": [],
+   "source": "lectory2.ru"
+  },
+  {
+   "id": "1f8c0d8eb1",
+   "title": "Портрет",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1187",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "6e76e224fa",
+   "title": "Веселая вдова",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "21:30",
+   "category": "Театр",
+   "place": "Тверской Академический театр драмы",
+   "price": "от 1000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/operetta-veselaya-vdova/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "b5019f1e6a",
+   "title": "Владимир Захаров и Рок-Острова",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/vladimir-zakharov-i-rok-ostrova/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "4778ffad26",
+   "title": "Электрическое Воскресение",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "22:00",
+   "category": "Прочее",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/elektricheskoe-voskresenie/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "0675def8b0",
+   "title": "Юбилейный концерт Владимира Захарова и группы «Рок-Острова»",
+   "date": "2026-11-24",
+   "end": null,
+   "time": null,
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/vladimir-zakharov-i-rok-ostrova/",
+   "also": [],
+   "source": "dkproletarka.ru"
   }
  ]
 }
