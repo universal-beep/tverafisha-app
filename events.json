@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T17:40:04+03:00",
+ "generated_at": "2026-11-12T18:31:12+03:00",
  "window": {
-  "start": "2026-11-11",
-  "end": "2026-11-24"
+  "start": "2026-11-12",
+  "end": "2026-11-25"
  },
  "categories": [
   "Театр",
@@ -19,188 +19,6 @@
  "failed_sources": [],
  "events": [
   {
-   "id": "f0b3f55c66",
-   "title": "Во имя тебя, Родина! Выставка",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "10:00",
-   "category": "Выставки и экскурсии",
-   "place": "Тверской областной дом народного творчества",
-   "price": "бесплатно",
-   "url": "https://tver.kassir.ru/muzey/vo-imya-tebya-rodina-vyistavka",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "39991a793f",
-   "title": "Физика, которая удивляет",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "10:00",
-   "category": "Детям",
-   "place": "Эксперимент Лэнд",
-   "price": "500 ₽",
-   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "b58ac7b42e",
-   "title": "Все мы – Россия!",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "11:00",
-   "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Большой зал",
-   "price": null,
-   "url": "https://tverlib.ru/ru/event/2026/20261111/",
-   "also": [],
-   "source": "tverlib.ru"
-  },
-  {
-   "id": "2b8d36bdf7",
-   "title": "Приключения Буратино",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "11:00",
-   "category": "Театр",
-   "place": "Тверской театр кукол",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-kukol/s1477",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "8675eea0da",
-   "title": "Лисьи огни",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "12:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2539",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "b62cf11e7d",
-   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
-   "date": "2026-11-07",
-   "end": "2026-11-28",
-   "time": "13:00",
-   "category": "Выставки и экскурсии",
-   "place": "Рельсы",
-   "price": "950 ₽",
-   "url": "https://therails.cc/",
-   "also": [],
-   "source": "therails.cc"
-  },
-  {
-   "id": "fb2cd249f0",
-   "title": "Гостиная для строк",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Камерный театр Тверь",
-   "price": null,
-   "url": "https://tver.qtickets.events/271842-teatralizovannaya-literaturnaya-kompozitsiya-na-stikhi-klassikov-i-poetov-rassvetnaya-zvonnitsa",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "83171c7feb",
-   "title": "Женщина",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Камерный театр Тверь",
-   "price": null,
-   "url": "https://tver.qtickets.events/271842-teatralizovannaya-literaturnaya-kompozitsiya-na-stikhi-klassikov-i-poetov-rassvetnaya-zvonnitsa",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "97262a26c6",
-   "title": "Рассветная звонница",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "Камерный театр Тверь",
-   "price": null,
-   "url": "https://vk.com/wall-235332943_561",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "63c791488b",
-   "title": "Слава",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Пролетарка",
-   "price": "6000 ₽",
-   "url": "https://tver.kassir.ru/koncert/slava",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "74ffdd7423",
-   "title": "Сладкий ноябрь",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Тверь",
-   "price": "2000 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
-  },
-  {
-   "id": "73bda5d872",
-   "title": "Слава",
-   "date": "2026-11-11",
-   "end": null,
-   "time": "22:00",
-   "category": "Прочее",
-   "place": "ДК «Пролетарка»",
-   "price": "от 2000 ₽",
-   "url": "https://www.koncerttver.ru/afisha/slava-2026/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "b2b26c0516",
-   "title": "Концерт певицы Славы",
-   "date": "2026-11-11",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": null,
-   "url": "https://dkproletarka.ru/afisha/slava26/",
-   "also": [],
-   "source": "dkproletarka.ru"
-  },
-  {
-   "id": "1cceee6770",
-   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-12",
-   "end": null,
-   "time": "09:00",
-   "category": "Выставки и экскурсии",
-   "place": "Мемориальный комплекс \"Медное\"",
-   "price": "550 ₽",
-   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
    "id": "21f803e0cf",
    "title": "Искусство современной вышивки. Всероссийская выставка",
    "date": "2026-11-12",
@@ -210,6 +28,19 @@
    "place": "Тверской областной дом народного творчества",
    "price": "бесплатно",
    "url": "https://tver.kassir.ru/muzey/iskusstvo-sovremennoy-vyishivki-vserossiyskaya-vyistavka",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "e279e7950f",
+   "title": "Физика, которая удивляет",
+   "date": "2026-11-12",
+   "end": null,
+   "time": "10:00",
+   "category": "Детям",
+   "place": "Эксперимент Лэнд",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/detyam/fizika-kotoraya-udivlyaet",
    "also": [],
    "source": "tver.kassir.ru"
   },
@@ -225,6 +56,19 @@
    "url": "https://quicktickets.ru/tver-teatr-kukol/s1478",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "b62cf11e7d",
+   "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
+   "date": "2026-11-07",
+   "end": "2026-11-28",
+   "time": "13:00",
+   "category": "Выставки и экскурсии",
+   "place": "Рельсы",
+   "price": "950 ₽",
+   "url": "https://therails.cc/",
+   "also": [],
+   "source": "therails.cc"
   },
   {
    "id": "ada3d581ab",
@@ -260,7 +104,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Металлист",
-   "price": "2500 ₽",
+   "price": "2800 ₽",
    "url": "https://tver.kassir.ru/koncert/estetika-jivoy-muzyiki-orkestrovoe-shou-atmosfera",
    "also": [],
    "source": "tver.kassir.ru"
@@ -305,6 +149,32 @@
    "source": "dkproletarka.ru"
   },
   {
+   "id": "9f333d11e9",
+   "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "09:00",
+   "category": "Выставки и экскурсии",
+   "place": "Мемориальный комплекс \"Медное\"",
+   "price": "550 ₽",
+   "url": "https://tver.kassir.ru/muzey/ekskursiya-po-territorii-memorialnogo-kompleksa-mednoe",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "e84fa9438a",
+   "title": "Во имя тебя, Родина! Выставка",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "10:00",
+   "category": "Выставки и экскурсии",
+   "place": "Тверской областной дом народного творчества",
+   "price": "бесплатно",
+   "url": "https://tver.kassir.ru/muzey/vo-imya-tebya-rodina-vyistavka",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "19737d0831",
    "title": "Аленький цветочек",
    "date": "2026-11-13",
@@ -331,6 +201,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "a15f2721dd",
+   "title": "Очень счастливая пятница 13-e: Украшение глиняного кулона. Мастер-класс",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "16:00",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "600 ₽",
+   "url": "https://tver.kassir.ru/detyam/kotokafe-mur-myau/ochen-schastlivaya-pyatnitsa-13-e--ukrashenie-glinyanogo-kulona-master-klass_2026-11-13",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "05a8a9016f",
    "title": "Презентация книги Светланы Макуренковой «Пушкин и Гомер: воображенью край священный»",
    "date": "2026-11-13",
@@ -355,6 +238,32 @@
    "url": "https://therails.cc/",
    "also": [],
    "source": "therails.cc"
+  },
+  {
+   "id": "ba3155de75",
+   "title": "Очень счастливая пятница 13-e: Роспись глиняного оберега. Мастер-класс",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "17:30",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "750 ₽",
+   "url": "https://tver.kassir.ru/detyam/kotokafe-mur-myau/ochen-schastlivaya-pyatnitsa-13-e--rospis-glinyanogo-oberega-master-klass_2026-11-13",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "bf537c4ec2",
+   "title": "Очень счастливая пятница 13-e: Счастливое лото. Мастер-класс",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "18:00",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/detyam/kotokafe-mur-myau/ochen-schastlivaya-pyatnitsa-13-e--schastlivoe-loto-master-klass_2026-11-13",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "bd0f24dd32",
@@ -394,6 +303,45 @@
    "url": "https://vk.com/wall-17112343_5992",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "f814011895",
+   "title": "Группа Лёдъ",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "Клуб Биг Бен",
+   "price": "2000 ₽",
+   "url": "https://tver.kassir.ru/koncert/lyody-12",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "2b5a4f0bc6",
+   "title": "Очень счастливая пятница 13-e: Роспись свечей. Мастер-класс",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "19:00",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "600 ₽",
+   "url": "https://tver.kassir.ru/detyam/kotokafe-mur-myau/ochen-schastlivaya-pyatnitsa-13-e--rospis-svechey-master-klass_2026-11-13",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "e2e272520b",
+   "title": "Спектакль \"Боинг-Боинг\"",
+   "date": "2026-11-13",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "ДК Металлист",
+   "price": "1700 ₽",
+   "url": "https://tver.kassir.ru/teatr/spektakl-boing-boing",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "5fa62c0d90",
@@ -476,6 +424,19 @@
    "source": "therails.cc"
   },
   {
+   "id": "2100fa6b29",
+   "title": "Интерактивная экскурсия по экспозиции",
+   "date": "2026-11-14",
+   "end": null,
+   "time": "11:00",
+   "category": "Выставки и экскурсии",
+   "place": "Эксперимент Лэнд",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/ekskursii/ekskursiya-po-ekspozitsii",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "ba13f9821b",
    "title": "Машенька и Медведь",
    "date": "2026-11-14",
@@ -534,9 +495,22 @@
    "end": null,
    "time": "14:00",
    "category": "Лекции и встречи",
-   "place": "Библиотека Горького, Отдел патентно-технической и экологической информации",
+   "place": "Библиотека Горького, Деловой информационный центр",
    "price": null,
    "url": "https://tverlib.ru/ru/event/2026/20261114-1/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
+   "id": "6137657517",
+   "title": "Рекреационная физкультура",
+   "date": "2026-11-14",
+   "end": null,
+   "time": "14:30",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Отдел патентно-технической и экологической информации",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261114-2/",
    "also": [],
    "source": "tverlib.ru"
   },
@@ -600,7 +574,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Пролетарка",
-   "price": "5300 ₽",
+   "price": "4500 ₽",
    "url": "https://tver.kassir.ru/koncert/aleksandr-panayotov-17",
    "also": [],
    "source": "tver.kassir.ru"
@@ -773,6 +747,19 @@
    "url": "https://www.koncerttver.ru/afisha/sultan-laguchev-2026/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "cf0d8e0d43",
+   "title": "Суперспособности котиков. Лекция биолога и волонтера для детей",
+   "date": "2026-11-16",
+   "end": null,
+   "time": "18:00",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "450 ₽",
+   "url": "https://tver.kassir.ru/detyam/supersposobnosti-kotikov-lektsiya-biologa-i-volontera-dlya-detey",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "7857af4a06",
@@ -1048,6 +1035,19 @@
    "source": "teatr-afisha"
   },
   {
+   "id": "31e448c4ed",
+   "title": "Создание и декор свечей. Мастер-класс",
+   "date": "2026-11-19",
+   "end": null,
+   "time": "17:00",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "800 ₽",
+   "url": "https://tver.kassir.ru/detyam/sozdanie-i-dekor-svechey-master-klass",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "27fcbb6779",
    "title": "Иконы тверского мастера Семена Гурьева-Глазковского в церкви Белая Троица в Твери",
    "date": "2026-11-19",
@@ -1284,6 +1284,19 @@
    "source": "tver.kassir.ru"
   },
   {
+   "id": "95b6d94680",
+   "title": "Клуб «28 петель»",
+   "date": "2026-11-21",
+   "end": null,
+   "time": "14:00",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Отдел патентно-технической и экологической информации",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261121-2/",
+   "also": [],
+   "source": "tverlib.ru"
+  },
+  {
    "id": "a77c01728c",
    "title": "Мама – первое слово!",
    "date": "2026-11-21",
@@ -1360,6 +1373,19 @@
    "url": "https://quicktickets.ru/tver-teatr-kukol/s1533",
    "also": [],
    "source": "teatr-afisha"
+  },
+  {
+   "id": "7cc50f9a6a",
+   "title": "Ирина Дубцова",
+   "date": "2026-11-21",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Пролетарка",
+   "price": "3000 ₽",
+   "url": "https://tver.kassir.ru/koncert/irina-dubtsova",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "4cdbcaf31e",
@@ -1525,7 +1551,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "Спорткомплекс \"Юбилейный\"",
-   "price": "3000 ₽",
+   "price": "3300 ₽",
    "url": "https://tver.kassir.ru/koncert/komnata-kulturyi-30",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1542,6 +1568,19 @@
    "url": "https://www.koncerttver.ru/afisha/komnata-kultury/",
    "also": [],
    "source": "koncerttver.ru"
+  },
+  {
+   "id": "7c456df32b",
+   "title": "Гербарий в закладке. Мастер-класс",
+   "date": "2026-11-23",
+   "end": null,
+   "time": "18:00",
+   "category": "Детям",
+   "place": "Котокафе \"Мур-мяу\"",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/detyam/gerbariy-v-zakladke-master-klass",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "458c2f7e21",
@@ -1659,6 +1698,32 @@
    "place": "ДК «Пролетарка»",
    "price": null,
    "url": "https://dkproletarka.ru/afisha/vladimir-zakharov-i-rok-ostrova/",
+   "also": [],
+   "source": "dkproletarka.ru"
+  },
+  {
+   "id": "d3fdb4a7b9",
+   "title": "Гурам Амарян",
+   "date": "2026-11-25",
+   "end": null,
+   "time": "19:00",
+   "category": "Концерты и музыка",
+   "place": "ДК Металлист",
+   "price": "1800 ₽",
+   "url": "https://tver.kassir.ru/koncert/guram-amaryan-14",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "30ddf3dd10",
+   "title": "Вечер этнической музыки ансамбля «Ашель»",
+   "date": "2026-11-25",
+   "end": null,
+   "time": null,
+   "category": "Прочее",
+   "place": "ДК «Пролетарка»",
+   "price": null,
+   "url": "https://dkproletarka.ru/afisha/vecher-etnicheskoy-muzyki-/",
    "also": [],
    "source": "dkproletarka.ru"
   }
