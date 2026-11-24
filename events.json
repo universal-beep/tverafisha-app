@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T21:39:46+03:00",
+ "generated_at": "2026-11-24T21:08:25+03:00",
  "window": {
-  "start": "2026-11-23",
-  "end": "2026-12-06"
+  "start": "2026-11-24",
+  "end": "2026-12-07"
  },
  "categories": [
   "Театр",
@@ -19,6 +19,19 @@
  "failed_sources": [],
  "events": [
   {
+   "id": "458c2f7e21",
+   "title": "Чёрная курица",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "12:00",
+   "category": "Театр",
+   "place": "Тверской ТЮЗ",
+   "price": null,
+   "url": "https://quicktickets.ru/tver-tuz/s2548",
+   "also": [],
+   "source": "teatr-afisha"
+  },
+  {
    "id": "77bf0d23cd",
    "title": "«Фабричные». Иммерсивный променад по Морозовскому городку",
    "date": "2026-11-14",
@@ -32,69 +45,69 @@
    "source": "therails.cc"
   },
   {
-   "id": "cfb01c59fe",
-   "title": "Мастер-класс «Гербарий в закладке»",
-   "date": "2026-11-23",
-   "end": null,
-   "time": "18:00",
-   "category": "Мастер-классы",
-   "place": "Котокафе, ул. Симеоновская, 60",
-   "price": "500 ₽",
-   "url": "https://vk.ru/wall-83486606_119201",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
-   "id": "69437dd862",
-   "title": "Встреча-выставка этюдов «Искусство, игристое и мой День рождения»",
-   "date": "2026-11-23",
-   "end": null,
-   "time": "19:00",
-   "category": "Выставки и экскурсии",
-   "place": "Мансарда «Ролевого чердака», Смоленский пер., 25/55",
-   "price": "вход свободный, по записи",
-   "url": "https://vk.ru/wall219759804_2391",
-   "also": [],
-   "source": "roleplayloft"
-  },
-  {
-   "id": "6f988f366e",
-   "title": "Концерт-трибьют ELVIS ON TOUR® (Москва)",
-   "date": "2026-11-23",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "Тверская академическая областная филармония им. С. Я. Лемешева",
-   "price": null,
-   "url": "https://vk.ru/wall-38565348_89671",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
-   "id": "5f7f593149",
-   "title": "Лекция «Не учите меня жить. Помогите материально!»",
-   "date": "2026-11-23",
+   "id": "5d4df582a1",
+   "title": "Лекция «Михаил Булгаков и его жёны. О творческой силе любви и страсти» (проект Андрея Васенёва, живая музыка)",
+   "date": "2026-11-24",
    "end": null,
    "time": "19:00",
    "category": "Лекции и встречи",
    "place": "Культурный центр «Боголюбский», ул. Шмидта, 12",
-   "price": "500 ₽ / 250 ₽ студентам",
-   "url": "https://vk.ru/wall-188259486_7970",
+   "price": null,
+   "url": "https://vk.ru/wall-188259486_7906",
    "also": [],
    "source": "bogolyubsky_cc"
   },
   {
-   "id": "cfe16f3e07",
-   "title": "Угадай мелодию",
-   "date": "2026-11-23",
+   "id": "1f8c0d8eb1",
+   "title": "Портрет",
+   "date": "2026-11-24",
    "end": null,
    "time": "19:00",
-   "category": "Прочее",
-   "place": "Ресторан «Богемия»",
+   "category": "Театр",
+   "place": "Тверской академический театр драмы",
    "price": null,
-   "url": "https://vk.ru/wall-38565348_89708",
+   "url": "https://quicktickets.ru/tver-teatr-dramy/s1187",
    "also": [],
-   "source": "spravkatver"
+   "source": "teatr-afisha"
+  },
+  {
+   "id": "6e76e224fa",
+   "title": "Веселая вдова",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "21:30",
+   "category": "Театр",
+   "place": "Тверской Академический театр драмы",
+   "price": "от 1000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/operetta-veselaya-vdova/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "b5019f1e6a",
+   "title": "Владимир Захаров и Рок-Острова",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК «Пролетарка»",
+   "price": "от 2000 ₽",
+   "url": "https://www.koncerttver.ru/afisha/vladimir-zakharov-i-rok-ostrova/",
+   "also": [],
+   "source": "koncerttver.ru"
+  },
+  {
+   "id": "4778ffad26",
+   "title": "Электрическое Воскресение",
+   "date": "2026-11-24",
+   "end": null,
+   "time": "22:00",
+   "category": "Концерты и музыка",
+   "place": "ДК \"Металлист\"",
+   "price": "от 1500 ₽",
+   "url": "https://www.koncerttver.ru/afisha/elektricheskoe-voskresenie/",
+   "also": [],
+   "source": "koncerttver.ru"
   },
   {
    "id": "95fe825e17",
@@ -165,9 +178,9 @@
    "source": "spravkatver"
   },
   {
-   "id": "1b1140633d",
+   "id": "1d0e255819",
    "title": "Настольный теннис (для всех желающих)",
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "end": null,
    "time": "09:00",
    "category": "Прочее",
@@ -178,9 +191,9 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "af7d472c14",
+   "id": "69a5b9cb08",
    "title": "Экскурсия по территории Мемориального комплекса \"Медное\"",
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "end": null,
    "time": "09:00",
    "category": "Выставки и экскурсии",
@@ -191,9 +204,9 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "1905891056",
+   "id": "2742edb48b",
    "title": "Во имя тебя, Родина! Выставка",
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "end": null,
    "time": "10:00",
    "category": "Выставки и экскурсии",
@@ -204,9 +217,9 @@
    "source": "tver.kassir.ru"
   },
   {
-   "id": "3031b54518",
+   "id": "bd2ce6eb7d",
    "title": "Искусство современной вышивки. Всероссийская выставка",
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "end": null,
    "time": "10:00",
    "category": "Выставки и экскурсии",
@@ -215,136 +228,6 @@
    "url": "https://tver.kassir.ru/muzey/iskusstvo-sovremennoy-vyishivki-vserossiyskaya-vyistavka",
    "also": [],
    "source": "tver.kassir.ru"
-  },
-  {
-   "id": "458c2f7e21",
-   "title": "Чёрная курица",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "12:00",
-   "category": "Театр",
-   "place": "Тверской ТЮЗ",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-tuz/s2548",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "59b5322d99",
-   "title": "Городецкая роспись. Мастер-класс",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "16:00",
-   "category": "Мастер-классы",
-   "place": "Сосновицкий дом культуры",
-   "price": "100 ₽",
-   "url": "https://tver.kassir.ru/obrazovanie/gorodetskaya-rospis-master-klass",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "dc88fa8c8d",
-   "title": "Владимир Захаров и \"Рок-Острова\"",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Пролетарка",
-   "price": "2500 ₽",
-   "url": "https://tver.kassir.ru/koncert/rok-ostrova-17",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "cf0b415d8d",
-   "title": "Как устроено зрение — Наталья Ринская",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Тверь",
-   "price": "1300 ₽",
-   "url": "https://lectory2.ru/",
-   "also": [],
-   "source": "lectory2.ru"
-  },
-  {
-   "id": "5d4df582a1",
-   "title": "Лекция «Михаил Булгаков и его жёны. О творческой силе любви и страсти» (проект Андрея Васенёва, живая музыка)",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "19:00",
-   "category": "Лекции и встречи",
-   "place": "Культурный центр «Боголюбский», ул. Шмидта, 12",
-   "price": null,
-   "url": "https://vk.ru/wall-188259486_7906",
-   "also": [],
-   "source": "bogolyubsky_cc"
-  },
-  {
-   "id": "1f8c0d8eb1",
-   "title": "Портрет",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "19:00",
-   "category": "Театр",
-   "place": "Тверской академический театр драмы",
-   "price": null,
-   "url": "https://quicktickets.ru/tver-teatr-dramy/s1187",
-   "also": [],
-   "source": "teatr-afisha"
-  },
-  {
-   "id": "6e76e224fa",
-   "title": "Веселая вдова",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "21:30",
-   "category": "Театр",
-   "place": "Тверской Академический театр драмы",
-   "price": "от 1000 ₽",
-   "url": "https://www.koncerttver.ru/afisha/operetta-veselaya-vdova/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "b5019f1e6a",
-   "title": "Владимир Захаров и Рок-Острова",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "22:00",
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": "от 2000 ₽",
-   "url": "https://www.koncerttver.ru/afisha/vladimir-zakharov-i-rok-ostrova/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "4778ffad26",
-   "title": "Электрическое Воскресение",
-   "date": "2026-11-24",
-   "end": null,
-   "time": "22:00",
-   "category": "Концерты и музыка",
-   "place": "ДК \"Металлист\"",
-   "price": "от 1500 ₽",
-   "url": "https://www.koncerttver.ru/afisha/elektricheskoe-voskresenie/",
-   "also": [],
-   "source": "koncerttver.ru"
-  },
-  {
-   "id": "0675def8b0",
-   "title": "Юбилейный концерт Владимира Захарова и группы «Рок-Острова»",
-   "date": "2026-11-24",
-   "end": null,
-   "time": null,
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка»",
-   "price": null,
-   "url": "https://dkproletarka.ru/afisha/vladimir-zakharov-i-rok-ostrova/",
-   "also": [],
-   "source": "dkproletarka.ru"
   },
   {
    "id": "fec258a140",
@@ -380,34 +263,8 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "Клуб Биг Бен",
-   "price": "900 ₽",
+   "price": "1200 ₽",
    "url": "https://tver.kassir.ru/koncert/uratsakidogi#5734915",
-   "also": [],
-   "source": "tver.kassir.ru"
-  },
-  {
-   "id": "612aa77af3",
-   "title": "Вечер этнической музыки «Ашель»",
-   "date": "2026-11-25",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ОДК «Пролетарка», Большой концертный зал",
-   "price": "вход свободный",
-   "url": "https://vk.ru/wall-38565348_89623",
-   "also": [],
-   "source": "spravkatver"
-  },
-  {
-   "id": "d3fdb4a7b9",
-   "title": "Гурам Амарян",
-   "date": "2026-11-25",
-   "end": null,
-   "time": "19:00",
-   "category": "Концерты и музыка",
-   "place": "ДК Металлист",
-   "price": "1800 ₽",
-   "url": "https://tver.kassir.ru/koncert/guram-amaryan-14",
    "also": [],
    "source": "tver.kassir.ru"
   },
@@ -549,7 +406,7 @@
    "time": "19:00",
    "category": "Концерты и музыка",
    "place": "ДК Металлист",
-   "price": "2100 ₽",
+   "price": "2300 ₽",
    "url": "https://tver.kassir.ru/koncert/inna-valter-15",
    "also": [
     "https://tver.kassir.ru/koncert/inna-valter-15#4527157"
@@ -832,6 +689,19 @@
    "source": "tver.kassir.ru"
   },
   {
+   "id": "02e3666c5c",
+   "title": "Московская премьера Новогодней сказки \"Двенадцать месяцев\" от режиссёра Московского театра Н. Сац В. Меркулова",
+   "date": "2026-11-28",
+   "end": null,
+   "time": "12:00",
+   "category": "Театр",
+   "place": "ДК Металлист",
+   "price": "1000 ₽",
+   "url": "https://tver.kassir.ru/teatr/dvenadtsat-mesyatsev",
+   "also": [],
+   "source": "tver.kassir.ru"
+  },
+  {
    "id": "6d0ec80e45",
    "title": "Никогда-никогда",
    "date": "2026-11-28",
@@ -1008,7 +878,7 @@
    "time": "18:00",
    "category": "Концерты и музыка",
    "place": "Киноконцертный зал Панорама",
-   "price": "2050 ₽",
+   "price": "1690 ₽",
    "url": "https://tver.kassir.ru/koncert/orkestr-aura-shou-pri-svechah-100-let-muzyiki-v-kino",
    "also": [],
    "source": "tver.kassir.ru"
@@ -1157,19 +1027,6 @@
    "source": "afisha69"
   },
   {
-   "id": "d40ca8e533",
-   "title": "Выставка-раздача бездомных животных «Пушистый эндорфин — 2026»",
-   "date": "2026-11-29",
-   "end": null,
-   "time": "12:00",
-   "category": "Фестивали и ярмарки",
-   "place": "Торговый парк N1, Октябрьский проспект, 103",
-   "price": null,
-   "url": "https://vk.ru/wall-83486606_119160",
-   "also": [],
-   "source": "afisha69"
-  },
-  {
    "id": "543d19fe22",
    "title": "Людвиг XIV и Тутта единственная",
    "date": "2026-11-29",
@@ -1276,17 +1133,17 @@
    "source": "tverlib.ru"
   },
   {
-   "id": "03457a086f",
-   "title": "Праздничный концерт «Мама милая моя», посвящённый Дню матери",
+   "id": "ad836b8438",
+   "title": "Свет сердца",
    "date": "2026-11-29",
    "end": null,
    "time": "15:00",
-   "category": "Концерты и музыка",
-   "place": "ДК «Пролетарка», большой концертный зал, пр-т Калинина, 20",
-   "price": "вход свободный",
-   "url": "https://vk.ru/wall-38565348_89635",
+   "category": "Лекции и встречи",
+   "place": "Библиотека Горького, Актовый зал",
+   "price": null,
+   "url": "https://tverlib.ru/ru/event/2026/20261129-1/",
    "also": [],
-   "source": "spravkatver"
+   "source": "tverlib.ru"
   },
   {
    "id": "a4074a56a3",
@@ -1893,17 +1750,19 @@
    "source": "tverlib.ru"
   },
   {
-   "id": "a2c549bbd5",
-   "title": "(НЕ)Идеальные заложники",
+   "id": "7a6fc6719f",
+   "title": "Идеальные заложники",
    "date": "2026-12-05",
    "end": null,
    "time": "17:00",
    "category": "Театр",
-   "place": "Театр Париж",
-   "price": null,
-   "url": "https://vk.com/wall-206028351_7674",
-   "also": [],
-   "source": "teatr-afisha"
+   "place": "ДК Химволокно",
+   "price": "500 ₽",
+   "url": "https://tver.kassir.ru/teatr/idealnyie-zalojniki",
+   "also": [
+    "https://vk.com/wall-206028351_7674"
+   ],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "4205a6c321",
@@ -1968,10 +1827,8 @@
    "category": "Концерты и музыка",
    "place": "Киноконцертный зал Панорама",
    "price": "1900 ₽",
-   "url": "https://tver.kassir.ru/koncert/orkestr-cagmo-simfoniya-linkin-park-28",
-   "also": [
-    "https://tver.kassir.ru/koncert/orkestr-cagmo-simfoniya-linkin-park-28#6277165"
-   ],
+   "url": "https://tver.kassir.ru/koncert/orkestr-cagmo-simfoniya-linkin-park-28#6277165",
+   "also": [],
    "source": "tver.kassir.ru"
   },
   {
@@ -1986,6 +1843,19 @@
    "url": "https://lectory2.ru/",
    "also": [],
    "source": "lectory2.ru"
+  },
+  {
+   "id": "a4d1a9fc93",
+   "title": "Муж моей жены",
+   "date": "2026-12-05",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "ДК Пролетарка",
+   "price": "1500 ₽",
+   "url": "https://tver.kassir.ru/teatr/muj-moey-jenyi-7",
+   "also": [],
+   "source": "tver.kassir.ru"
   },
   {
    "id": "b5bf9e7d32",
@@ -2198,6 +2068,36 @@
    "url": "https://dkproletarka.ru/afisha/simfonicheskie-khity-koleso-lyubvi-concord/",
    "also": [],
    "source": "dkproletarka.ru"
+  },
+  {
+   "id": "cdd6a501e2",
+   "title": "Щелкунчик. Балет",
+   "date": "2026-12-07",
+   "end": null,
+   "time": "19:00",
+   "category": "Театр",
+   "place": "ДК Пролетарка",
+   "price": "1400 ₽",
+   "url": "https://tver.kassir.ru/teatr/schelkunchik-balet-35",
+   "also": [
+    "https://tver.kassir.ru/teatr/schelkunchik-balet-35#3932100"
+   ],
+   "source": "tver.kassir.ru"
+  },
+  {
+   "id": "4a464f72ef",
+   "title": "Щелкунчик",
+   "date": "2026-12-07",
+   "end": null,
+   "time": "22:00",
+   "category": "Театр",
+   "place": "ДК «Пролетарка»",
+   "price": "от 1400 ₽",
+   "url": "https://www.koncerttver.ru/afisha/shchelkunchik-2026/",
+   "also": [
+    "https://dkproletarka.ru/afisha/shchelkunchik26/"
+   ],
+   "source": "koncerttver.ru"
   }
  ]
 }
